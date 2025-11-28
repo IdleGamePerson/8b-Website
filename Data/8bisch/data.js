@@ -176,7 +176,7 @@ const WORDS = [
       conlang: "[Kommen später].",
       de: "[Kommen später]",
     }, formsTable: { columns: ["", "Wort"], rows: [
-      { label: "Basisform", cells: ["akɛ"] },
+      { label: "Positiv", cells: ["akɛ"] },
       { label: "Komparativ", cells: ["akɛɪ"] },
       { label: "Superlativ", cells: ["akɛu"] },
   ]}},
@@ -283,5 +283,73 @@ const WORDS = [
       de: "[Kommen später]",
     }, formsTable: { columns: ["", "Wort"], rows: [
       { label: "-", cells: ["lɔp"] },
+  ]}},
+  { id: "lebɪ", word: "lebɪ", pos: "Adjektiv",
+    de: ["mehr"],
+    origin: "Indonesisch 'lebih'.",
+    example: {
+      conlang: "[Kommen später].",
+      de: "[Kommen später]",
+    }, formsTable: { columns: ["", "Wort"], rows: [
+      { label: "Positiv", cells: ["lebɪ"] },
+      { label: "Komparativ", cells: ["lebɪɪ"] },
+      { label: "Superlativ", cells: ["lebɪu"] },
+  ]}},
+  { id: "olɪ", word: "olɪ", pos: "Adjektiv",
+    de: ["nur"],
+    origin: "Englisch 'only'.",
+    example: {
+      conlang: "[Kommen später].",
+      de: "[Kommen später]",
+    }, formsTable: { columns: ["", "Wort"], rows: [
+      { label: "Positiv", cells: ["olɪ"] },
+      { label: "Komparativ", cells: ["olɪɪ"] },
+      { label: "Superlativ", cells: ["olɪu"] },
+  ]}},
+  { id: "fɪno", word: "fɪno", pos: "Präposition",
+    de: ["bis"],
+    origin: "Italienisch 'fino'.",
+    example: {
+      conlang: "[Kommen später].",
+      de: "[Kommen später]",
+    }, formsTable: { columns: ["", "Wort"], rows: [
+      { label: "-", cells: ["fɪno"] },
+  ]}},
+  { id: "ma", word: "ma", pos: "Substantiv",
+    de: ["man"],
+    origin: "Deutsch 'man'.",
+    example: {
+      conlang: "[Kommen später].",
+      de: "[Kommen später]",
+    }, formsTable: { columns: ["", "Wort"], rows: [
+      { label: "Singular ma, Plural", cells: ["mae"] },
+  ]}},
+  { id: "kɔnto", word: "kɔnto", pos: "Präposition",
+    de: ["gegen"],
+    origin: "Italienisch 'contro'.",
+    example: {
+      conlang: "[Kommen später].",
+      de: "[Kommen später]",
+    }, formsTable: { columns: ["", "Wort"], rows: [
+      { label: "-", cells: ["kɔnto"] },
+  ]}},
+  { id: "mɪ", word: "mɪ", pos: "Substantiv",
+    de: ["wir"],
+    origin: "Russisch 'мы'.",
+    example: {
+      conlang: "[Kommen später].",
+      de: "[Kommen später]",
+    }, formsTable: { columns: ["", "Wort"], rows: [
+      { label: "Singular", cells: ["mɪ"] },
+      { label: "Plural", cells: ["mɪe"] },
+  ]}},
+  { id: "ponɔf", word: "ponɔf", pos: "Adverb",
+    de: ["wieder"],
+    origin: "Polnisch 'ponownie'.",
+    example: {
+      conlang: "[Kommen später].",
+      de: "[Kommen später]",
+    }, formsTable: { columns: ["", "Wort"], rows: [
+      { label: "-", cells: ["ponɔf"] },
   ]}},
 ];
