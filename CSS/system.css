@@ -1,0 +1,32 @@
+.n-controls {
+    margin-bottom: 15px;
+  }
+  
+  .n-controls select {
+    background-color: #111;
+    color: white;
+    border: 1px solid #444;
+    border-radius: 5px;
+    padding: 6px;
+  }
+  
+  #nTable {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #111;
+    color: white;
+  }
+  
+  #nTable th, #nTable td {
+    border: 1px solid #333;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  #nTable th {
+    background-color: #222;
+  }
+  
+  #nTable tr:nth-child(even) {
+    background-color: #151515;
+  }

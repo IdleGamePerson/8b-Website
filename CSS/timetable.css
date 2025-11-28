@@ -1,0 +1,85 @@
+.timetable-wrapper {
+    overflow-x: auto;   /* horizontal scrollen erlaubt */
+    overflow-y: hidden; /* vertikal NICHT */
+    height: 600px;      /* exakt Höhe des Zeitrasters */
+  }
+  .timetable-header {
+    border-bottom: 1px solid #333;
+    background-color: #111;
+    display: grid;
+    grid-template-columns: 60px repeat(25, 200px); /* Zeitspalte + 25 Tage */
+  }
+
+  .time-column {
+    width: 60px;
+    flex-shrink: 0;
+    position: relative;
+  }
+  
+  .day-header {
+    min-width: 200px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+    border-right: 1px solid #333;
+    background-color: #111;
+    display: flex;
+    align-items: center;
+    justify-content: center;  /* 👈 exakt mittig */
+    padding: 8px 0;           /* oben/unten padding, kein links/rechts offset */
+  }
+
+  .timetable-container {
+    display: grid;
+    grid-template-columns: 60px repeat(25, 200px);
+    height: 560px;
+    position: relative;
+  }  
+
+  .time-label {
+    position: absolute;
+    left: 2px;
+    font-size: 10px;
+    color: #aaa;
+  }
+  
+  .day-column {
+    min-width: 200px;   /* 👈 jede Spalte mindestens 200px breit */
+    border-right: 1px solid #333;
+    position: relative;
+  }
+  
+  .lesson-box {
+    position: absolute;
+    left: 5px;
+    right: 5px;
+    background-color: #444;
+    color: white;
+    border-radius: 4px;
+    font-size: 13px;
+    cursor: pointer;
+    overflow: hidden;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+  }
+  
+  .lesson-box:hover {
+    background-color: #666;
+  }
+  
+  .lesson-content {
+    width: 100%;
+    text-align: center;  /* zentriert den Text */
+    font-weight: bold;
+    color: white;
+    font-size: 13px;
+  }
+  
+  .lesson-raum {
+    color: #aaa; /* nur Raum grau */
+    font-weight: normal; /* nicht fett */
+  }

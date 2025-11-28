@@ -1,0 +1,84 @@
+.article-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .article-search {
+    flex: 1;
+    padding: 10px;
+    background-color: #111;
+    color: white;
+    border: 1px solid #444;
+    border-radius: 5px;
+    font-size: 1em;
+  }
+  
+  .article-sort,
+  .article-random {
+    background-color: #111;
+    color: white;
+    border: 1px solid #444;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .article-sort:hover,
+  .article-random:hover {
+    background-color: #333;
+  }
+  
+  .article-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .article-card {
+    background-color: #111;
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #333;
+  }
+  
+  .article-card h2 {
+    margin-top: 0;
+  }
+  
+  .article-card button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .article-card button:hover {
+    background-color: #555;
+  }
+  
+  .article-detail-buttons {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+  }
+  
+  .article-detail-buttons button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .article-detail-buttons button:hover {
+    background-color: #555;
+  }

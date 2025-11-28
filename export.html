@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>8b Export</title>
+
+  <!-- Daten -->
+  <script src="Data/Website/articleData.js"></script>
+  <script src="Data/Website/newspaperData.js"></script>
+  <script src="Data/Website/timetableData.js"></script>
+  <script src="Data/Website/onionData.js"></script>
+  <script src="Data/Website/nSystemData.js"></script>
+
+  <!-- Kalender (optional, falls 8b-Daten nötig) -->
+  <script src="Stuff/eightbCalendar.js"></script>
+
+  <style>
+    body {
+      background-color: #0a0a0a;
+      color: #fff;
+      font-family: Consolas, monospace;
+      padding: 30px;
+    }
+
+    h1 {
+      font-size: 28px;
+      color: #6cf;
+      text-align: center;
+      margin-bottom: 25px;
+    }
+
+    button {
+      background-color: #222;
+      color: #fff;
+      border: 1px solid #444;
+      border-radius: 8px;
+      padding: 12px 18px;
+      font-size: 15px;
+      margin: 8px;
+      transition: background-color 0.3s, transform 0.2s;
+    }
+
+    button:hover {
+      background-color: #444;
+      transform: scale(1.05);
+      cursor: pointer;
+    }
+
+    .export-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+      max-width: 500px;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+    .info {
+      margin-top: 30px;
+      font-size: 13px;
+      color: #aaa;
+      text-align: center;
+    }
+
+    .divider {
+      border-top: 1px solid #333;
+      margin: 25px 0;
+      width: 80%;
+    }
+
+    .category {
+      font-weight: bold;
+      font-size: 16px;
+      color: #88f;
+      margin-bottom: 8px;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>📤 8b Export</h1>
+
+  <div class="export-container">
+    <div class="category">Allgemeine Daten</div>
+    <button onclick="exportArticles()">Artikel exportieren</button>
+    <button onclick="exportNewspapers()">Zeitungen exportieren</button>
+
+    <div class="divider"></div>
+
+    <div class="category">Schule & Stundenplan</div>
+    <button onclick="exportTimetable()">Stundenplan exportieren</button>
+
+    <div class="divider"></div>
+
+    <div class="category">Die Zwiebel</div>
+    <button onclick="exportZwiebel()">Zwiebel exportieren</button>
+
+    <div class="divider"></div>
+
+    <div class="category">Das n-System</div>
+    <button onclick="exportNSystem()">n-System exportieren</button>
+  </div>
+
+  <div class="info">
+    Exporte enthalten Daten direkt aus den internen JS-Dateien der 8b-Website.<br>
+    <i>Stand: <span id="today"></span></i>
+  </div>
+
+  <script>
+    /** --------------------------------------------------------
+     * Hilfsfunktionen
+     * -------------------------------------------------------- */
+    function downloadTxt(filename, text) {
+      const blob = new Blob([text], { type: "text/plain" });
+      const link = document.createElement("a");
+      link.href = URL.createObjectURL(blob);
+      link.download = filename;
+      link.click();
+      URL.revokeObjectURL(link.href);
+    }
+
+    /** --------------------------------------------------------
+     * Artikel
+     * -------------------------------------------------------- */
+    function exportArticles() {
+      let text = "Artikel (Daten aus der 8b-Website)\n\n";
+
+      articles.forEach(article => {
+        text += `${article.title}\n`;
+        text += `Kategorie: ${article.category}\n`;
+        text += `8b-Vektor: [${article.vector.join(", ")}]\n`;
+        text += `${article.description}\n`;
+        if (article.link && article.link.trim() !== "") {
+          text += `Link: ${article.link}\n`;
+        }
+        text += "\n";
+      });
+
+      downloadTxt("Artikel.txt", text);
+    }
+
+    /** --------------------------------------------------------
+     * Zeitungen
+     * -------------------------------------------------------- */
+    function exportNewspapers() {
+      let text = "Zeitungen (Daten aus der 8b-Website)\n\n";
+
+      newspapers.forEach(paper => {
+        const [d, m, y] = paper.date;
+        const dateStr = `${String(d).padStart(2, "0")}.${String(m).padStart(2, "0")}.${y}`;
+        text += `Zeitung am ${dateStr}\n`;
+        text += `${paper.content}\n\n`;
+      });
+
+      downloadTxt("Zeitungen.txt", text);
+    }
+
+    /** --------------------------------------------------------
+     * Stundenplan
+     * -------------------------------------------------------- */
+    function exportTimetable() {
+      let text = "Stundenplan (Daten aus der 8b-Website)\n\n";
+
+      Object.keys(timetable).forEach(day => {
+        text += `${day}\n`;
+        timetable[day].forEach(lesson => {
+          text += `${lesson.start}-${lesson.ende}: ${lesson.fach} ${lesson.raum} - ${lesson.beschreibung}\n`;
+        });
+        text += "\n";
+      });
+
+      text += "Änderungen zu dem Stundenplan\n\n";
+      timetableChanges.forEach(change => {
+        const [d, m, y] = change.date;
+        const dateStr = `${String(d).padStart(2, "0")}.${String(m).padStart(2, "0")}.${y}`;
+        text += `${dateStr} ${change.start}-${change.end}: ${change.fach} ${change.raum} - ${change.beschreibung}\n`;
+      });
+
+      downloadTxt("Stundenplan.txt", text);
+    }
+
+    /** --------------------------------------------------------
+     * Die Zwiebel
+     * -------------------------------------------------------- */
+    function exportZwiebel() {
+      let text = "Die Zwiebel: die Bibel der 8b (Daten aus der 8b-Website)\n\n";
+
+      zwiebel.forEach(kapitel => {
+        text += `Kapitel: ${kapitel.kapitel}\n`;
+        kapitel.subkapitel.forEach((sub, i) => {
+          text += `Subkapitel ${i + 1}: ${sub}\n`;
+        });
+        text += "\n";
+      });
+
+      downloadTxt("Zwiebel.txt", text);
+    }
+
+    /** --------------------------------------------------------
+     * n-System
+     * -------------------------------------------------------- */
+    function exportNSystem() {
+      let text = "n-System (Daten aus der 8b-Website)\n\n";
+
+      nSystem.forEach(entry => {
+        const nCode = entry.nCode ?? "NaN";
+        const tag8b = entry.kalenderTag ?? "NaN";
+        const pos = entry.position ?? "NaN";
+        const geschl = entry.geschlecht ?? "NaN";
+        const nobel = entry.nobel ?? "NaN";
+        const info = entry.info ?? "NaN";
+
+        text += `${nCode}: Position in offizieller Klassenliste ${pos}; Geschlecht ${geschl}; 8b-Kalender-Tag ${tag8b}; Nobelpreise ${nobel}; Zusatzinfos ${info}\n`;
+      });
+
+      downloadTxt("n-System.txt", text);
+    }
+
+    /** --------------------------------------------------------
+     * Datum unten anzeigen
+     * -------------------------------------------------------- */
+    const now = new Date();
+    const formattedNow = `${String(now.getDate()).padStart(2, "0")}.${String(now.getMonth() + 1).padStart(2, "0")}.${now.getFullYear()} ${String(now.getHours()).padStart(2, "0")}:${String(now.getMinutes()).padStart(2, "0")}`;
+    document.getElementById("today").textContent = formattedNow;
+  </script>
+</body>
+</html>

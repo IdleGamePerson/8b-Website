@@ -1,0 +1,32 @@
+<!-- word.html -->
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Wortdetails</title>
+  <link rel="stylesheet" href="CSS/8bisch_style.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>Wortdetails</h1>
+    <nav>
+      <a href="8bisch.html">&larr; Zurück zur Suche</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section id="word-details" class="word-details">
+      <!-- Wird per JS gefüllt -->
+    </section>
+
+    <section id="not-found" class="hidden">
+      <h2>Wort nicht gefunden</h2>
+      <p>Das angeforderte Wort existiert nicht (mehr) im Wörterbuch.</p>
+      <p><a href="8bisch.html">Zurück zur Suche</a></p>
+    </section>
+  </main>
+
+  <script src="Data/8bisch/data.js"></script>
+  <script src="JS/8bisch/word-page.js"></script>
+</body>
+</html>

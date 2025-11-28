@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>8bisch – Hauptseite</title>
+  <link rel="stylesheet" href="CSS/8bisch_style.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>8bisch – Offizielle Sprachseite</h1>
+    <p>Infos, Wörterbuch, Grammatik und Kurse für 8bisch.</p>
+  </header>
+
+  <main class="container">
+
+    <!-- ===================
+         INFOTEXT
+    ==================== -->
+    <section class="info-section">
+      <h2>Über 8bisch</h2>
+      <p>
+        8bisch ist eine konstruierte Sprache, welche von n42 entwickelt wurde. Das Ziel ist eine Sprache, welche einfach lernbar ist, aber komplex genug ist, um nicht unpraktisch zu sein. Außerdem eine, die zu der 8b passt. Das momentane Wörterbuch enthält 21 Wörter, aber es wird täglich expandiert, und das eventuelle Ziel ist >2000 Wörter im Wörterbuch.
+      </p>
+    </section>
+
+
+    <!-- ===================
+         3-SPALTIGES LAYOUT
+    ==================== -->
+    <div class="three-column-layout">
+
+      <!-- -------------------
+           LINKE SPALTE:
+           GRAMMATIK
+      -------------------- -->
+      <aside class="left-panel">
+        <h3>Grammatik</h3>
+        <ul class="side-list" id="grammar-list"></ul>
+      </aside>
+
+
+      <!-- -------------------
+           MITTLERE SPALTE:
+           DICTIONARY (wie bisher)
+      -------------------- -->
+      <section class="middle-panel">
+
+        <!-- Box 1: Suche -->
+        <section class="search-panel">
+          <label for="search-input">Suche nach Wort, Deutsch oder Englisch:</label>
+          <input type="text" id="search-input" placeholder="Suche nach Wort...">
+          <p id="result-count" class="muted"></p>
+          <label for="sort-select">Sortierung:</label>
+          <select id="sort-select">
+            <option value="alpha">Alphabetisch (8bisch)</option>
+            <option value="freq">Nach Häufigkeit</option>
+            <option value="pos">Nach Wortart</option>
+          </select>
+        </section>
+      
+        <!-- Box 2: Wörterliste -->
+        <section class="dictionary-panel">
+          <h2>Wörterbuch</h2>
+          <ul id="results-list"></ul>
+          <p id="no-results" class="hidden">Keine Ergebnisse gefunden.</p>
+        </section>
+      
+      </section>          
+
+
+      <!-- -------------------
+           RECHTE SPALTE:
+           KURSE / UNTERRICHTE
+      -------------------- -->
+      <aside class="right-panel">
+        <h3>Kurse</h3>
+        <ul class="side-list" id="courses-list"></ul>
+      </aside>
+
+    </div>
+  </main>
+
+  <script src="Data/8bisch/data.js"></script>
+  <script src="Data/8bisch/grammar.js"></script>
+  <script src="Data/8bisch/courses.js"></script>
+  <script src="JS/8bisch/main.js"></script>
+</body>
+</html>

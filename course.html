@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Kurs</title>
+  <link rel="stylesheet" href="CSS/8bisch_style.css">
+  <link rel="stylesheet" href="CSS/8bisch_courses.css">
+</head>
+<body>
+
+<header class="site-header">
+  <h1 id="course-title">Kurs</h1>
+  <nav>
+    <a href="8bisch.html">&larr; Zurück</a>
+  </nav>
+</header>
+
+<div class="progress-container">
+  <div class="progress-bar" id="progress-bar"></div>
+</div>
+
+<main class="container">
+
+  <section id="course-content" class="course-content"></section>
+
+  <div class="course-nav">
+    <button id="prev-btn" disabled>Zurück</button>
+    <button id="next-btn" disabled>Weiter</button>
+  </div>
+
+  <section id="course-not-found" class="hidden">
+    <h2>Kurs nicht gefunden</h2>
+    <p><a href="8bisch.html">Zurück zur Übersicht</a></p>
+  </section>
+
+</main>
+
+<script src="Data/8bisch/courses.js"></script>
+<script src="JS/8bisch/course-page.js"></script>
+
+</body>
+</html>

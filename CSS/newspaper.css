@@ -1,0 +1,59 @@
+.newspaper-dates {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    overflow-x: auto;
+    white-space: nowrap;
+    padding-bottom: 5px;
+  }
+  
+  .date-btn {
+    flex: 0 0 auto;
+    background-color: #111;
+    color: white;
+    border: 1px solid #444;
+    border-radius: 5px;
+    padding: 8px 12px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .date-btn:hover {
+    background-color: #333;
+  }
+  
+  .date-btn.active {
+    background-color: #555;
+    border-color: #777;
+  }
+  
+  .newspaper-content {
+    background-color: #111;
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #333;
+  }
+  
+  .newspaper-selector {
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto;
+    gap: 10px;
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+  }
+  
+  .newspaper-button {
+    background-color: #222;
+    color: white;
+    border: 1px solid #444;
+    border-radius: 6px;
+    padding: 10px 12px;
+    flex-shrink: 0;
+    transition: background-color 0.3s;
+  }
+  
+  .newspaper-button:hover {
+    background-color: #444;
+    cursor: pointer;
+  }

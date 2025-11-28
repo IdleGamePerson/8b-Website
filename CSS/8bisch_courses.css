@@ -1,0 +1,146 @@
+/* =====================================
+   Kurse – Allgemeines Layout
+===================================== */
+
+.course-content {
+    background-color: rgba(15, 23, 42, 0.95);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 1.25rem;
+    box-shadow: var(--shadow);
+  }
+  
+  .course-page h2 {
+    margin-top: 0;
+    font-size: 1.4rem;
+    color: var(--accent);
+    margin-bottom: 0.6rem;
+  }
+  
+  .course-page p {
+    line-height: 1.6;
+  }
+  
+  .course-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.75rem;
+  }
+  
+  .course-nav button {
+    padding: 0.55rem 1rem;
+    color: var(--fg);
+    background-color: var(--accent-soft);
+    border: none;
+    border-radius: var(--radius);
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: background-color 0.15s;
+  }
+  
+  .course-nav button:hover:not(:disabled) {
+    background-color: var(--accent);
+  }
+  
+  .course-nav button:disabled {
+    background-color: #1e293b;
+    cursor: default;
+  }
+  
+  
+  /* =====================================
+     Info-Seiten
+  ===================================== */
+  
+  .course-page {
+    margin-bottom: 1rem;
+  }
+  
+  .course-page p {
+    margin-bottom: 0.75rem;
+  }
+  
+  
+  /* =====================================
+     Vokabel-Seiten
+  ===================================== */
+  
+  .vocab-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 0.75rem;
+    background-color: rgba(2, 6, 23, 0.6);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+  
+  .vocab-table th {
+    background-color: #020617;
+    padding: 0.5rem;
+    border-bottom: 1px solid var(--border);
+    text-align: left;
+  }
+  
+  .vocab-table td {
+    padding: 0.45rem 0.55rem;
+    border-bottom: 1px solid var(--border);
+  }
+  
+  
+  /* =====================================
+     Multiple-Choice Frage-Seiten
+  ===================================== */
+  
+  .answer-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 1rem;
+  }
+  
+  .answer-option {
+    background-color: rgba(2, 6, 23, 0.6);
+    border: 1px solid var(--border);
+    padding: 0.6rem 0.75rem;
+    margin-bottom: 0.5rem;
+    border-radius: var(--radius);
+    cursor: pointer;
+    transition: background-color 0.15s, border-color 0.15s;
+  }
+  
+  .answer-option:hover {
+    background-color: rgba(56, 189, 248, 0.08);
+  }
+  
+  .answer-option.correct {
+    background-color: rgba(16, 185, 129, 0.25);
+    border-color: #10b981;
+  }
+  
+  .answer-option.wrong {
+    background-color: rgba(220, 38, 38, 0.3);
+    border-color: #dc2626;
+  }
+  
+  /* =====================================
+     Fortschrittsbalken
+  ===================================== */
+  
+  .progress-container {
+    width: 100%;
+    background-color: #1e293b;
+    height: 10px;
+  }
+  
+  .progress-bar {
+    width: 0%;
+    height: 10px;
+    background-color: var(--accent-soft);
+    transition: width 0.25s ease;
+  }
+  
+  .feedback-text {
+    margin-top: 1rem;
+    font-size: 1.05rem;
+    font-weight: 500;
+  }
