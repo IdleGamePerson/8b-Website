@@ -22,7 +22,7 @@ const GRAMMAR = [
       ]
     },*/
     {
-      id: "aussprechrgelen",
+      id: "aussprechreglen",
       title: "Aussprechregeln",
       description: `
         Jeder Buchstabe wird so ausgesprochen wie in der IPA. Es gibt ein Zeichen  ́, welches die Aussprache weiter angibt.<br>Bestimmung der Silben:<br>- Jede Silbe endet mit einem Vokal, außer in diesen Sonderfällen:<br>1. Konsonanten am Ende eines Wortes sind auch am Ende der letzten Silbe.<br>2. Der erste Konsonant in Gruppen von 3 Konsonanten, die nebeneinander sind, ist am Ende der Silbe vor der Gruppe, statt der nach der Gruppe.<br>3. Hat ein Konsonant das Zeichen  ́, gilt dieser als Teil der Silbe davor, statt danach.<br>Betonte Silbe:<br>- Hat ein Wort eine Silbe, ist dies die betonte. Hat ein Wort mehr als eine Silbe, ist die vorletzte die betonte.<br>Ausnahme: Hat ein Vokal das Zeichen  ́, ist die Silbe, die diesen Vokal enthält, die betonte.
@@ -33,7 +33,15 @@ const GRAMMAR = [
       id: "satzstruktur",
       title: "Satzstruktur",
       description: `
-        Die normale Satzstruktur in 8bisch ist Subjekt - Verb - Objekt.
+        8bisch hat zwei erlaubte Satzstrukturen: Subjekt - Verb - Objekt (für informelle Konversation) und Subjekt - Objekt - Verb (für formelle Konversation).
+      `,
+      examples: []
+    },
+    {
+      id: "artikel",
+      title: "Artikel",
+      description: `
+        Vor jedem Substantiv muss ein Artikel stehen. Es gibt den bestimmten Artikel 'de' und den unbestimmten Artikel 'ba'. Die Form des Artikels hängt vom Kasus des folgenden Substantives an.
       `,
       examples: []
     },
@@ -41,7 +49,7 @@ const GRAMMAR = [
       id: "negation",
       title: "Negation",
       description: `
-        Jedes Wort in 8bisch kann negiert werden, indem das Präfix nɛ- vor das Wort platziert wird.
+        Jedes Wort in 8bisch kann negiert werden, indem das Partikel 'nɛ' vor das Wort platziert wird.
       `,
       examples: []
     },
@@ -137,7 +145,7 @@ const GRAMMAR = [
       id: "dativ",
       title: "Dativ",
       description: `
-        Um einem Satz ein Dativobjekt hinzuzufügen, addiert man das Präfix a- zu einem Substantiv und addiert es am Ende eines Satzes. Dieses Substantiv ist das Dativobjekt.<br>Wenn beide Präfixe nɛ- und a- auf einem Substantiv sind, ist nɛ- vor a-, also nɛa-.
+        Um einem Satz ein Dativobjekt hinzuzufügen, addiert man ein Substantiv am Ende eines Satzes. Dieses Substantiv ist das Dativobjekt.
       `,
       examples: []
     },
