@@ -13,12 +13,10 @@ WORDS.forEach((w, i) => {
 
 // Dein Alphabet:
 const ALPHABET = [
-  "a", "ɔ", "o", "u", "ɛ", "e", "ɪ",
-  "p", "t", "k", "ɡ", "d", "b",
-  "f", "v",
-  "n", "m",
-  "z", "s", "ʃ",
-  "l", "j", "h"
+  "t", "ʃ", "ɪ", "m", "f", "l",
+    "ɔ", "j", "a", "s", "k",
+  "u", "e", "h", "p", "o", "z",
+  "ɛ", "n", "ɡ", "d", "v", "b"
 ];
 
 // Mapping für Zeichen → Reihenfolge
@@ -51,14 +49,16 @@ function compareFreq(a, b) {
 }
 
 const POS_ORDER = {
+  "Artikel": 0,
   "Partikel": 1,
-  "Konjunktion": 2,
-  "Präposition": 3,
-  "Adverb": 4,
-  "Pronomen": 5,
-  "Substantiv": 6,
-  "Verb": 7,
-  "Adjektiv": 8
+  "Fragewort": 2,
+  "Konjunktion": 3,
+  "Präposition": 4,
+  "Adverb": 5,
+  "Pronomen": 6,
+  "Substantiv": 7,
+  "Verb": 8,
+  "Adjektiv": 9
 };
 
 function comparePOS(a, b) {

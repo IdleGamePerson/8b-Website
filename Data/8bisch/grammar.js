@@ -3,7 +3,7 @@ const GRAMMAR = [
       id: "alphabet",
       title: "Alphabet",
       description: `
-        8bisch hat zwei Alphabete: echtes 8bisch und Pseudo-8bisch. Nur Pseudo-8bisch kann auf Computern geschrieben werden, deshalb wird es in dieser Website benutzt. Dies ist nicht so ein großes Problem, da beide Alphabete funktional gleich sind.<br>Das Alphabet von 8bisch ist: a ɔ o u ɛ e ɪ p t k ɡ d b f v n m z s ʃ l j h.
+        8bisch hat zwei Alphabete: echtes 8bisch und Pseudo-8bisch. Nur Pseudo-8bisch kann auf Computern geschrieben werden, deshalb wird es in dieser Website benutzt. Dies ist nicht so ein großes Problem, da beide Alphabete funktional gleich sind.<br>Das Alphabet von 8bisch ist: t ʃ ɪ m f l ɔ j a s k u e h p o z ɛ n ɡ d v b.
       `,
       examples: []
     },
@@ -33,7 +33,7 @@ const GRAMMAR = [
       id: "satzstruktur",
       title: "Satzstruktur",
       description: `
-        8bisch hat zwei erlaubte Satzstrukturen: Subjekt - Verb im Infinitiv - Akkusativobjekt (für informelle Konversation) und Subjekt - Akkusativobjekt - Verb im Infinitiv (für formelle Konversation).
+        8bisch hat zwei erlaubte Satzstrukturen: Subjekt - Verb - Objekt (für informelle Konversation) und Subjekt - Objekt - Verb (für formelle Konversation).
       `,
       examples: []
     },
@@ -57,7 +57,7 @@ const GRAMMAR = [
       id: "zeitformen",
       title: "Zeitformen",
       description: `
-        Am Anfang eines Satzes kann das Partikel 'ple' platziert werden (oder eine Form davon), um die Zeitform des Satzes zu ändern. Ohne 'ple' gelten Sätze als Präsens.
+        In einem Satz kann ein Verb mit einem Suffix eine andere Zeitform haben.<br>Die Suffixe lauten: -s bei Perfekt, -t bei Plusquamperfekt, -n bei Futur I und -m bei Futur II.
       `,
       examples: []
     },
@@ -73,7 +73,7 @@ const GRAMMAR = [
       id: "fragen",
       title: "Fragen",
       description: `
-        Um nach einem Wort zu fragen, kann das Wort mit 'gve' (oder der passenden Form davon) ersetzt werden.<br>Ja-Nein-Fragen: Um eine Ja-Nein-Frage zu stellen, addiere das Partikel 'hɛ' am Ende des Satzes.
+        Um nach einem Wort zu fragen, kann das Wort mit einem passenden Fragewort ersetzt werden.<br>Das Fragewort für Substantive/Pronomen erfordert kein Artikel.<br>Bei dem Infinitiv des Fragewortes für Verben verfällt das ɛ in dem Infinitiv.<br>Ja-Nein-Fragen: Um eine Ja-Nein-Frage zu stellen, addiere das Partikel 'hɛ' am Ende des Satzes.
       `,
       examples: []
     },
@@ -94,7 +94,7 @@ const GRAMMAR = [
       examples: []
     },
     {
-      id: "zweite satzstruktur",
+      id: "zweite_satzstruktur",
       title: "Zweite Satzstruktur",
       description: `
         Ein Satz darf aus nur einem einzigen Substantiv bestehen, welches mit Adjektiven usw. modifiziert werden kann.
@@ -118,7 +118,7 @@ const GRAMMAR = [
       examples: []
     },
     {
-      id: "zusammengesetzte woerter",
+      id: "zusammengesetzte_wörter",
       title: "Zusammengesetzte Wörter",
       description: `
         Zwei oder mehr Wörter können in ein zusammengesetztes Wort kombiniert werden. Die Wortart des zusammengesetzten Wortes ist bestimmt von der Wortart des letzten Wortes im zusammengesetzten Wort.<br>In einem zusammengesetzten Wort beschreiben die Wörter, die zuerst kommen, die Wörter, die danach kommen, weiter.<br>Kommt ein Verb im Infinitiv in das zusammengesetzte Wort, fällt das -ɛ am Ende des Verbes weg, außer wenn dieses Verb das letzte Wort im zusammengesetzten Wort ist.
@@ -126,7 +126,7 @@ const GRAMMAR = [
       examples: []
     },
     {
-      id: "relativsaetze",
+      id: "relativsätze",
       title: "Relativsätze",
       description: `
         Ein Relativsatz kann gebildet werden, indem man nach einem Substantiv das Partikel 'o' und danach ein kompletter Satz geschrieben wird, welcher der Relativsatz ist.
@@ -134,7 +134,7 @@ const GRAMMAR = [
       examples: []
     },
     {
-      id: "komplementsaetze",
+      id: "komplementsätze",
       title: "Komplementsätze",
       description: `
         Komplementsätze können gebildet werden, in dem man in einem Satz das Substantiv durch das Partikel 'ta' ersetzt und nach diesem Partikel einen weiteren Satz schreibt.
@@ -145,7 +145,7 @@ const GRAMMAR = [
       id: "verbmodifikatoren",
       title: "Verbmodifikatoren",
       description: `
-        Vor ein Verb kann ein anderes Verb platziert werden, welches das Verb modifiziert.<br>Nur manche Verben können als Verbmodifikatoren benutzt werden.<br>In dieser Website werden solche Verben mit (M) in der Wortart markiert.
+        Vor ein Verb kann ein anderes Verb platziert werden, welches das Verb modifiziert.<br>Nur manche Verben können als Verbmodifikatoren benutzt werden.
       `,
       examples: []
     },
@@ -174,7 +174,7 @@ const GRAMMAR = [
       examples: []
     },
     {
-      id: "praepositionen",
+      id: "präpositionen",
       title: "Präpositionen",
       description: `
         Nach einem Substantiv, oder am Anfang eines Satzes, kann ein Paar an einer Präposition und einem Zusatzwort platziert werden. Dies gibt Information.
@@ -197,4 +197,4 @@ const GRAMMAR = [
       `,
       examples: []
     },
-  ];  
+  ];
