@@ -146,7 +146,7 @@ const WORDS = [
       conlang: "[Kommen später].",
       de: "[Kommen später]",
     }, formsTable: { columns: ["", "Wort"], rows: [
-      { label: "Kein Partizip", cells: ["bɛ"] },
+      { label: "Infinitiv", cells: ["bɛ"] },
       { label: "Partizip I", cells: ["bɔ"] },
       { label: "Partizip II", cells: ["bɔn"] },
   ]}},
@@ -196,7 +196,7 @@ const WORDS = [
       conlang: "[Kommen später].",
       de: "[Kommen später]",
     }, formsTable: { columns: ["", "Wort"], rows: [
-      { label: "Kein Partizip", cells: ["avɛ"] },
+      { label: "Infinitiv", cells: ["avɛ"] },
       { label: "Partizip I", cells: ["avɔ"] },
       { label: "Partizip II", cells: ["avɔn"] },
   ]}},
@@ -207,7 +207,7 @@ const WORDS = [
       conlang: "[Kommen später].",
       de: "[Kommen später]",
     }, formsTable: { columns: ["", "Wort"], rows: [
-      { label: "Kein Partizip", cells: ["jadɛ"] },
+      { label: "Infinitiv", cells: ["jadɛ"] },
       { label: "Partizip I", cells: ["jadɔ"] },
       { label: "Partizip II", cells: ["jadɔn"] },
   ]}},
@@ -324,14 +324,14 @@ const WORDS = [
     }, formsTable: { columns: ["", "Wort"], rows: [
       { label: "Singular ma, Plural", cells: ["mae"] },
   ]}},
-  { id: "kɔnto", word: "kɔnto", pos: "Präposition",
+  { id: "kɔnto", word: "kɔńto", pos: "Präposition",
     de: ["gegen"],
     origin: "Italienisch 'contro'.",
     example: {
       conlang: "[Kommen später].",
       de: "[Kommen später]",
     }, formsTable: { columns: ["", "Wort"], rows: [
-      { label: "-", cells: ["kɔnto"] },
+      { label: "-", cells: ["kɔńto"] },
   ]}},
   { id: "mɪ", word: "mɪ", pos: "Substantiv",
     de: ["wir"],

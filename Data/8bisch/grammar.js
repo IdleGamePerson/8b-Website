@@ -25,7 +25,7 @@ const GRAMMAR = [
       id: "aussprechreglen",
       title: "Aussprechregeln",
       description: `
-        Jeder Buchstabe wird so ausgesprochen wie in der IPA. Es gibt ein Zeichen  ́, welches die Aussprache weiter angibt.<br>Bestimmung der Silben:<br>- Jede Silbe endet mit einem Vokal, außer in diesen Sonderfällen:<br>1. Konsonanten am Ende eines Wortes sind auch am Ende der letzten Silbe.<br>2. Der erste Konsonant in Gruppen von 3 Konsonanten, die nebeneinander sind, ist am Ende der Silbe vor der Gruppe, statt der nach der Gruppe.<br>3. Hat ein Konsonant das Zeichen  ́, gilt dieser als Teil der Silbe davor, statt danach.<br>Betonte Silbe:<br>- Hat ein Wort eine Silbe, ist dies die betonte. Hat ein Wort mehr als eine Silbe, ist die vorletzte die betonte.<br>Ausnahme: Hat ein Vokal das Zeichen  ́, ist die Silbe, die diesen Vokal enthält, die betonte.
+        Jeder Buchstabe wird so ausgesprochen wie in der IPA. Es gibt ein Zeichen  ́, welches die Aussprache weiter angibt.<br>Bestimmung der Silben:<br>- Jede Silbe endet mit einem Vokal, außer in diesen Sonderfällen:<br>1. Konsonanten am Ende eines Wortes sind auch am Ende der letzten Silbe.<br>2. Der erste Konsonant in Gruppen von 3 Konsonanten, die nebeneinander sind, ist am Ende der Silbe vor der Gruppe, statt der nach der Gruppe.<br>3. Hat ein Konsonant das Zeichen  ́, gilt dieser als Teil der Silbe davor, statt danach.<br>Betonte Silbe: Die vorletzte Silbe eines Wortes ist immer die betonte.
       `,
       examples: []
     },
@@ -33,7 +33,7 @@ const GRAMMAR = [
       id: "satzstruktur",
       title: "Satzstruktur",
       description: `
-        8bisch hat zwei erlaubte Satzstrukturen: Subjekt - Verb - Objekt (für informelle Konversation) und Subjekt - Objekt - Verb (für formelle Konversation).
+        8bisch hat zwei erlaubte Satzstrukturen: Subjekt - Verb im Infinitiv - Akkusativobjekt (für informelle Konversation) und Subjekt - Akkusativobjekt - Verb im Infinitiv (für formelle Konversation).
       `,
       examples: []
     },
@@ -106,6 +106,14 @@ const GRAMMAR = [
       title: "Plural",
       description: `
         Das Suffix -e kann bei Substantiven für den Plural benutzt werden.
+      `,
+      examples: []
+    },
+    {
+      id: "zusammengesetzte woerter",
+      title: "Zusammengesetzte Wörter",
+      description: `
+        Zwei oder mehr Wörter können in ein zusammengesetztes Wort kombiniert werden. Die Wortart des zusammengesetzten Wortes ist bestimmt von der Wortart des letzten Wortes im zusammengesetzten Wort.<br>In einem zusammengesetzten Wort beschreiben die Wörter, die zuerst kommen, die Wörter, die danach kommen, weiter.<br>Kommt ein Verb im Infinitiv in das zusammengesetzte Wort, fällt das -ɛ am Ende des Verbes weg, außer wenn dieses Verb das letzte Wort im zusammengesetzten Wort ist.
       `,
       examples: []
     },
