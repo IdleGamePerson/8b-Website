@@ -137,7 +137,7 @@ function renderResults(results) {
     const meta = document.createElement("span");
     meta.className = "result-meta";
     const dePreview = entry.de ? entry.de.join(", ") : "";
-    meta.textContent = `${entry.pos || ""} · DE: ${dePreview} `;
+    meta.textContent = `${entry.pos || ""} · ${dePreview} `;
 
     li.appendChild(link);
     li.appendChild(meta);
