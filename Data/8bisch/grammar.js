@@ -62,6 +62,14 @@ const GRAMMAR = [
       examples: []
     },
     {
+      id: "pronomen",
+      title: "Pronomen",
+      description: `
+        Pronomen können als Substantive benutzt werden. Sie benötigen keine Artikel.<br>Sie haben keinen Plural. Bei ihnen müssen Formen für Kasus gebildet werden, nämlich mit den Suffixen -e für Akkusativ, -a für Genitiv und -o für Dativ.
+      `,
+      examples: []
+    },
+    {
       id: "fragen",
       title: "Fragen",
       description: `

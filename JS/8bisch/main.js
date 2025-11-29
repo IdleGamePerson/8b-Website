@@ -55,9 +55,10 @@ const POS_ORDER = {
   "Konjunktion": 2,
   "Präposition": 3,
   "Adverb": 4,
-  "Substantiv": 5,
-  "Verb": 6,
-  "Adjektiv": 7
+  "Pronomen": 5,
+  "Substantiv": 6,
+  "Verb": 7,
+  "Adjektiv": 8
 };
 
 function comparePOS(a, b) {
