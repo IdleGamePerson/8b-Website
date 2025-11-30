@@ -7,22 +7,8 @@ const GRAMMAR = [
       `,
       examples: []
     },
-    /*{
-      id: "adverbien",
-      title: "Adverbien",
-      description: `
-        Adverbien sind unveränderlich und stehen direkt hinter dem Verb.
-        Sie modifizieren die Handlung, nicht das Substantiv.
-      `,
-      examples: [
-        {
-          con: "Veru fast.",
-          de: "Er kommt schnell."
-        }
-      ]
-    },*/
     {
-      id: "aussprechreglen",
+      id: "aussprechregeln",
       title: "Aussprechregeln",
       description: `
         Jeder Buchstabe wird so ausgesprochen wie in der IPA. Es gibt ein Zeichen  ́, welches die Aussprache weiter angibt.<br>Bestimmung der Silben:<br>- Jede Silbe endet mit einem Vokal, außer in diesen Sonderfällen:<br>1. Konsonanten am Ende eines Wortes sind auch am Ende der letzten Silbe.<br>2. Der erste Konsonant in Gruppen von 3 Konsonanten, die nebeneinander sind, ist am Ende der Silbe vor der Gruppe, statt der nach der Gruppe.<br>3. Hat ein Konsonant das Zeichen  ́, gilt dieser als Teil der Silbe davor, statt danach.<br>Betonte Silbe: Die vorletzte Silbe eines Wortes ist immer die betonte.
