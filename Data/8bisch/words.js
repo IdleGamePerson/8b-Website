@@ -190,7 +190,7 @@ const WORDS = [
       { label: "Nominativ", cells: ["ɛs"] },
       { label: "Akkusativ", cells: ["ɛse"] },
       { label: "Genitiv", cells: ["ɛsa"] },
-      { label: "Dativ  ", cells: ["ɛso"] },
+      { label: "Dativ", cells: ["ɛso"] },
   ]}},
   { id: "akɛ", word: "akɛ", pos: "Adjektiv",
     de: ['an'],

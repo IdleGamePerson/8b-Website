@@ -10,7 +10,7 @@ def read_csv_as_list(path):
     return rows
 
 # Beispiel:
-csv_list = read_csv_as_list("8bisch/grammar.csv")
+csv_list = read_csv_as_list("Arbeiten/Daten/8bischGrammar.csv")
 csv_list.pop(0)
 
 def format(string):
@@ -19,7 +19,7 @@ def format(string):
 ob = "{"
 cb = "}"
 
-with open("8b-Website/Data/8bisch/grammar.js", "w", encoding="utf-8") as g:
+with open("Data/8bisch/grammar.js", "w", encoding="utf-8") as g:
     def Write(str):
         g.write(str + "\n")
     Write(f'const GRAMMAR = [')

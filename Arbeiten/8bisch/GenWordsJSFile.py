@@ -10,7 +10,7 @@ def read_csv_as_list(path):
     return rows
 
 # Beispiel:
-csv_list = read_csv_as_list("8bisch/words.csv")
+csv_list = read_csv_as_list("Arbeiten/Daten/8bischWords.csv")
 csv_list.pop(0)
 
 def word_to_id(word):
@@ -42,7 +42,7 @@ def helper(defs):
 ob = "{"
 cb = "}"
 
-with open("8b-Website/Data/8bisch/words.js", "w", encoding="utf-8") as g:
+with open("Data/8bisch/words.js", "w", encoding="utf-8") as g:
     def Write(str):
         g.write(str + "\n")
     Write("const WORDS = [")
