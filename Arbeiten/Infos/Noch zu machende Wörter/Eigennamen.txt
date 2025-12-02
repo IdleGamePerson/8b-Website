@@ -1,0 +1,5 @@
+179	Euro	1845
+220	Deutschland	1236
+353	Ukraine	538
+385	Trump	486
+390	Berlin	478
