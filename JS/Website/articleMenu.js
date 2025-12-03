@@ -92,7 +92,7 @@ function loadArticleMenu() {
       ${article.description}
       <div class="article-detail-buttons">
         <button onclick="loadArticleMenu()">Zurück</button>
-        ${article.link ? `<button onclick="window.open('${article.link}', '_blank')">Öffnen</button>` : ""}
+        ${article.link != `-` ? `<button onclick="window.open('${article.link}', '_blank')">Öffnen</button>` : ""}
       </div>
     `;
   

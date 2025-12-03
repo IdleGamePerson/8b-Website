@@ -4,7 +4,7 @@ const articles = [
       category: 'Was auch immer',
       vector: [0.76, -0.04, 0.69],
       description: 'An object ist ein Objekt. Niemand weiß genau, was für ein Objekt, aber es ist ein Objekt.',
-      link: ""
+      link: "-"
     },
     {
       title: 'The 8b Rooms',
