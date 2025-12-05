@@ -1,0 +1,128 @@
+/* css/components.css */
+
+/* Suchbereich / Ergebnisse / Wortdetails */
+
+.search-section {
+    background-color: rgba(15, 23, 42, 0.95);
+    border-radius: var(--radius);
+    padding: 10px 0; /* wie im zuletzt gesetzten Stil */
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border);
+    margin-bottom: 1rem;
+  
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  
+  .results-section,
+  .word-details {
+    background-color: rgba(15, 23, 42, 0.95);
+    border-radius: var(--radius);
+    padding: 1rem 1.25rem;
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border);
+    margin-bottom: 1rem;
+  }
+  
+  .results-section h2 {
+    margin-top: 0;
+  }
+  
+  #results-list {
+    list-style: none;
+    padding: 0;
+    margin: 0.5rem 0 0;
+  }
+  
+  #results-list li {
+    padding: 0.5rem 0.25rem;
+    border-bottom: 1px solid var(--border);
+  }
+  
+  #results-list li:last-child {
+    border-bottom: none;
+  }
+  
+  /* Wort-Details */
+  
+  .word-details h2 {
+    margin-top: 0;
+    margin-bottom: 0.25rem;
+  }
+  
+  .word-meta {
+    margin: 0.25rem 0 0.75rem;
+    color: var(--muted);
+  }
+  
+  .word-section {
+    margin-bottom: 0.75rem;
+  }
+  
+  .word-section h3 {
+    margin: 0 0 0.25rem 0;
+    font-size: 1rem;
+    color: var(--accent);
+  }
+  
+  /* Side-Listen (z.B. links/rechts) */
+  
+  .side-list {
+    list-style: none;
+    padding: 0;
+    margin: 0.5rem 0 0;
+  }
+  
+  .side-list li {
+    padding: 0.4rem 0;
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+  }
+  
+  .side-list li:last-child {
+    border-bottom: none;
+  }
+  
+  .side-list li:hover {
+    color: var(--accent);
+  }
+  
+  /* Tabellen für Formen */
+  
+  .forms-table-wrapper {
+    overflow-x: auto;
+  }
+  
+  .forms-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 0.25rem;
+  }
+  
+  .forms-table th,
+  .forms-table td {
+    border: 1px solid var(--border);
+    padding: 0.3rem 0.5rem;
+    text-align: left;
+    font-size: 0.9rem;
+  }
+  
+  .forms-table th {
+    background-color: #020617;
+  }
+  
+  /* Beispiel-Blöcke */
+  
+  .example-block p {
+    margin: 0.2rem 0;
+  }
+  
+  .example-block {
+    background-color: rgba(2, 6, 23, 0.5);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 0.5rem 0.75rem;
+    margin-bottom: 0.6rem;
+  }
+  

@@ -1,0 +1,147 @@
+/* css/layout.css */
+
+/* Header / Footer */
+
+.site-header,
+.site-footer {
+  padding: 1rem 1.5rem;
+  background-color: rgba(15, 23, 42, 0.9);
+  border-bottom: 1px solid var(--border);
+}
+
+.site-header h1 {
+  margin: 0 0 0.25rem 0;
+  font-size: 1.6rem;
+}
+
+.site-header p {
+  margin: 0;
+  color: var(--muted);
+}
+
+/* Haupt-Container */
+
+.container {
+  margin: 1.5rem auto;
+  padding: 0 1rem 2rem;
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 100px); /* abhängig von Header+Footer */
+  overflow: hidden;
+}
+
+/* Drei-Spalten-Layout */
+
+.three-column-layout {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr; /* Links | Mitte | Rechts */
+  gap: 20px;                          /* entspricht dem zuletzt definierten Wert */
+  margin-top: 1rem;
+  flex: 1;
+  overflow: hidden;                   /* verhindert Scrollen des gesamten Grids */
+}
+
+.left-panel,
+.middle-panel,
+.right-panel {
+  background-color: rgba(15, 23, 42, 0.95);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+  box-shadow: var(--shadow);
+  overflow-y: auto;
+  padding-right: 10px; /* Platz für Scrollbar */
+}
+
+/* Scrollbar in den Panels */
+
+.left-panel::-webkit-scrollbar,
+.middle-panel::-webkit-scrollbar,
+.right-panel::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Mittlere Spalte – enthält Suche + Wörterliste */
+
+.middle-panel {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  gap: 20px; /* Abstand zwischen den zwei Boxen */
+}
+
+/* Box 1 – Suche */
+
+.search-panel {
+  padding: 15px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  flex-shrink: 0; /* bleibt oben */
+}
+
+/* Box 2 – Wörterliste */
+
+.dictionary-panel {
+  flex: 1;                 /* füllt den Restbereich */
+  overflow-y: auto;
+  border: 1px solid var(--border);
+  padding: 15px;
+  border-radius: 8px;
+}
+
+/* Scrollbar Wörterliste */
+
+.dictionary-panel::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Info-Text / Grammatik-Boxen */
+
+.info-section {
+  background-color: rgba(15, 23, 42, 0.95);
+  border: 1px solid var(--border);
+  padding: 1rem 1.25rem;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.grammar-details {
+  background-color: rgba(15, 23, 42, 0.95);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+  box-shadow: var(--shadow);
+  margin-bottom: 1.25rem;
+}
+
+/* Responsive: unter 900px → zwei Spalten */
+
+@media (max-width: 900px) {
+  .three-column-layout {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .right-panel {
+    grid-column: 1 / span 2;
+  }
+}
+
+/* Unter 600px → alles untereinander */
+
+@media (max-width: 600px) {
+  .site-header h1 {
+    font-size: 1.3rem;
+  }
+
+  .container {
+    padding: 0 0.75rem 1.5rem;
+  }
+
+  .three-column-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .right-panel {
+    grid-column: auto;
+  }
+}
