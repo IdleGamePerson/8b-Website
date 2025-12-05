@@ -183,4 +183,12 @@ const newspapers = [
       date: [3, 12, 2025],
       content: "<b>Vermeidungsvermeidung</b><br>Die Prävention sollte passieren, ist sie aber nicht."
     },
+    {
+      date: [4, 12, 2025],
+      content: "<b>?</b><br>Geschichte sehr geschichtlich. Panik startete.<z-s>Ich hasse dies</z-s>Latein Vokabeltest war mal wieder rigged."
+    },
+    {
+      date: [5, 12, 2025],
+      content: "<b>Chemie KA</b><br>Es war eine Chemie KA. Außerdem fangen wir in Chemie mit Atomen an.<z-s>Technik Ausfall</z-s>Technik fällt aus."
+    },
   ];
