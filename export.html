@@ -8,7 +8,6 @@
   <script src="Data/Website/articleData.js"></script>
   <script src="Data/Website/newspaperData.js"></script>
   <script src="Data/Website/timetableData.js"></script>
-  <script src="Data/Website/onionData.js"></script>
   <script src="Data/Website/nSystemData.js"></script>
 
   <!-- Kalender (optional, falls 8b-Daten nötig) -->
@@ -93,11 +92,6 @@
 
     <div class="divider"></div>
 
-    <div class="category">Die Zwiebel</div>
-    <button onclick="exportZwiebel()">Zwiebel exportieren</button>
-
-    <div class="divider"></div>
-
     <div class="category">Das n-System</div>
     <button onclick="exportNSystem()">n-System exportieren</button>
   </div>
@@ -178,23 +172,6 @@
       });
 
       downloadTxt("Stundenplan.txt", text);
-    }
-
-    /** --------------------------------------------------------
-     * Die Zwiebel
-     * -------------------------------------------------------- */
-    function exportZwiebel() {
-      let text = "Die Zwiebel: die Bibel der 8b (Daten aus der 8b-Website)\n\n";
-
-      zwiebel.forEach(kapitel => {
-        text += `Kapitel: ${kapitel.kapitel}\n`;
-        kapitel.subkapitel.forEach((sub, i) => {
-          text += `Subkapitel ${i + 1}: ${sub}\n`;
-        });
-        text += "\n";
-      });
-
-      downloadTxt("Zwiebel.txt", text);
     }
 
     /** --------------------------------------------------------
