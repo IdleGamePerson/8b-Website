@@ -1,6 +1,6 @@
 Wort,Wortart,Bedeutung,Ursprung,Beispiel,Beispiel Übersetzung,Formen,Häufigkeit
-de,Artikel,bestimmter Artikel,-,[Kommen später],[Kommen später],Nominativ de; Akkusativ dɔ; Genitiv dɪ; Dativ du,1
-ba,Artikel,unbestimmter Artikel,-,[Kommen später],[Kommen später],Nominativ ba; Akkusativ bɔ; Genitiv bɪ; Dativ bu,2
+de,Artikel,bestimmter Artikel,-,[Kommen später],[Kommen später],Nominativ de; Akkusativ dɔ; Genitiv di; Dativ du,1
+ba,Artikel,unbestimmter Artikel,-,[Kommen später],[Kommen später],Nominativ ba; Akkusativ bɔ; Genitiv bi; Dativ bu,2
 nɛ,Partikel,Negationspartikel,-,[Kommen später],[Kommen später],- nɛ,3
 o,Partikel,Relativsatzpartikel,-,[Kommen später],[Kommen später],- o,4
 ta,Partikel,Komplementsatzpartikel,-,[Kommen später],[Kommen später],- ta,5
@@ -8,17 +8,17 @@ kɔ,Partikel,Konjunktivpartikel,-,[Kommen später],[Kommen später],- kɔ,6
 hɛ,Partikel,Ja-Nein-Fragepartikel,-,[Kommen später],[Kommen später],- hɛ,7
 va,Fragewort,Fragewort für Substantive/Pronomen,-,[Kommen später],[Kommen später],Nominativ va; Akkusativ vae; Genitiv vaa; Dativ vao,8
 ve,Fragewort,Fragewort für Verben,-,[Kommen später],[Kommen später],Infinitiv ve; Partizip I veɔ; Partizip II veɔn,9
-vɪ,Fragewort,Fragewort für Adjektive,-,[Kommen später],[Kommen später],Positiv vɪ; Komparativ vɪɪ; Superlativ vɪu,10
+vi,Fragewort,Fragewort für Adjektive,-,[Kommen später],[Kommen später],Positiv vi; Komparativ vii; Superlativ viu,10
 vu,Fragewort,Fragewort für Präpositionen/Adverbien,-,[Kommen später],[Kommen später],- vu,11
 e,Konjunktion,und,Italienisch 'e',[Kommen später],[Kommen später],- e,12
-ɪn,Präposition,in,Englisch 'in',[Kommen später],[Kommen später],- ɪn,13
+in,Präposition,in,Englisch 'in',[Kommen später],[Kommen später],- in,13
 kɛ,Präposition,zu,Indonesisch 'ke',[Kommen später],[Kommen später],- kɛ,14
 kon,Konjunktion,mit,Italienisch 'con',[Kommen später],[Kommen später],- kon,15
 na,Präposition,auf,Polnisch 'na',[Kommen später],[Kommen später],- na,16
 bɛ,Verb,sein,Englisch 'be',[Kommen später],[Kommen später],Infinitiv Präsens bɛ; Infinitiv Perfekt bɛs; Infinitiv Plusquamperfekt bɛt; Infinitiv Futur I bɛn; Infinitiv Futur II bɛm; Partizip I bɔ; Partizip II bɔn,17
 dla,Präposition,für,Russisch 'для',[Kommen später],[Kommen später],- dla,18
 ɛs,Pronomen,er/sie/es,Deutsch 'es',[Kommen später],[Kommen später],Nominativ ɛs; Akkusativ ɛse; Genitiv ɛsa; Dativ ɛso,19
-akɛ,Adjektiv,an,Italienisch 'acceso',[Kommen später],[Kommen später],Positiv akɛ; Komparativ akɛɪ; Superlativ akɛu,20
+akɛ,Adjektiv,an,Italienisch 'acceso',[Kommen später],[Kommen später],Positiv akɛ; Komparativ akɛi; Superlativ akɛu,20
 ad,Präposition,bei,Englisch 'at',[Kommen später],[Kommen später],- ad,21
 avɛ,Verb,haben,Italienisch 'avere',[Kommen später],[Kommen später],Infinitiv Präsens avɛ; Infinitiv Perfekt avɛs; Infinitiv Plusquamperfekt avɛt; Infinitiv Futur I avɛn; Infinitiv Futur II avɛm; Partizip I avɔ; Partizip II avɔn,22
 jadɛ,Verb,werden,Indonesisch 'menjadi',[Kommen später],[Kommen später],Infinitiv Präsens jadɛ; Infinitiv Perfekt jadɛs; Infinitiv Plusquamperfekt jadɛt; Infinitiv Futur I jadɛn; Infinitiv Futur II jadɛm; Partizip I jadɔ; Partizip II jadɔn,23
@@ -30,14 +30,14 @@ davan,Präposition,vor (räumlich),Italienisch 'davanti',[Kommen später],[Komme
 sopa,Präposition,über,Italienisch 'sopra',[Kommen später],[Kommen später],- sopa,29
 no,Konjunktion,aber,Russisch 'но',[Kommen später],[Kommen später],- no,30
 lɔp,Konjunktion,oder,Polnisch 'lub',[Kommen später],[Kommen später],- lɔp,31
-lebɪ,Adjektiv,mehr,Indonesisch 'lebih',[Kommen später],[Kommen später],Positiv lebɪ; Komparativ lebɪɪ; Superlativ lebɪu,32
-olɪ,Adjektiv,nur,Englisch 'only',[Kommen später],[Kommen später],Positiv olɪ; Komparativ olɪɪ; Superlativ olɪu,33
-fɪno,Präposition,bis,Italienisch 'fino',[Kommen später],[Kommen später],- fɪno,34
+lebi,Adjektiv,mehr,Indonesisch 'lebih',[Kommen später],[Kommen später],Positiv lebi; Komparativ lebii; Superlativ lebiu,32
+oli,Adjektiv,nur,Englisch 'only',[Kommen später],[Kommen später],Positiv oli; Komparativ olii; Superlativ oliu,33
+fino,Präposition,bis,Italienisch 'fino',[Kommen später],[Kommen später],- fino,34
 ma,Pronomen,man,Deutsch 'man',[Kommen später],[Kommen später],Nominativ ma; Akkusativ mae; Genitiv maa; Dativ mao,35
 kɔńto,Präposition,gegen,Italienisch 'contro',[Kommen später],[Kommen später],- kɔńto,36
-mɪ,Pronomen,wir,Russisch 'мы',[Kommen später],[Kommen später],Nominativ mɪ; Akkusativ mɪe; Genitiv mɪa; Dativ mɪo,37
+mi,Pronomen,wir,Russisch 'мы',[Kommen später],[Kommen später],Nominativ mi; Akkusativ mie; Genitiv mia; Dativ mio,37
 ponɔf,Adverb,wieder,Polnisch 'ponownie',[Kommen später],[Kommen später],- ponɔf,38
 ʃedɛs,Präposition,durch,Russisch 'через',[Kommen später],[Kommen später],- ʃedɛs,39
 zoto,Präposition,unter,Italienisch 'sotto',[Kommen später],[Kommen später],- zoto,40
 pezɛn,Substantiv,Prozent; Hundertstel,Indonesisch 'persen',[Kommen später],[Kommen später],Singular pezɛn; Plural pezɛne,41
-ɪ,Pronomen,ich,Englisch 'I',[Kommen später],[Kommen später],Nominativ ɪ; Akkusativ ɪe; Genitiv ɪa; Dativ ɪo,42
+i,Pronomen,ich,Englisch 'I',[Kommen später],[Kommen später],Nominativ i; Akkusativ ie; Genitiv ia; Dativ io,42

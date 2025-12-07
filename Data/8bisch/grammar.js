@@ -3,7 +3,7 @@ const GRAMMAR = [
       id: "alphabet",
       title: "Alphabet",
       description: `
-        8bisch hat zwei Alphabete: echtes 8bisch und Pseudo-8bisch. Nur Pseudo-8bisch kann auf Computern geschrieben werden, deshalb wird es in dieser Website benutzt. Dies ist nicht so ein großes Problem, da beide Alphabete funktional gleich sind.<br>Das Alphabet von 8bisch ist: t ʃ ɪ m f l ɔ j a s k u e h p o z ɛ n ɡ d v b.
+        8bisch hat zwei Alphabete: echtes 8bisch und Pseudo-8bisch. Nur Pseudo-8bisch kann auf Computern geschrieben werden, deshalb wird es in dieser Website benutzt. Dies ist nicht so ein großes Problem, da beide Alphabete funktional gleich sind.<br>Das Alphabet von 8bisch ist: t ʃ i m f l ɔ j a s k u e h p o z ɛ n ɡ d v b.
       `,
       examples: []
     },
@@ -179,7 +179,7 @@ const GRAMMAR = [
       id: "steigerungsformen",
       title: "Steigerungsformen",
       description: `
-        Adjektive können im Komparativ (mit Suffix -ɪ) und Superlativ (mit Suffix -u) stehen.
+        Adjektive können im Komparativ (mit Suffix -i) und Superlativ (mit Suffix -u) stehen.
       `,
       examples: []
     },
