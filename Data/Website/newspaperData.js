@@ -191,4 +191,16 @@ const newspapers = [
       date: [5, 12, 2025],
       content: "<b>Chemie KA</b><br>Es war eine Chemie KA. Außerdem fangen wir in Chemie mit Atomen an.<z-s>Technik Ausfall</z-s>Technik fällt aus."
     },
+    {
+      date: [8, 12, 2025],
+      content: "<b>Hallo wie geht es dir</b><br>Nix passierte."
+    },
+    {
+      date: [9, 12, 2025],
+      content: "<b>Deutsch KA ausgegeben</b><br>Die Deutsch KA wurde ausgegeben. Der Durchschnitt war gut.<z-s>Englisch KA</z-s>Die sehr strukturierte Englisch KA wurde geschrieben.<z-s>Physik KA ausgegeben</z-s>Die Physik KA wurde ausgegeben.<z-s>Canva Experimente</z-s>In Physik haben wir gelernt, wie das Programm Canva funktioniert."
+    },
+    {
+      date: [10, 12, 2025],
+      content: "<b>Konversation</b><br>Eine Konversation wird zwischen der 8b und der Lateinlehrerin gehalten.<z-s>Rk/Re/Eth KA</z-s>Eine weitere KA fand statt."
+    },
   ];

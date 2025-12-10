@@ -279,4 +279,11 @@ const articles = [
       description: "Der 8b-Kalender ist ein Zeitrechnungssystem der 8b. Es ist <b>gut</b><hr><b>Wie es klappt</b><br>- Es gibt 14 Monate mit je 26 Tagen. Jeder Tag eines Monats repräsentiert einen 8b-Schüler.<br>- Am Ende des Jahres ein Spezialtag, nicht Teil eines Monats.<br>- In Schaltjahren gibt es 2 Spezialtage am Ende des Jahres.<br>- Ein Jahr ist ein Schaltjahr, wenn es durch 4, aber nicht durch 128 teilbar ist.<br>- Der erste Tag des Jahres 0 bedeutet der 8. Mai 1911 im gregorianischen Kalender.<hr><b>Schreibweise</b><br>- Zwei Teile zusammen geschrieben ohne Leerzeichen dazwischen.<br>- Zweiter Teil ist ein '.' und dann das Jahr.<br>- Erster Teil, wenn kein Spezialtag, ist zuerst der dazugehörige Buchstabe für den Tag, und dann der Monat (erste Ziffer 0, wenn Monat unter 10).<br>- Erster Teil, wenn Spezialtag, ist zuerst die Angabe der Spezialtagnummer und dann ein 'S'.<br>- Beispiele: E01.104, S13.97, 1S.112, K09.107",
       link: "-"
     },
+    {
+      title: "n79-Syndrom",
+      category: "Was auch immer",
+      vector: [0.72, 0.54, -0.24],
+      description: "Das n79-Syndrom ist eine ansteckende, chronische und schlechte Krankheit, welche als die Tendenz, im Sportunterricht sich komisch zu verhalten, definiert ist. Es wurde nach n79, der bekanntesten Person mit dem Syndrom, benannt.",
+      link: "-"
+    },
   ];
