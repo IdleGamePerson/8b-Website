@@ -737,25 +737,116 @@ const pagesIJokes = {
       related: [],
       weight: 1
     },
-    'tff3125': {
-      title: 'TFF3125',
+    'geometry dash': {
+      title: 'Geometry Dash',
       content: `
-        TFF3125 ist <strong>der Geometry Dash Account</strong> von <a href="#" onclick="event.preventDefault(); navigateTo('n42')">n42</a> und <a href="#" onclick="event.preventDefault(); navigateTo('n94')">n94</a>.
-        <blockquote>A.</blockquote>
+        Geometry Dash ist <strong>ein Videospiel</strong> von RobTopGames. Als ob.<br>
+        Einige Leute in der 8b spielen Geometry Dash.<br>
+        Folgendes ist eine Tabelle an allen GD Spielern in der 8b über die ich genug Infos bekommen konnte also so 20%:
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+               <td>Typ</td>
+               <td><a href="#" onclick="event.preventDefault(); navigateTo('n94')">n94</a></td>
+               <td><a href="#" onclick="event.preventDefault(); navigateTo('n42')">n42</a></td>
+               <td><a href="#" onclick="event.preventDefault(); navigateTo('n42')">n79</a></td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Account</td>
+                <td>TFF3125</td>
+                <td>Quadrat12</td>
+                <td>BenutzerIQ</td>
+              </tr>
+              <tr>
+                <td>Stars</td>
+                <td>1225</td>
+                <td>809</td>
+                <td>179</td>
+              </tr>
+              <tr>
+                <td>Moons</td>
+                <td>108</td>
+                <td>257</td>
+                <td>172</td>
+              </tr>
+              <tr>
+                <td>Secret Coins</td>
+                <td>85</td>
+                <td>102</td>
+                <td>27</td>
+              </tr>
+              <tr>
+                <td>User Coins</td>
+                <td>134</td>
+                <td>71</td>
+                <td>28</td>
+              </tr>
+              <tr>
+                <td>Diamonds</td>
+                <td>3386</td>
+                <td>2223</td>
+                <td>729</td>
+              </tr>
+              <tr>
+                <td>Easy Demons</td>
+                <td>22</td>
+                <td>11</td>
+                <td>12</td>
+              </tr>
+              <tr>
+                <td>Medium Demons</td>
+                <td>5</td>
+                <td>2</td>
+                <td>3</td>
+              </tr>
+              <tr>
+                <td>Hard Demons</td>
+                <td>3</td>
+                <td>0</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Insane Demons</td>
+                <td>4</td>
+                <td>0</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Extreme Demons</td>
+                <td>1</td>
+                <td>0</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Hardest</td>
+                <td>Sweater Weather (AREDL #1497)</td>
+                <td>Electrodynamix v2 (GDDL 7)</td>
+                <td>(Keine Infos)</td>
+              </tr>
+              <tr>
+                <td>Created Levels</td>
+                <td>87</td>
+                <td>2</td>
+                <td>9</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        Notiz: TFF3125 war der geteilte Account von n94 und n42, bevor n42 einen eigenen Account gemacht hat.
+        <blockquote>GEOMETRY DASH</blockquote>
       `,
       categories: [],
       created: '2026-02-11',
-      edited: '2026-02-11',
+      edited: '2026-07-20',
       related: [],
       weight: 1
     },
-    'tff': {
-      title: 'TFF',
-      redirectTo: 'tff3125'  
-    },
-    '3125': {
-      title: '3125',
-      redirectTo: 'tff3125'  
+    'tff3125': {
+      title: 'TFF3125',
+      redirectTo: 'geometry dash'  
     },
     'n83 mit ß': {
       title: 'n83 mit ß',
