@@ -1,0 +1,4 @@
+
+    initDropdownPages();
+    updatePageCount();
+    renderPage('hauptseite');
