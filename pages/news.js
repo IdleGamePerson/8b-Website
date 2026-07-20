@@ -8,7 +8,7 @@ const pagesNews = {
         <br>Die Rubriken sind Normales, Panik und 8b-Sachen.
         <br><b>Links</b>, nicht zu verwechseln mit Rechts:
         <ul>
-          <li><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 29')">Neueste Ausgabe</a></li>
+          <li><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 30')">Neueste Ausgabe</a></li>
           <li><a href="#" onclick="event.preventDefault(); navigateTo('category-zeitungen')">Alle Ausgaben</a></li>
         </ul>
         <h2>Alle Ausgaben</h2>
@@ -22,6 +22,11 @@ const pagesNews = {
               </tr>
             </thead>
             <tbody>
+              <tr>
+                <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 30')">KW 30, 2026</a></td>
+                <td>20.-24. Jul. 2026</td>
+                <td>36.</td>
+              </tr>
               <tr>
                 <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 29')">KW 29, 2026</a></td>
                 <td>13.-17. Jul. 2026</td>
@@ -1570,4 +1575,36 @@ const pagesNews = {
       related: [],
       weight: 1
     },
+    '2026 kw 30': {
+      title: '8b-Zeitung - 2026, KW 30',
+      content: `
+        Dies ist die 36. Ausgabe der 8b-Zeitung für KW 30 2026, von dem 20. bis zu dem 24. Juli 2026.
+        <h2>Normales</h2>
+        <h3>Englisch Film</h3>
+        Montag haben wir in Englisch nen Film angefangen.
+        <h3>Zeug in Technik</h3>
+        In Technik haben wir Kahoots gemacht und Make it Meme gespielt hmmm...
+        <h2>Panik</h2>
+        <h3>Technik KA zurück</h3>
+        Die Technik KA wurde zurückgegeben und wir haben herausgefunden dass wir nicht wirklich so schlecht in Technik sind sondern die Bewertung extrem problematisch war.<br>
+        Es war wirklich kontrovers, 
+        <h2>8b-Sachen</h2>
+        <h3>Keine HAs in Latein</h3>
+        JAAAAAAAAA!!!! (wir waren ernsthaft schockiert)
+        <h2>Anderes</h2>
+        <h3>Ausfälle</h3>
+        <ul>
+          <li>Nein.</li>
+        </ul>
+        <h3>n83-Spawnraten</h3>
+        <ul>
+          <li>Montag: {10, 10, 1, 1, 10, 2}</li>
+        </ul>
+      `,
+      categories: ['zeitungen'],
+      created: '2026-07-20',
+      edited: '2026-07-20',
+      related: [],
+      weight: 1
+    }
   };
