@@ -1594,11 +1594,14 @@ const pagesNews = {
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
         <ul>
-          <li>Nein.</li>
+          <li>Dienstag 1.+2. - Deutsch ist ausgefallen.</li>
+          <li>Dienstag 8.+9. - Physik wurde durch Sport ersetzt.</li>
+          <li>Dienstag 10.+11. - Wirtschaft ist ausgefallen.</li>
         </ul>
         <h3>n83-Spawnraten</h3>
         <ul>
           <li>Montag: {10, 10, 1, 1, 10, 2}</li>
+          <li>Dienstag: {10, 10, 1, 1, 1, 3}</li>
         </ul>
       `,
       categories: ['zeitungen'],
