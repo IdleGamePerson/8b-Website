@@ -65,6 +65,96 @@ const pagesGames = {
       related: [],
       weight: 1
     },
+    'vermeidungssimulator': {
+      title: 'Vermeidungssimulator',
+      content: `
+        <div class="infobox">
+          <div class="infobox-header">Vermeidungssimulator</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Genre</span>
+              <span class="infobox-value">Spiel</span>
+            </div>
+          </div>
+        </div>
+        <a href="https://idlegameperson.github.io/Vermeidungssimulator/">Vermeidungssimulator</a> ist <strong>ein 8b-Spiel.</strong><br>
+        Man spielt als kleiner Kreis. Es gibt auch einen großen Kreis, der einen mit 2/3 der Geschwindigkeit von sich selbst folgt. Als letztes gibt es einen schwarzen Ring.<br>
+        Wenn man den großen Kreis berührt, verliert man. Wenn man den schwarzen Ring berührt, bekommt man einen schwarzen Ring und wird 1,5% schneller, exponentiell.
+        <h2>Upgrades</h2>
+        Im Hauptmenü kann man Upgrades kaufen. Am Anfang kann man nur das Upgrade auf 0,0 kaufen und sonst kann ein Upgrade gekauft werden, wenn man ein benachbartes Upgrade gekauft hat.<br>
+        Upgrades:
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <td>Koordinaten</td>
+                <td>Upgrade</td>
+                <td>Kosten</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>0,0</td>
+                <td>Großer Kreis 10% langsamer</td>
+                <td>25 schwarze Ringe</td>
+              </tr>
+              <tr>
+                <td>0,1</td>
+                <td>Du bist 5% schneller</td>
+                <td>50 schwarze Ringe</td>
+              </tr>
+              <tr>
+                <td>0,-1</td>
+                <td>Großer Kreis 5% langsamer</td>
+                <td>100 schwarze Ringe</td>
+              </tr>
+              <tr>
+                <td>0,2</td>
+                <td>Nur 5s Wartezeit nach Spielende</td>
+                <td>100 schwarze Ringe</td>
+              </tr>
+              <tr>
+                <td>-1,0</td>
+                <td>10% Chance auf +1 Ring</td>
+                <td>125 schwarze Ringe</td>
+              </tr>
+              <tr>
+                <td>0,-2</td>
+                <td>Doppelte schwarze Ringe</td>
+                <td>125 schwarze Ringe</td>
+              </tr>
+              <tr>
+                <td>-1,-1</td>
+                <td>Zweiter schwarzer Ring erscheint</td>
+                <td>250 schwarze Ringe</td>
+              </tr>
+              <tr>
+                <td>-2,-1</td>
+                <td>1 der schwarzen Ringe werden blau</td>
+                <td>300 schwarze Ringe</td>
+              </tr>
+              <tr>
+                <td>1,0</td>
+                <td>Grüner Kreis 10% kleiner</td>
+                <td>1 blauer Ring</td>
+              </tr>
+              <tr>
+                <td>1,2</td>
+                <td>Kreise beschleunigen nur um 1,25%</td>
+                <td>3 blaue Ringe</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <blockquote>Ich hab nix zu sagen also erwähne ich einfach mal die Zahl 9</blockquote>
+      `,
+      categories: ['spiele'],
+      created: '2026-07-18',
+      edited: '2026-07-18',
+      related: [],
+      weight: 1
+    },
     'als obob spiel': {
       title: 'Als Obob Spiel',
       content: `
