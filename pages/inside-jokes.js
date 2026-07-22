@@ -823,7 +823,7 @@ const pagesIJokes = {
               <tr>
                 <td>Hardest</td>
                 <td>Sweater Weather (AREDL #1497)</td>
-                <td>Electrodynamix v2 (GDDL 7)</td>
+                <td>Nine Circles (GDDL 11)</td>
                 <td>(Keine Infos)</td>
               </tr>
               <tr>
@@ -840,7 +840,7 @@ const pagesIJokes = {
       `,
       categories: [],
       created: '2026-02-11',
-      edited: '2026-07-20',
+      edited: '2026-07-22',
       related: [],
       weight: 1
     },

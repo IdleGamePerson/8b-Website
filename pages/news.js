@@ -1591,6 +1591,8 @@ const pagesNews = {
         <h2>8b-Sachen</h2>
         <h3>Keine HAs in Latein</h3>
         JAAAAAAAAA!!!! (wir waren ernsthaft schockiert)
+        <h3>(zensiert)</h3>
+        Wir haben einen Weg gefunden um unsere iPads einen beliebigen Text aussprechen zu lassen. Der Matheunterricht wurde dadurch sehr interessant.
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
         <ul>
@@ -1602,6 +1604,7 @@ const pagesNews = {
         <ul>
           <li>Montag: {10, 10, 1, 1, 10, 2}</li>
           <li>Dienstag: {10, 10, 1, 1, 1, 3}</li>
+          <li>Mittwoch: {10, 10, 1, 1, 1, 4}</li>
         </ul>
       `,
       categories: ['zeitungen'],
