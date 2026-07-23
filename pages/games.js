@@ -156,6 +156,153 @@ const pagesGames = {
       related: [],
       weight: 1
     },
+    "n42s rng": {
+      title: "n42's RNG",
+      warnings: [
+          {
+            type: 'info',
+            text: `Nicht zu verwechseln mit <a href="#" onclick="event.preventDefault(); navigateTo('8b rng')">8b RNG.</a>`
+          }
+      ],
+      content: `
+        <div class="infobox">
+          <div class="infobox-header">n42's RNG</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Genre</span>
+              <span class="infobox-value">Glücksspiel</span>
+            </div>
+          </div>
+        </div>
+        <a href="https://idlegameperson.github.io/n42s_RNG/">n42's RNG</a> ist <strong>ein 8b-Spiel.</strong><br>
+        Man generiert mit einem alle 2,5s drückbaren Knopf Seltenheiten, um Münzen zu erhalten.<br>
+        Folgendes ist die Liste an allen Seltenheiten im Spiel: Gewöhnlich, Ungewöhnlich, Selten, Sehr selten, Episch, Legendär, Mythisch, Exotisch, Perfekt, Mysteriös, Verrückt, Extrem, Ultimativ, Super, Ewig, Himmlisch, Göttlich, Transzendent, Omega, Unendlich, Hyper-Unendlich.<br>
+        Jede Seltenheit hat 5 Unterkategorien I, II, III, IV, V (außer Hyper-Unendlich, welches unendlich viele hat). Gewöhnlich I ist 1 zu 6 und gibt 1 Münze.<br>
+        Jede Unterkategorie ist 1.2x seltener und gibt 1.1x mehr Münzen als die vorherige und jede Seltenheit ist 2.48832x seltener und gibt 1.61051x mehr Münzen als die vorherige.
+        <h2>Upgrades</h2>
+        0,0 kann immer gekauft werden und andere Upgrades nur, wenn man ein benachbartes Upgrade besitzt.
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <td>Koordinaten</td>
+                <td>Upgrade</td>
+                <td>Kosten (Münzen)</td>
+                <td>Details</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>0,0</td>
+                <td>Glück +0,2</td>
+                <td>10</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>0,1</td>
+                <td>Glück +0,2</td>
+                <td>20</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>0,2</td>
+                <td>Glück +0,3</td>
+                <td>30</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>0,3</td>
+                <td>Glück x1,1</td>
+                <td>50 (x1,06/Kauf)</td>
+                <td>Wiederholbar</td>
+              </tr>
+              <tr>
+                <td>1,0</td>
+                <td>Münzmultiplikator +0,2</td>
+                <td>10</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>2,0</td>
+                <td>Münzmultiplikator +0,2</td>
+                <td>25</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>2,1</td>
+                <td>Münzmultiplikator +0,3</td>
+                <td>30</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>2,2</td>
+                <td>Münzmultiplikator +0,3</td>
+                <td>50 (x1,08/Kauf)</td>
+                <td>Wiederholbar</td>
+              </tr>
+              <tr>
+                <td>3,0</td>
+                <td>Knopf häufiger drückbar</td>
+                <td>100</td>
+                <td>-0,3s</td>
+              </tr>
+              <tr>
+                <td>4,0</td>
+                <td>Knopf häufiger drückbar</td>
+                <td>250</td>
+                <td>-0,2s</td>
+              </tr>
+              <tr>
+                <td>4,1</td>
+                <td>Autoklicker auf Knopf</td>
+                <td>500</td>
+                <td>10 Sek./Klick</td>
+              </tr>
+              <tr>
+                <td>4,2</td>
+                <td>Immer min. Selten III</td>
+                <td>1000</td>
+                <td>Sonst Wurf regeneriert</td>
+              </tr>
+              <tr>
+                <td>4,3</td>
+                <td>Immer min. Sehr selten II</td>
+                <td>1500</td>
+                <td>Sonst Wurf regeneriert</td>
+              </tr>
+              <tr>
+                <td>5,0</td>
+                <td>10% Chance für 2x Münzen</td>
+                <td>750</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>5,1</td>
+                <td>10% Chance für Seltenheit +1</td>
+                <td>2500</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>5,2</td>
+                <td>0,3% Chance für 100x Münzen</td>
+                <td>6500</td>
+                <td>-</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <blockquote>Ja ich hab die ÜBER SELTENE Seltenheit bekommen WOW</blockquote>
+      `,
+      categories: ['spiele'],
+      created: '2026-07-23',
+      edited: '2026-07-23',
+      related: [],
+      weight: 1
+    },
+    'rng': {
+      title: 'RNG',
+      redirectTo: "n42's rng"
+    },
     'als obob spiel': {
       title: 'Als Obob Spiel',
       content: `
@@ -243,6 +390,12 @@ const pagesGames = {
     },
     '8b rng': {
       title: '8b RNG',
+      warnings: [
+          {
+            type: 'info',
+            text: `Nicht zu verwechseln mit <a href="#" onclick="event.preventDefault(); navigateTo('n42s rng')">n42's RNG.</a>`
+          }
+      ],
       content: `
         <div class="infobox">
           <div class="infobox-header">8b RNG</div>
@@ -260,7 +413,7 @@ const pagesGames = {
       `,
       categories: ['spiele'],
       created: '2026-07-18',
-      edited: '2026-07-18',
+      edited: '2026-07-23',
       related: [],
       weight: 1
     },
