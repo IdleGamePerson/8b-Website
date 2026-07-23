@@ -146,12 +146,13 @@ const pagesGames = {
             </tbody>
           </table>
         </div>
-
-        <blockquote>Ich hab nix zu sagen also erwähne ich einfach mal die Zahl 9</blockquote>
+        <h2>Alpha-Version</h2>
+        Vermeidungssimulator hatte eine Alpha. Sie hatte keine Upgrades, und auch einige kleinere Änderungen, wie dass Beschleunigung pro Ring linear um 1% statt exponentiell um 1,5% wächst.
+        <blockquote>NEIN ICH BIN BEI 27 GESTORBEN</blockquote>
       `,
       categories: ['spiele'],
-      created: '2026-07-18',
-      edited: '2026-07-18',
+      created: '2026-07-22',
+      edited: '2026-07-23',
       related: [],
       weight: 1
     },

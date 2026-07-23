@@ -1584,6 +1584,8 @@ const pagesNews = {
         Montag haben wir in Englisch nen Film angefangen.
         <h3>Zeug in Technik</h3>
         In Technik haben wir Kahoots gemacht und Make it Meme gespielt hmmm...
+        <h3>ok</h3>
+        In Deutsch haben "wir" Eis gegessen und Make it Meme gespielt.
         <h2>Panik</h2>
         <h3>Technik KA zurück</h3>
         Die Technik KA wurde zurückgegeben und wir haben herausgefunden dass wir nicht wirklich so schlecht in Technik sind sondern die Bewertung extrem problematisch war.<br>
@@ -1593,23 +1595,27 @@ const pagesNews = {
         JAAAAAAAAA!!!! (wir waren ernsthaft schockiert)
         <h3>(zensiert)</h3>
         Wir haben einen Weg gefunden um unsere iPads einen beliebigen Text aussprechen zu lassen. Der Matheunterricht wurde dadurch sehr interessant.
+        <h3>Letzte Lateinstunde</h3>
+        ENDLICH KEIN LATEIN MEHR!!!!!!
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
         <ul>
           <li>Dienstag 1.+2. - Deutsch ist ausgefallen.</li>
           <li>Dienstag 8.+9. - Physik wurde durch Sport ersetzt.</li>
           <li>Dienstag 10.+11. - Wirtschaft ist ausgefallen.</li>
+          <li>Donnerstag 1.+2. - Geschichte ist ausgefallen.</li>
         </ul>
         <h3>n83-Spawnraten</h3>
         <ul>
           <li>Montag: {10, 10, 1, 1, 10, 2}</li>
           <li>Dienstag: {10, 10, 1, 1, 1, 3}</li>
           <li>Mittwoch: {10, 10, 1, 1, 1, 4}</li>
+          <li>Donnerstag: {10, 10, 1, 1, 1, 10}</li>
         </ul>
       `,
       categories: ['zeitungen'],
       created: '2026-07-20',
-      edited: '2026-07-20',
+      edited: '2026-07-23',
       related: [],
       weight: 1
     }
