@@ -669,7 +669,7 @@ const pagesNews = {
         Dies ist die 13. Ausgabe der 8b-Zeitung für KW 2 2026, von dem 7. bis zu dem 9. Januar 2026.
         <h2>Normales</h2>
         <h3>Ende der Ferien</h3>
-        Die Weihnachtsferien endeten mittwochs. Außerdem ist 2025 kollabiert und ein neues Jahr musste gestartet werden.<br>Dieses neue Jahr hat jedoch einen Bug, wo n83 manchmal spawnt. Spawnraten werden ab jetzt am Ende der Zeitung genannt.
+        Die Weihnachtsferien endeten mittwochs. Außerdem ist 2025 kollabiert und ein neues Jahr musste gestartet werden.<br>Dieses neue Jahr hat jedoch einen Bug, wo n83 manchmal spawnt.
         <h3>Deutsch KA</h3>
         Am Donnerstag wurde die Deutsch KA geschrieben. Sie war sehr einfach.
         <h3>Drogenprävention</h3>
@@ -686,12 +686,6 @@ const pagesNews = {
         <h3>Ausfälle</h3>
         <ul>
           <li>Nein.</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Mittwoch: 3</li>
-          <li>Donnerstag: 4</li>
-          <li>Freitag: 5</li>
         </ul>
       `,
       categories: ['zeitungen'],
@@ -727,14 +721,6 @@ const pagesNews = {
         <ul>
           <li>Montag 1.+2. - Latein ist ausgefallen, weswegen der 12.1. zum Nationalfeiertag erklärt wurde.</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: 7</li>
-          <li>Dienstag: 10</li>
-          <li>Mittwoch: 20</li>
-          <li>Donnerstag: 60</li>
-          <li>Freitag: 200</li>
-        </ul>
       `,
       categories: ['zeitungen'],
       created: '2026-03-27',
@@ -767,14 +753,6 @@ const pagesNews = {
         <ul>
           <li>Mittwoch 3. - Latein ist ausgefallen.</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: 1000</li>
-          <li>Dienstag: 10000</li>
-          <li>Mittwoch: 10^6</li>
-          <li>Donnerstag: 10^9</li>
-          <li>Freitag: 10^15</li>
-        </ul>
       `,
       categories: ['zeitungen'],
       created: '2026-03-27',
@@ -799,12 +777,6 @@ const pagesNews = {
         <h3>Ausfälle</h3>
         <ul>
           <li>Mittwoch 3. - Latein ist ausgefallen.</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: 10^30</li>
-          <li>Dienstag: 10^100</li>
-          <li>Mittwoch: 10^10^6</li>
         </ul>
       `,
       categories: ['zeitungen'],
@@ -834,14 +806,6 @@ const pagesNews = {
         <h3>Ausfälle</h3>
         <ul>
           <li>Dienstag 8.-11. - Mittagsschule ist ausgefallen (wegen Notenkonferenz).</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: 10^10^10</li>
-          <li>Dienstag: 10^10^100</li>
-          <li>Mittwoch: 10^10^10^10</li>
-          <li>Donnerstag: 10^^5</li>
-          <li>Freitag: 10^^10</li>
         </ul>
       `,
       categories: ['zeitungen'],
@@ -880,13 +844,6 @@ const pagesNews = {
         <ul>
           <li>Nein.</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: 10^^50</li>
-          <li>Dienstag: 10^^10^10</li>
-          <li>Mittwoch: 10^^10^^3</li>
-          <li>Donnerstag: 10^^10^^10</li>
-        </ul>
       `,
       categories: ['zeitungen'],
       created: '2026-05-02',
@@ -920,14 +877,6 @@ const pagesNews = {
           <li>Mittwoch 5. - Religion/Ethik ist ausgefallen.</li>
           <li>Donnerstag 6. - Englisch ist ausgefallen.</li>
           <li>Freitag 5.+6. - Technik ist ausgefallen.</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: 10^^10^^10^10</li>
-          <li>Dienstag: 10^^^4</li>
-          <li>Mittwoch: 10^^^5</li>
-          <li>Donnerstag: 10^^^10</li>
-          <li>Freitag: 10^^^10^10</li>
         </ul>
       `,
       categories: ['zeitungen'],
@@ -965,14 +914,6 @@ const pagesNews = {
         <h3>Ausfälle</h3>
         <ul>
           <li>Freitag 4.-11. - Das meiste ist ausgefallen.</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: 10^^^10^^10</li>
-          <li>Dienstag: 10^^^10^^^3</li>
-          <li>Mittwoch: 10^^^^3</li>
-          <li>Donnerstag: 10^^^^10</li>
-          <li>Freitag: 10{5}10</li>
         </ul>
       `,
       categories: ['zeitungen'],
@@ -1018,14 +959,6 @@ const pagesNews = {
           <li>Freitag 1.+2. - Mathe wurde verschoben.</li>
           <li>Freitag 5.+6. - Das Profilfach ist ausgefallen.</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: 10{6}10</li>
-          <li>Dienstag: 10{10}10</li>
-          <li>Mittwoch: 10{100}10</li>
-          <li>Donnerstag: 10{10^10}10</li>
-          <li>Freitag: 10{10^^3}10</li>
-        </ul>
       `,
       categories: ['zeitungen'],
       created: '2026-03-27',
@@ -1053,14 +986,6 @@ const pagesNews = {
         <h3>Ausfälle</h3>
         <ul>
           <li>Montag 5.+6. - Technik ist ausgefallen.</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: 10{10^^10}10</li>
-          <li>Dienstag: 10{10{3}10}10</li>
-          <li>Mittwoch: 10{10{10}10}10</li>
-          <li>Donnerstag: {10, 4, 1, 2}</li>
-          <li>Freitag: {10, 5, 1, 2}</li>
         </ul>
       `,
       categories: ['zeitungen'],
@@ -1097,11 +1022,6 @@ const pagesNews = {
         <h3>Ausfälle</h3>
         <ul>
           <li>Dienstag 5. - Technik ist ausgefallen.</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, 10, 1, 2}</li>
-          <li>Dienstag: Graham's Zahl</li>
         </ul>
       `,
       categories: ['zeitungen'],
@@ -1143,14 +1063,6 @@ const pagesNews = {
           <li>Dienstag 8.-11. - Die Mittagsschule ist ausgefallen.</li>
           <li>Donnerstag 1.+2. - Geschichte ist ausgefallen.</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, {10, 10, 1, 2}, 1, 2}</li>
-          <li>Dienstag: {10, 10, 2, 2}</li>
-          <li>Mittwoch: {10, 10, 3, 2}</li>
-          <li>Donnerstag: {10, 10, 10, 2}</li>
-          <li>Freitag: {10, 10, {10, 10, 10, 2}, 2}</li>
-        </ul>
       `,
       categories: ['zeitungen'],
       created: '2026-05-02',
@@ -1191,14 +1103,6 @@ const pagesNews = {
         <ul>
           <li>Nein.</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, 10, 1, 3}</li>
-          <li>Dienstag: {10, {10, 10, 1, 3}, 1, 3}</li>
-          <li>Mittwoch: {10, 10, 2, 3}</li>
-          <li>Donnerstag: {10, 10, 10, 3}</li>
-          <li>Freitag: {10, 10, {10, 10, 10, 3}, 3}</li>
-        </ul>
       `,
       categories: ['zeitungen'],
       created: '2026-05-02',
@@ -1223,10 +1127,6 @@ const pagesNews = {
         <h3>Ausfälle</h3>
         <ul>
           <li>Nein.</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, 10, 1, 4}</li>
         </ul>
       `,
       categories: ['zeitungen'],
@@ -1268,14 +1168,6 @@ const pagesNews = {
           <li>Mittwoch 1.+2. - Mathe ist ausgefallen.</li>
           <li>Freitag 1.+2. - Mathe ist ausgefallen.</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, 10, 10, 4}</li>
-          <li>Dienstag: {10, 10, 10, 5}</li>
-          <li>Mittwoch: {10, 10, 10, 10}</li>
-          <li>Donnerstag: {10, 10, 10, {10, 10, 10, 10}}</li>
-          <li>Freitag: {10, 10, 1, 1, 2}</li>
-        </ul>
       `,
       categories: ['zeitungen'],
       created: '2026-05-06',
@@ -1304,14 +1196,6 @@ const pagesNews = {
           <li>Montag 4. - Englisch ist bei Gruppe 1 ausgefallen.</li>
           <li>Dienstag 8.+9. - Physik ist ausgefallen.</li>
           <li>Donnerstag 1.-11. - Der ganze Tag ist ausgefallen.</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, {10, 10, 1, 1, 2}, 1, 1, 2}</li>
-          <li>Dienstag: {10, 10, 2, 1, 2}</li>
-          <li>Mittwoch: {10, 10, 3, 1, 2}</li>
-          <li>Donnerstag: {10, 10, 10, 1, 2}</li>
-          <li>Freitag: {10, 10, {10, 10, 10, 1, 2}, 1, 2}</li>
         </ul>
       `,
       categories: ['zeitungen'],
@@ -1345,14 +1229,6 @@ const pagesNews = {
           <li>Donnerstag 5. - Latein ist ausgefallen. ENDLICH!!!!!!</li>
           <li>Freitag 1.+2. - Mathe ist ausgefallen.</li>
           <li>Freitag 5.+6. - Technik ist ausgefallen.</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, 10, 1, 2, 2}</li>
-          <li>Dienstag: {10, 10, 2, 2, 2}</li>
-          <li>Mittwoch: {10, 10, 10, 2, 2}</li>
-          <li>Donnerstag: {10, 10, {10, 10, 10, 2, 2}, 2, 2}</li>
-          <li>Freitag: {10, 10, 1, 3, 2}</li>
         </ul>
       `,
       categories: ['zeitungen'],
@@ -1391,14 +1267,6 @@ const pagesNews = {
         <ul>
           <li>Nein.</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, 10, 2, 3, 2}</li>
-          <li>Dienstag: {10, 10, 10, 3, 2}</li>
-          <li>Mittwoch: {10, 10, 1, 4, 2}</li>
-          <li>Donnerstag: {10, 10, 1, 10, 2}</li>
-          <li>Donnerstag: {10, 10, 1, 1, 3}</li>
-        </ul>
       `,
       categories: ['zeitungen'],
       created: '2026-06-08',
@@ -1434,14 +1302,6 @@ const pagesNews = {
         <ul>
           <li>Nein.</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, 10, 2, 1, 3}</li>
-          <li>Dienstag: {10, 10, 10, 1, 3}</li>
-          <li>Mittwoch: {10, 10, 1, 2, 3}</li>
-          <li>Donnerstag: {10, 10, 10, 2, 3}</li>
-          <li>Freitag: {10, 10, 1, 3, 3}</li>
-        </ul>
       `,
       categories: ['zeitungen'],
       created: '2026-06-15',
@@ -1471,13 +1331,6 @@ const pagesNews = {
           <li>Freitag 5.+6. - Technik ist überraschenderweise ausgefallen.</li>
           <li>Freitag 8.+9. - Kunst ist ausgefallen.</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, 10, 1, 10, 3}</li>
-          <li>Dienstag: {10, 10, 1, 1, 4}</li>
-          <li>Mittwoch: {10, 10, 1, 1, 5}</li>
-          <li>Donnerstag: {10, 10, 1, 1, 10}</li>
-        </ul>
       `,
       categories: ['zeitungen'],
       created: '2026-06-22',
@@ -1500,10 +1353,6 @@ const pagesNews = {
         <h3>Ausfälle</h3>
         <ul>
           <li>Dienstag 5. - Technik ist ausgefallen.</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Dienstag: {10, 10, 1, 1, 1, 2}</li>
         </ul>
       `,
       categories: ['zeitungen'],
@@ -1531,14 +1380,6 @@ const pagesNews = {
           <li>Dienstag 5. - Technik ist ausgefallen.</li>
           <li>Mittwoch 3. - Latein wurde ersetzt lets GO!!!!!!</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, 10, 2, 1, 1, 2}</li>
-          <li>Dienstag: {10, 10, 10, 1, 1, 2}</li>
-          <li>Mittwoch: {10, 10, 1, 2, 1, 2}</li>
-          <li>Donnerstag: {10, 10, 1, 10, 1, 2}</li>
-          <li>Freitag: {10, 10, 1, 1, 2, 2}</li>
-        </ul>
       `,
       categories: ['zeitungen'],
       created: '2026-07-07',
@@ -1563,11 +1404,6 @@ const pagesNews = {
         <ul>
           <li>Dienstag 3.+4. - Englisch ist nicht ausgefallen, aber es war SoL</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, 10, 1, 2, 2, 2}</li>
-          <li>Dienstag: {10, 10, 1, 1, 3, 2}</li>
-        </ul>
       `,
       categories: ['zeitungen'],
       created: '2026-07-07',
@@ -1586,6 +1422,8 @@ const pagesNews = {
         In Technik haben wir Kahoots gemacht und Make it Meme gespielt hmmm...
         <h3>ok</h3>
         In Deutsch haben "wir" Eis gegessen und Make it Meme gespielt.
+        <h3>Bücherabgabe</h3>
+        Wir haben die Bücher abgegeben.
         <h2>Panik</h2>
         <h3>Technik KA zurück</h3>
         Die Technik KA wurde zurückgegeben und wir haben herausgefunden dass wir nicht wirklich so schlecht in Technik sind sondern die Bewertung extrem problematisch war.<br>
@@ -1604,13 +1442,6 @@ const pagesNews = {
           <li>Dienstag 8.+9. - Physik wurde durch Sport ersetzt.</li>
           <li>Dienstag 10.+11. - Wirtschaft ist ausgefallen.</li>
           <li>Donnerstag 1.+2. - Geschichte ist ausgefallen.</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, 10, 1, 1, 10, 2}</li>
-          <li>Dienstag: {10, 10, 1, 1, 1, 3}</li>
-          <li>Mittwoch: {10, 10, 1, 1, 1, 4}</li>
-          <li>Donnerstag: {10, 10, 1, 1, 1, 10}</li>
         </ul>
       `,
       categories: ['zeitungen'],
