@@ -156,6 +156,85 @@ const pagesGames = {
       related: [],
       weight: 1
     },
+    'insolvenzklicker': {
+      title: 'Insolvenzklicker',
+      content: `
+        <div class="infobox">
+          <div class="infobox-header">Insolvenzklicker</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Genre</span>
+              <span class="infobox-value">Challenge</span>
+            </div>
+          </div>
+        </div>
+        Insolvenzklicker ist <strong>ein 8b-Spiel.</strong><br>
+        Man muss 500 Punkte erreichen, indem man auf +1 drückt. Alle 50 Punkte geht die Phase hoch, was das Spiel schwieriger macht:
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <td>Phase</td>
+                <td>Effekt</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>Nix besonderes</td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>4 Knöpfe, davon nur einer +1, +1 wechselt sich alle 1,2-1,8s</td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>Hintergrund ist -1</td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>Knöpfe außer +1 sind zu 2/7 0 und zu je 1/7 -1 bis -5</td>
+              </tr>
+              <tr>
+                <td>5</td>
+                <td>-5 Wand erscheint alle 8-12s über Knöpfen und Hintergrund (0,25s Vorwarnungszeit) und bleibt 1,8s</td>
+              </tr>
+              <tr>
+                <td>6</td>
+                <td>Der +1 Knopf ist kleiner</td>
+              </tr>
+              <tr>
+                <td>7</td>
+                <td>Knöpfe bewegen sich</td>
+              </tr>
+              <tr>
+                <td>8</td>
+                <td>+1 Knopf bewegt sich dreimal so schnell</td>
+              </tr>
+              <tr>
+                <td>9</td>
+                <td>Wand erscheint doppelt so oft und nur 0,1s Vorwarnungszeit</td>
+              </tr>
+              <tr>
+                <td>10</td>
+                <td>Knöpfe wechseln sich dreimal so häufig</td>
+              </tr>
+              <tr>
+                <td>Post-Game</td>
+                <td>Verliere passiv Punkte</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        Phasen gehen nie runter.
+        <blockquote>o</blockquote>
+      `,
+      categories: ['spiele'],
+      created: '2026-07-25',
+      edited: '2026-07-25',
+      related: [],
+      weight: 1
+    },
     "n42s rng": {
       title: "n42's RNG",
       warnings: [

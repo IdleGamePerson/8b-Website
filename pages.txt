@@ -392,6 +392,402 @@ Wichtig: Nein
 
 ------------------------------
 
+=== The 8b Rooms ===
+
+Inhalt:
+
+        <div class="infobox">
+          <div class="infobox-header">The 8b Rooms</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Genre</span>
+              <span class="infobox-value">Rooms-ähnlich</span>
+            </div>
+          </div>
+        </div>
+        <a href="https:
+        Man startet in Raum 0 mit 3 HP, was auch das Maximum ist, und man muss zu Raum 999 kommen, ohne zu sterben, um zu gewinnen.<br>
+        Bewegen: Man kann sich mit WASD bewegen. Dies erfordert jedoch Energie. Man kann auch mit Q sprinten, was Bewegungsgeschwindigkeit verdoppelt, aber 5x so viel Energie erfordert. Verliert man alle seine Energie, verliert man 1 HP und man kann sich nicht bewegen, bis sie sich wieder auf 100% auffüllt.<br>
+        Verstecke: Es gibt Schränke. Man kann sich mit E in einem Schrank verstecken. Während man versteckt ist, verliert man 20% Sauerstoff pro Sekunde. Verliert man all sein Sauerstoff, verliert man 1 HP und wird aus dem Versteck rausgekickt.<br>
+        Medizin: Erscheint zu 12% in einem Raum, man kann es einsammeln (Maximum 20). Gibt 1 HP.<br>
+        Bücher: Es gibt auf dem Weg Bücher, die man einsammeln kann, aber sie haben keinen Effekt.
+        <h2>Gegner</h2>
+        Gegner sind das Hauptproblem des Spiels. Es gibt 4 Gegner:
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <td>Name</td>
+                <td>Erscheinung</td>
+                <td>Attackierweise</td>
+                <td>Nimmt _ HP</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Schüler</td>
+                <td>10% Chance pro Raum ab Raum 40</td>
+                <td>Flackert Licht, erscheint 7 Sekunden danach. Man muss sich verstecken.</td>
+                <td>3</td>
+              </tr>
+              <tr>
+                <td>Lehrer</td>
+                <td>20% Chance pro Raum ab Raum 70</td>
+                <td>Attackiert wenn man in einem Raum mit ihm stillsteht (außer wenn man in einem Versteck ist) (Toleranz: 2s nach Betreten des Raumes)</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Vakuum</td>
+                <td>15% Chance pro Raum ab Raum 90</td>
+                <td>Erscheint als falsch nummerierte Tür, die beim Betreten attackiert</td>
+                <td>2</td>
+              </tr>
+              <tr>
+                <td>Uhr</td>
+                <td>5% Chance pro Raum ab Raum 100</td>
+                <td>Attackiert wenn man zu lange in Raum mit ihm bleibt</td>
+                <td>3</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <blockquote>Ich hab nix zu sagen also erwähne ich einfach mal die Zahl 9</blockquote>
+      
+
+Kategorien: spiele
+
+Erstellt: 18.07.2026
+Bearbeitet: 18.07.2026
+
+Wichtig: Nein
+
+------------------------------
+
+=== Vermeidungssimulator ===
+
+Inhalt:
+
+        <div class="infobox">
+          <div class="infobox-header">Vermeidungssimulator</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Genre</span>
+              <span class="infobox-value">Spiel</span>
+            </div>
+          </div>
+        </div>
+        <a href="https:
+        Man spielt als kleiner Kreis. Es gibt auch einen großen Kreis, der einen mit 2/3 der Geschwindigkeit von sich selbst folgt. Als letztes gibt es einen schwarzen Ring.<br>
+        Wenn man den großen Kreis berührt, verliert man. Wenn man den schwarzen Ring berührt, bekommt man einen schwarzen Ring und wird 1,5% schneller, exponentiell.
+        <h2>Upgrades</h2>
+        Im Hauptmenü kann man Upgrades kaufen. Am Anfang kann man nur das Upgrade auf 0,0 kaufen und sonst kann ein Upgrade gekauft werden, wenn man ein benachbartes Upgrade gekauft hat.<br>
+        Upgrades:
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <td>Koordinaten</td>
+                <td>Upgrade</td>
+                <td>Kosten</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>0,0</td>
+                <td>Großer Kreis 10% langsamer</td>
+                <td>25 schwarze Ringe</td>
+              </tr>
+              <tr>
+                <td>0,1</td>
+                <td>Du bist 5% schneller</td>
+                <td>50 schwarze Ringe</td>
+              </tr>
+              <tr>
+                <td>0,-1</td>
+                <td>Großer Kreis 5% langsamer</td>
+                <td>100 schwarze Ringe</td>
+              </tr>
+              <tr>
+                <td>0,2</td>
+                <td>Nur 5s Wartezeit nach Spielende</td>
+                <td>100 schwarze Ringe</td>
+              </tr>
+              <tr>
+                <td>-1,0</td>
+                <td>10% Chance auf +1 Ring</td>
+                <td>125 schwarze Ringe</td>
+              </tr>
+              <tr>
+                <td>0,-2</td>
+                <td>Doppelte schwarze Ringe</td>
+                <td>125 schwarze Ringe</td>
+              </tr>
+              <tr>
+                <td>-1,-1</td>
+                <td>Zweiter schwarzer Ring erscheint</td>
+                <td>250 schwarze Ringe</td>
+              </tr>
+              <tr>
+                <td>-2,-1</td>
+                <td>1 der schwarzen Ringe werden blau</td>
+                <td>300 schwarze Ringe</td>
+              </tr>
+              <tr>
+                <td>1,0</td>
+                <td>Grüner Kreis 10% kleiner</td>
+                <td>1 blauer Ring</td>
+              </tr>
+              <tr>
+                <td>1,2</td>
+                <td>Kreise beschleunigen nur um 1,25%</td>
+                <td>3 blaue Ringe</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <h2>Alpha-Version</h2>
+        Vermeidungssimulator hatte eine Alpha. Sie hatte keine Upgrades, und auch einige kleinere Änderungen, wie dass Beschleunigung pro Ring linear um 1% statt exponentiell um 1,5% wächst.
+        <blockquote>NEIN ICH BIN BEI 27 GESTORBEN</blockquote>
+      
+
+Kategorien: spiele
+
+Erstellt: 22.07.2026
+Bearbeitet: 23.07.2026
+
+Wichtig: Nein
+
+------------------------------
+
+=== Insolvenzklicker ===
+
+Inhalt:
+
+        <div class="infobox">
+          <div class="infobox-header">Insolvenzklicker</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Genre</span>
+              <span class="infobox-value">Challenge</span>
+            </div>
+          </div>
+        </div>
+        Insolvenzklicker ist <strong>ein 8b-Spiel.</strong><br>
+        Man muss 500 Punkte erreichen, indem man auf +1 drückt. Alle 50 Punkte geht die Phase hoch, was das Spiel schwieriger macht:
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <td>Phase</td>
+                <td>Effekt</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>Nix besonderes</td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>4 Knöpfe, davon nur einer +1, +1 wechselt sich alle 1,2-1,8s</td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>Hintergrund ist -1</td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>Knöpfe außer +1 sind zu 2/7 0 und zu je 1/7 -1 bis -5</td>
+              </tr>
+              <tr>
+                <td>5</td>
+                <td>-5 Wand erscheint alle 8-12s über Knöpfen und Hintergrund (0,25s Vorwarnungszeit) und bleibt 1,8s</td>
+              </tr>
+              <tr>
+                <td>6</td>
+                <td>Der +1 Knopf ist kleiner</td>
+              </tr>
+              <tr>
+                <td>7</td>
+                <td>Knöpfe bewegen sich</td>
+              </tr>
+              <tr>
+                <td>8</td>
+                <td>+1 Knopf bewegt sich dreimal so schnell</td>
+              </tr>
+              <tr>
+                <td>9</td>
+                <td>Wand erscheint doppelt so oft und nur 0,1s Vorwarnungszeit</td>
+              </tr>
+              <tr>
+                <td>10</td>
+                <td>Knöpfe wechseln sich dreimal so häufig</td>
+              </tr>
+              <tr>
+                <td>Post-Game</td>
+                <td>Verliere passiv Punkte</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        Phasen gehen nie runter.
+        <blockquote>o</blockquote>
+      
+
+Kategorien: spiele
+
+Erstellt: 25.07.2026
+Bearbeitet: 25.07.2026
+
+Wichtig: Nein
+
+------------------------------
+
+=== n42's RNG ===
+
+Inhalt:
+
+        <div class="infobox">
+          <div class="infobox-header">n42's RNG</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Genre</span>
+              <span class="infobox-value">Glücksspiel</span>
+            </div>
+          </div>
+        </div>
+        <a href="https:
+        Man generiert mit einem alle 2,5s drückbaren Knopf Seltenheiten, um Münzen zu erhalten.<br>
+        Folgendes ist die Liste an allen Seltenheiten im Spiel: Gewöhnlich, Ungewöhnlich, Selten, Sehr selten, Episch, Legendär, Mythisch, Exotisch, Perfekt, Mysteriös, Verrückt, Extrem, Ultimativ, Super, Ewig, Himmlisch, Göttlich, Transzendent, Omega, Unendlich, Hyper-Unendlich.<br>
+        Jede Seltenheit hat 5 Unterkategorien I, II, III, IV, V (außer Hyper-Unendlich, welches unendlich viele hat). Gewöhnlich I ist 1 zu 6 und gibt 1 Münze.<br>
+        Jede Unterkategorie ist 1.2x seltener und gibt 1.1x mehr Münzen als die vorherige und jede Seltenheit ist 2.48832x seltener und gibt 1.61051x mehr Münzen als die vorherige.
+        <h2>Upgrades</h2>
+        0,0 kann immer gekauft werden und andere Upgrades nur, wenn man ein benachbartes Upgrade besitzt.
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <td>Koordinaten</td>
+                <td>Upgrade</td>
+                <td>Kosten (Münzen)</td>
+                <td>Details</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>0,0</td>
+                <td>Glück +0,2</td>
+                <td>10</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>0,1</td>
+                <td>Glück +0,2</td>
+                <td>20</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>0,2</td>
+                <td>Glück +0,3</td>
+                <td>30</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>0,3</td>
+                <td>Glück x1,1</td>
+                <td>50 (x1,06/Kauf)</td>
+                <td>Wiederholbar</td>
+              </tr>
+              <tr>
+                <td>1,0</td>
+                <td>Münzmultiplikator +0,2</td>
+                <td>10</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>2,0</td>
+                <td>Münzmultiplikator +0,2</td>
+                <td>25</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>2,1</td>
+                <td>Münzmultiplikator +0,3</td>
+                <td>30</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>2,2</td>
+                <td>Münzmultiplikator +0,3</td>
+                <td>50 (x1,08/Kauf)</td>
+                <td>Wiederholbar</td>
+              </tr>
+              <tr>
+                <td>3,0</td>
+                <td>Knopf häufiger drückbar</td>
+                <td>100</td>
+                <td>-0,3s</td>
+              </tr>
+              <tr>
+                <td>4,0</td>
+                <td>Knopf häufiger drückbar</td>
+                <td>250</td>
+                <td>-0,2s</td>
+              </tr>
+              <tr>
+                <td>4,1</td>
+                <td>Autoklicker auf Knopf</td>
+                <td>500</td>
+                <td>10 Sek./Klick</td>
+              </tr>
+              <tr>
+                <td>4,2</td>
+                <td>Immer min. Selten III</td>
+                <td>1000</td>
+                <td>Sonst Wurf regeneriert</td>
+              </tr>
+              <tr>
+                <td>4,3</td>
+                <td>Immer min. Sehr selten II</td>
+                <td>1500</td>
+                <td>Sonst Wurf regeneriert</td>
+              </tr>
+              <tr>
+                <td>5,0</td>
+                <td>10% Chance für 2x Münzen</td>
+                <td>750</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>5,1</td>
+                <td>10% Chance für Seltenheit +1</td>
+                <td>2500</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>5,2</td>
+                <td>0,3% Chance für 100x Münzen</td>
+                <td>6500</td>
+                <td>-</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <blockquote>Ja ich hab die ÜBER SELTENE Seltenheit bekommen WOW</blockquote>
+      
+
+Kategorien: spiele
+
+Erstellt: 23.07.2026
+Bearbeitet: 23.07.2026
+
+Wichtig: Nein
+
+Hinweise:
+! [info] Nicht zu verwechseln mit <a href="#" onclick="event.preventDefault(); navigateTo('8b rng')">8b RNG.</a>
+
+------------------------------
+
 === Als Obob Spiel ===
 
 Inhalt:
@@ -472,6 +868,37 @@ Erstellt: 24.05.2026
 Bearbeitet: 24.05.2026
 
 Wichtig: Nein
+
+------------------------------
+
+=== 8b RNG ===
+
+Inhalt:
+
+        <div class="infobox">
+          <div class="infobox-header">8b RNG</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Genre</span>
+              <span class="infobox-value">Glücksspiel</span>
+            </div>
+          </div>
+        </div>
+        8b RNG ist eine einzige Formel: 1/rand(0,1).<br>
+        Es gibt einen Luck Trank der manchmal erscheint und die Zahl quadriert<br>
+        Bei einer Zahl über 100 erscheint ein low quality Stern
+        <blockquote>FÜNF TAUSEND!!!!!!</blockquote>
+      
+
+Kategorien: spiele
+
+Erstellt: 18.07.2026
+Bearbeitet: 23.07.2026
+
+Wichtig: Nein
+
+Hinweise:
+! [info] Nicht zu verwechseln mit <a href="#" onclick="event.preventDefault(); navigateTo('n42s rng')">n42's RNG.</a>
 
 ------------------------------
 
@@ -979,6 +1406,62 @@ Wichtig: Nein
 
 ------------------------------
 
+=== Weltmeisterschaften ===
+
+Inhalt:
+
+        Frage als <strong>Spieler in einer Weltmeisterschaft</strong> nach den Regeln des Spiels.<br>Es zeigt viel Wissen und Erfahrung.
+        <blockquote>Du spielst in ner WM wie weißt du nicht wie das Spiel klappt</blockquote>
+      
+
+Kategorien: insider
+
+Erstellt: 20.07.2026
+Bearbeitet: 20.07.2026
+
+Wichtig: Nein
+
+------------------------------
+
+=== Nuklearpritt ===
+
+Inhalt:
+
+        Nuklearpritt ist <strong>ein Kleber</strong>. Er ist durch seine Radioaktivität speziell.
+        <h2>Chemische Komposition</h2>
+        Nuklearpritt besteht aus verschiedenen Materialien:
+        <ul>
+          <li>32% Pritt</li>
+          <li>44% Uran</li>
+          <li>20% Plutonium</li>
+          <li>4% Antimaterie</li>
+        </ul>
+        <h2>Alternative Namen</h2>
+        Manche Leute nennen Nuklearpritt auch etwas anderes:
+        <ul>
+          <li>Nuklearkleber</li>
+          <li>Atompritt</li>
+          <li>α-Pritt</li>
+          <li>PrittDonald's Pritt</li>
+          <li>Eher instabiles Pritt</li>
+        </ul>
+        <h2>Erwerbung</h2>
+        Kann in einer PrittDonald's Filiale für nur {X,X,100(1)2}&10 Euro gekauft werden.
+        <blockquote>AAAAAAaaaaa</blockquote>
+      
+
+Kategorien: insider
+
+Erstellt: 20.07.2026
+Bearbeitet: 20.07.2026
+
+Wichtig: Nein
+
+Hinweise:
+! [warning] WICHTIG: Dies ist kein echtes Produkt von Pritt.
+
+------------------------------
+
 === Knochenanzahl ===
 
 Inhalt:
@@ -1232,16 +1715,111 @@ Wichtig: Nein
 
 ------------------------------
 
-=== TFF3125 ===
+=== Geometry Dash ===
 
 Inhalt:
 
-        TFF3125 ist <strong>der Geometry Dash Account</strong> von <a href="#" onclick="event.preventDefault(); navigateTo('n42')">n42</a> und <a href="#" onclick="event.preventDefault(); navigateTo('n94')">n94</a>.
-        <blockquote>A.</blockquote>
+        Geometry Dash ist <strong>ein Videospiel</strong> von RobTopGames. Als ob.<br>
+        Einige Leute in der 8b spielen Geometry Dash.<br>
+        Folgendes ist eine Tabelle an allen GD Spielern in der 8b über die ich genug Infos bekommen konnte also so 20%:
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+               <td>Typ</td>
+               <td><a href="#" onclick="event.preventDefault(); navigateTo('n94')">n94</a></td>
+               <td><a href="#" onclick="event.preventDefault(); navigateTo('n42')">n42</a></td>
+               <td><a href="#" onclick="event.preventDefault(); navigateTo('n42')">n79</a></td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Account</td>
+                <td>TFF3125</td>
+                <td>Quadrat12</td>
+                <td>BenutzerIQ</td>
+              </tr>
+              <tr>
+                <td>Stars</td>
+                <td>1225</td>
+                <td>809</td>
+                <td>179</td>
+              </tr>
+              <tr>
+                <td>Moons</td>
+                <td>108</td>
+                <td>257</td>
+                <td>172</td>
+              </tr>
+              <tr>
+                <td>Secret Coins</td>
+                <td>85</td>
+                <td>102</td>
+                <td>27</td>
+              </tr>
+              <tr>
+                <td>User Coins</td>
+                <td>134</td>
+                <td>71</td>
+                <td>28</td>
+              </tr>
+              <tr>
+                <td>Diamonds</td>
+                <td>3386</td>
+                <td>2223</td>
+                <td>729</td>
+              </tr>
+              <tr>
+                <td>Easy Demons</td>
+                <td>22</td>
+                <td>11</td>
+                <td>12</td>
+              </tr>
+              <tr>
+                <td>Medium Demons</td>
+                <td>5</td>
+                <td>2</td>
+                <td>3</td>
+              </tr>
+              <tr>
+                <td>Hard Demons</td>
+                <td>3</td>
+                <td>0</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Insane Demons</td>
+                <td>4</td>
+                <td>0</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Extreme Demons</td>
+                <td>1</td>
+                <td>0</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Hardest</td>
+                <td>Sweater Weather (AREDL #1497)</td>
+                <td>Nine Circles (GDDL 11)</td>
+                <td>(Keine Infos)</td>
+              </tr>
+              <tr>
+                <td>Created Levels</td>
+                <td>87</td>
+                <td>2</td>
+                <td>9</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        Notiz: TFF3125 war der geteilte Account von n94 und n42, bevor n42 einen eigenen Account gemacht hat.
+        <blockquote>GEOMETRY DASH</blockquote>
       
 
 Erstellt: 11.02.2026
-Bearbeitet: 11.02.2026
+Bearbeitet: 22.07.2026
 
 Wichtig: Nein
 
@@ -1820,6 +2398,23 @@ Wichtig: Nein
 
 Inhalt:
 
+        <div class="infobox">
+          <div class="infobox-header">Syndrome</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Insider-Art</span>
+              <span class="infobox-value">Eingespawnt</span>
+            </div>
+            <div class="infobox-row">
+              <span class="infobox-label">Entstanden in</span>
+              <span class="infobox-value">Sport</span>
+            </div>
+            <div class="infobox-row">
+              <span class="infobox-label">Typ</span>
+              <span class="infobox-value">n79</span>
+            </div>
+          </div>
+        </div>
         Syndrome sind Syndrome. Die 8b denkt sich manchmal Syndrome aus für bestimmtes Verhalten.
         <h2>n79-Syndrom</h2>
         Das bekannteste Syndrom ist das n79-Syndrom, benannt nach <a href="#" onclick="event.preventDefault(); navigateTo('n79')">n79</a>. Das n79-Syndrom ist eine ansteckende, chronische und schlechte Krankheit, welche nach n79 benannt ist und als die Tendenz definiert ist, sich im Sportunterricht komisch zu verhalten. Es wurde nach n79 benannt.
@@ -1841,6 +2436,23 @@ Wichtig: Nein
 
 Inhalt:
 
+        <div class="infobox">
+          <div class="infobox-header">The going-to future</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Insider-Art</span>
+              <span class="infobox-value">Eingespawnt</span>
+            </div>
+            <div class="infobox-row">
+              <span class="infobox-label">Entstanden in</span>
+              <span class="infobox-value">Englisch</span>
+            </div>
+            <div class="infobox-row">
+              <span class="infobox-label">Typ</span>
+              <span class="infobox-value">Mr Englisch</span>
+            </div>
+          </div>
+        </div>
         Dies ist eine englische Zeitform.<br>
         Im Englischunterricht durften wir mal unsere eigenen Erklärvideos für sie machen diese Aufgabe war nice.
         <blockquote>THE GOING TO FUTURE IS AN ENGLISH TENSE USED FOR </blockquote>
@@ -1850,6 +2462,40 @@ Kategorien: insider
 
 Erstellt: 22.06.2026
 Bearbeitet: 22.06.2026
+
+Wichtig: Nein
+
+------------------------------
+
+=== Formelle Konversationen ===
+
+Inhalt:
+
+        <div class="infobox">
+          <div class="infobox-header">Formelle Konversationen</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Insider-Art</span>
+              <span class="infobox-value">Eingespawnt</span>
+            </div>
+            <div class="infobox-row">
+              <span class="infobox-label">Entstanden in</span>
+              <span class="infobox-value">Niemand weiß</span>
+            </div>
+            <div class="infobox-row">
+              <span class="infobox-label">Typ</span>
+              <span class="infobox-value">ähhhhhh</span>
+            </div>
+          </div>
+        </div>
+        Es ist lustig wenn man formell über extrem absurde Themen spricht
+        <blockquote>Herzlich willkommen zu dieser Präsentation über die Äquivalenz des Mathelehrers und der Sphinx.</blockquote>
+      
+
+Kategorien: insider
+
+Erstellt: 18.07.2026
+Bearbeitet: 18.07.2026
 
 Wichtig: Nein
 
@@ -2456,7 +3102,7 @@ Inhalt:
         <br>Die Rubriken sind Normales, Panik und 8b-Sachen.
         <br><b>Links</b>, nicht zu verwechseln mit Rechts:
         <ul>
-          <li><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 26')">Neueste Ausgabe</a></li>
+          <li><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 30')">Neueste Ausgabe</a></li>
           <li><a href="#" onclick="event.preventDefault(); navigateTo('category-zeitungen')">Alle Ausgaben</a></li>
         </ul>
         <h2>Alle Ausgaben</h2>
@@ -2470,6 +3116,26 @@ Inhalt:
               </tr>
             </thead>
             <tbody>
+              <tr>
+                <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 30')">KW 30, 2026</a></td>
+                <td>20.-24. Jul. 2026</td>
+                <td>36.</td>
+              </tr>
+              <tr>
+                <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 29')">KW 29, 2026</a></td>
+                <td>13.-17. Jul. 2026</td>
+                <td>35.</td>
+              </tr>
+              <tr>
+                <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 28')">KW 28, 2026</a></td>
+                <td>6.-10. Jul. 2026</td>
+                <td>34.</td>
+              </tr>
+              <tr>
+                <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 27')">KW 27, 2026</a></td>
+                <td>29.-3. Jun./Jul. 2026</td>
+                <td>33.</td>
+              </tr>
               <tr>
                 <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 26')">KW 26, 2026</a></td>
                 <td>22.-26. Juni 2026</td>
@@ -2639,7 +3305,7 @@ Inhalt:
 Kategorien: zeitungen, antimaterie
 
 Erstellt: 28.02.2026
-Bearbeitet: 18.05.2026
+Bearbeitet: 30.06.2026
 
 Wichtig: Nein
 
@@ -3162,7 +3828,7 @@ Inhalt:
         Dies ist die 13. Ausgabe der 8b-Zeitung für KW 2 2026, von dem 7. bis zu dem 9. Januar 2026.
         <h2>Normales</h2>
         <h3>Ende der Ferien</h3>
-        Die Weihnachtsferien endeten mittwochs. Außerdem ist 2025 kollabiert und ein neues Jahr musste gestartet werden.<br>Dieses neue Jahr hat jedoch einen Bug, wo n83 manchmal spawnt. Spawnraten werden ab jetzt am Ende der Zeitung genannt.
+        Die Weihnachtsferien endeten mittwochs. Außerdem ist 2025 kollabiert und ein neues Jahr musste gestartet werden.<br>Dieses neue Jahr hat jedoch einen Bug, wo n83 manchmal spawnt.
         <h3>Deutsch KA</h3>
         Am Donnerstag wurde die Deutsch KA geschrieben. Sie war sehr einfach.
         <h3>Drogenprävention</h3>
@@ -3179,12 +3845,6 @@ Inhalt:
         <h3>Ausfälle</h3>
         <ul>
           <li>Nein.</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Mittwoch: 3</li>
-          <li>Donnerstag: 4</li>
-          <li>Freitag: 5</li>
         </ul>
       
 
@@ -3225,14 +3885,6 @@ Inhalt:
         <ul>
           <li>Montag 1.+2. - Latein ist ausgefallen, weswegen der 12.1. zum Nationalfeiertag erklärt wurde.</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: 7</li>
-          <li>Dienstag: 10</li>
-          <li>Mittwoch: 20</li>
-          <li>Donnerstag: 60</li>
-          <li>Freitag: 200</li>
-        </ul>
       
 
 Kategorien: zeitungen
@@ -3270,14 +3922,6 @@ Inhalt:
         <ul>
           <li>Mittwoch 3. - Latein ist ausgefallen.</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: 1000</li>
-          <li>Dienstag: 10000</li>
-          <li>Mittwoch: 10^6</li>
-          <li>Donnerstag: 10^9</li>
-          <li>Freitag: 10^15</li>
-        </ul>
       
 
 Kategorien: zeitungen
@@ -3307,12 +3951,6 @@ Inhalt:
         <h3>Ausfälle</h3>
         <ul>
           <li>Mittwoch 3. - Latein ist ausgefallen.</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: 10^30</li>
-          <li>Dienstag: 10^100</li>
-          <li>Mittwoch: 10^10^6</li>
         </ul>
       
 
@@ -3347,14 +3985,6 @@ Inhalt:
         <h3>Ausfälle</h3>
         <ul>
           <li>Dienstag 8.-11. - Mittagsschule ist ausgefallen (wegen Notenkonferenz).</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: 10^10^10</li>
-          <li>Dienstag: 10^10^100</li>
-          <li>Mittwoch: 10^10^10^10</li>
-          <li>Donnerstag: 10^^5</li>
-          <li>Freitag: 10^^10</li>
         </ul>
       
 
@@ -3398,13 +4028,6 @@ Inhalt:
         <ul>
           <li>Nein.</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: 10^^50</li>
-          <li>Dienstag: 10^^10^10</li>
-          <li>Mittwoch: 10^^10^^3</li>
-          <li>Donnerstag: 10^^10^^10</li>
-        </ul>
       
 
 Kategorien: zeitungen
@@ -3443,14 +4066,6 @@ Inhalt:
           <li>Mittwoch 5. - Religion/Ethik ist ausgefallen.</li>
           <li>Donnerstag 6. - Englisch ist ausgefallen.</li>
           <li>Freitag 5.+6. - Technik ist ausgefallen.</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: 10^^10^^10^10</li>
-          <li>Dienstag: 10^^^4</li>
-          <li>Mittwoch: 10^^^5</li>
-          <li>Donnerstag: 10^^^10</li>
-          <li>Freitag: 10^^^10^10</li>
         </ul>
       
 
@@ -3493,14 +4108,6 @@ Inhalt:
         <h3>Ausfälle</h3>
         <ul>
           <li>Freitag 4.-11. - Das meiste ist ausgefallen.</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: 10^^^10^^10</li>
-          <li>Dienstag: 10^^^10^^^3</li>
-          <li>Mittwoch: 10^^^^3</li>
-          <li>Donnerstag: 10^^^^10</li>
-          <li>Freitag: 10{5}10</li>
         </ul>
       
 
@@ -3551,14 +4158,6 @@ Inhalt:
           <li>Freitag 1.+2. - Mathe wurde verschoben.</li>
           <li>Freitag 5.+6. - Das Profilfach ist ausgefallen.</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: 10{6}10</li>
-          <li>Dienstag: 10{10}10</li>
-          <li>Mittwoch: 10{100}10</li>
-          <li>Donnerstag: 10{10^10}10</li>
-          <li>Freitag: 10{10^^3}10</li>
-        </ul>
       
 
 Kategorien: zeitungen
@@ -3591,14 +4190,6 @@ Inhalt:
         <h3>Ausfälle</h3>
         <ul>
           <li>Montag 5.+6. - Technik ist ausgefallen.</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: 10{10^^10}10</li>
-          <li>Dienstag: 10{10{3}10}10</li>
-          <li>Mittwoch: 10{10{10}10}10</li>
-          <li>Donnerstag: {10, 4, 1, 2}</li>
-          <li>Freitag: {10, 5, 1, 2}</li>
         </ul>
       
 
@@ -3640,11 +4231,6 @@ Inhalt:
         <h3>Ausfälle</h3>
         <ul>
           <li>Dienstag 5. - Technik ist ausgefallen.</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, 10, 1, 2}</li>
-          <li>Dienstag: Graham's Zahl</li>
         </ul>
       
 
@@ -3691,14 +4277,6 @@ Inhalt:
           <li>Dienstag 8.-11. - Die Mittagsschule ist ausgefallen.</li>
           <li>Donnerstag 1.+2. - Geschichte ist ausgefallen.</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, {10, 10, 1, 2}, 1, 2}</li>
-          <li>Dienstag: {10, 10, 2, 2}</li>
-          <li>Mittwoch: {10, 10, 3, 2}</li>
-          <li>Donnerstag: {10, 10, 10, 2}</li>
-          <li>Freitag: {10, 10, {10, 10, 10, 2}, 2}</li>
-        </ul>
       
 
 Kategorien: zeitungen
@@ -3744,14 +4322,6 @@ Inhalt:
         <ul>
           <li>Nein.</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, 10, 1, 3}</li>
-          <li>Dienstag: {10, {10, 10, 1, 3}, 1, 3}</li>
-          <li>Mittwoch: {10, 10, 2, 3}</li>
-          <li>Donnerstag: {10, 10, 10, 3}</li>
-          <li>Freitag: {10, 10, {10, 10, 10, 3}, 3}</li>
-        </ul>
       
 
 Kategorien: zeitungen
@@ -3781,10 +4351,6 @@ Inhalt:
         <h3>Ausfälle</h3>
         <ul>
           <li>Nein.</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, 10, 1, 4}</li>
         </ul>
       
 
@@ -3831,14 +4397,6 @@ Inhalt:
           <li>Mittwoch 1.+2. - Mathe ist ausgefallen.</li>
           <li>Freitag 1.+2. - Mathe ist ausgefallen.</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, 10, 10, 4}</li>
-          <li>Dienstag: {10, 10, 10, 5}</li>
-          <li>Mittwoch: {10, 10, 10, 10}</li>
-          <li>Donnerstag: {10, 10, 10, {10, 10, 10, 10}}</li>
-          <li>Freitag: {10, 10, 1, 1, 2}</li>
-        </ul>
       
 
 Kategorien: zeitungen
@@ -3872,14 +4430,6 @@ Inhalt:
           <li>Montag 4. - Englisch ist bei Gruppe 1 ausgefallen.</li>
           <li>Dienstag 8.+9. - Physik ist ausgefallen.</li>
           <li>Donnerstag 1.-11. - Der ganze Tag ist ausgefallen.</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, {10, 10, 1, 1, 2}, 1, 1, 2}</li>
-          <li>Dienstag: {10, 10, 2, 1, 2}</li>
-          <li>Mittwoch: {10, 10, 3, 1, 2}</li>
-          <li>Donnerstag: {10, 10, 10, 1, 2}</li>
-          <li>Freitag: {10, 10, {10, 10, 10, 1, 2}, 1, 2}</li>
         </ul>
       
 
@@ -3918,14 +4468,6 @@ Inhalt:
           <li>Donnerstag 5. - Latein ist ausgefallen. ENDLICH!!!!!!</li>
           <li>Freitag 1.+2. - Mathe ist ausgefallen.</li>
           <li>Freitag 5.+6. - Technik ist ausgefallen.</li>
-        </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, 10, 1, 2, 2}</li>
-          <li>Dienstag: {10, 10, 2, 2, 2}</li>
-          <li>Mittwoch: {10, 10, 10, 2, 2}</li>
-          <li>Donnerstag: {10, 10, {10, 10, 10, 2, 2}, 2, 2}</li>
-          <li>Freitag: {10, 10, 1, 3, 2}</li>
         </ul>
       
 
@@ -3969,14 +4511,6 @@ Inhalt:
         <ul>
           <li>Nein.</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, 10, 2, 3, 2}</li>
-          <li>Dienstag: {10, 10, 10, 3, 2}</li>
-          <li>Mittwoch: {10, 10, 1, 4, 2}</li>
-          <li>Donnerstag: {10, 10, 1, 10, 2}</li>
-          <li>Donnerstag: {10, 10, 1, 1, 3}</li>
-        </ul>
       
 
 Kategorien: zeitungen
@@ -4017,14 +4551,6 @@ Inhalt:
         <ul>
           <li>Nein.</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, 10, 2, 1, 3}</li>
-          <li>Dienstag: {10, 10, 10, 1, 3}</li>
-          <li>Mittwoch: {10, 10, 1, 2, 3}</li>
-          <li>Donnerstag: {10, 10, 10, 2, 3}</li>
-          <li>Freitag: {10, 10, 1, 3, 3}</li>
-        </ul>
       
 
 Kategorien: zeitungen
@@ -4059,19 +4585,144 @@ Inhalt:
           <li>Freitag 5.+6. - Technik ist überraschenderweise ausgefallen.</li>
           <li>Freitag 8.+9. - Kunst ist ausgefallen.</li>
         </ul>
-        <h3>n83-Spawnraten</h3>
-        <ul>
-          <li>Montag: {10, 10, 1, 10, 3}</li>
-          <li>Dienstag: {10, 10, 1, 1, 4}</li>
-          <li>Mittwoch: {10, 10, 1, 1, 5}</li>
-          <li>Donnerstag: {10, 10, 1, 1, 10}</li>
-        </ul>
       
 
 Kategorien: zeitungen
 
 Erstellt: 22.06.2026
 Bearbeitet: 22.06.2026
+
+Wichtig: Nein
+
+------------------------------
+
+=== 8b-Zeitung - 2026, KW 27 ===
+
+Inhalt:
+
+        Dies ist die 33. Ausgabe der 8b-Zeitung für KW 27 2026, von dem 29. Juni bis zu dem 3. Juli 2026.
+        <h2>Normales</h2>
+        <h3>Europa Park Besuch</h3>
+        Ja
+        <h2>Panik</h2>
+        Keine :D
+        <h2>8b-Sachen</h2>
+        Keine :(
+        <h2>Anderes</h2>
+        <h3>Ausfälle</h3>
+        <ul>
+          <li>Dienstag 5. - Technik ist ausgefallen.</li>
+        </ul>
+      
+
+Kategorien: zeitungen
+
+Erstellt: 30.06.2026
+Bearbeitet: 30.06.2026
+
+Wichtig: Nein
+
+------------------------------
+
+=== 8b-Zeitung - 2026, KW 28 ===
+
+Inhalt:
+
+        Dies ist die 34. Ausgabe der 8b-Zeitung für KW 28 2026, von dem 6. bis zu dem 10. Juli 2026.
+        <h2>Normales</h2>
+        <h3>Moscheebesuch am Dienstag</h3>
+        Es war statt Deutsch ein MOSchee besuch.
+        <h2>Panik</h2>
+        <h3>Abi Streich</h3>
+        Donnerstag war der Abi Streich aber er war extrem nervig und langweilig und redundant und wir hatten danach nicht mal aus dies ist ein F Tier Tag
+        <h2>8b-Sachen</h2>
+        Keine :(
+        <h2>Anderes</h2>
+        <h3>Ausfälle</h3>
+        <ul>
+          <li>Montag 1.+2. - Latein ist ausgefallen.</li>
+          <li>Dienstag 5. - Technik ist ausgefallen.</li>
+          <li>Mittwoch 3. - Latein wurde ersetzt lets GO!!!!!!</li>
+        </ul>
+      
+
+Kategorien: zeitungen
+
+Erstellt: 07.07.2026
+Bearbeitet: 07.07.2026
+
+Wichtig: Nein
+
+------------------------------
+
+=== 8b-Zeitung - 2026, KW 29 ===
+
+Inhalt:
+
+        Dies ist die 35. Ausgabe der 8b-Zeitung für KW 29 2026, von dem 13. bis zu dem 17. Juli 2026.
+        <h2>Normales</h2>
+        Keine :/
+        <h2>Panik</h2>
+        <h3>Technik KA zurück</h3>
+        Die Technik KA wurde zurückgegeben und wir haben herausgefunden dass wir nicht wirklich so schlecht in Technik sind sondern die Bewertung extrem problematisch war.<br>
+        Es war wirklich kontrovers, 
+        <h2>8b-Sachen</h2>
+        Keine :(
+        <h2>Anderes</h2>
+        <h3>Ausfälle</h3>
+        <ul>
+          <li>Dienstag 3.+4. - Englisch ist nicht ausgefallen, aber es war SoL</li>
+        </ul>
+      
+
+Kategorien: zeitungen
+
+Erstellt: 07.07.2026
+Bearbeitet: 07.07.2026
+
+Wichtig: Nein
+
+------------------------------
+
+=== 8b-Zeitung - 2026, KW 30 ===
+
+Inhalt:
+
+        Dies ist die 36. Ausgabe der 8b-Zeitung für KW 30 2026, von dem 20. bis zu dem 24. Juli 2026.
+        <h2>Normales</h2>
+        <h3>Englisch Film</h3>
+        Montag haben wir in Englisch nen Film angefangen.
+        <h3>Zeug in Technik</h3>
+        In Technik haben wir Kahoots gemacht und Make it Meme gespielt hmmm...
+        <h3>ok</h3>
+        In Deutsch haben "wir" Eis gegessen und Make it Meme gespielt.
+        <h3>Bücherabgabe</h3>
+        Wir haben die Bücher abgegeben.
+        <h2>Panik</h2>
+        <h3>Technik KA zurück</h3>
+        Die Technik KA wurde zurückgegeben und wir haben herausgefunden dass wir nicht wirklich so schlecht in Technik sind sondern die Bewertung extrem problematisch war.<br>
+        Es war wirklich kontrovers, 
+        <h2>8b-Sachen</h2>
+        <h3>Keine HAs in Latein</h3>
+        JAAAAAAAAA!!!! (wir waren ernsthaft schockiert)
+        <h3>(zensiert)</h3>
+        Wir haben einen Weg gefunden um unsere iPads einen beliebigen Text aussprechen zu lassen. Der Matheunterricht wurde dadurch sehr interessant.
+        <h3>Letzte Lateinstunde</h3>
+        ENDLICH KEIN LATEIN MEHR!!!!!!
+        <h2>Anderes</h2>
+        <h3>Ausfälle</h3>
+        <ul>
+          <li>Dienstag 1.+2. - Deutsch ist ausgefallen.</li>
+          <li>Dienstag 8.+9. - Physik wurde durch Sport ersetzt.</li>
+          <li>Dienstag 10.+11. - Wirtschaft ist ausgefallen.</li>
+          <li>Donnerstag 1.+2. - Geschichte ist ausgefallen.</li>
+        </ul>
+      
+
+Kategorien: zeitungen
+
+Erstellt: 20.07.2026
+Bearbeitet: 23.07.2026
 
 Wichtig: Nein
 
