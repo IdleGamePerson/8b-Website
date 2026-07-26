@@ -11,7 +11,7 @@ const pagesGames = {
             </div>
           </div>
         </div>
-        <a href="https://idlegameperson.github.io/The_7b_Rooms/">The 8b Rooms</a> ist <strong>ein 8b-Spiel.</strong><br>
+        <a href="https://idlegameperson.github.io/The_7b_Rooms/">The 8b Rooms</a> (T8bR) ist <strong>ein 8b-Spiel.</strong><br>
         Man startet in Raum 0 mit 3 HP, was auch das Maximum ist, und man muss zu Raum 999 kommen, ohne zu sterben, um zu gewinnen.<br>
         Bewegen: Man kann sich mit WASD bewegen. Dies erfordert jedoch Energie. Man kann auch mit Q sprinten, was Bewegungsgeschwindigkeit verdoppelt, aber 5x so viel Energie erfordert. Verliert man alle seine Energie, verliert man 1 HP und man kann sich nicht bewegen, bis sie sich wieder auf 100% auffüllt.<br>
         Verstecke: Es gibt Schränke. Man kann sich mit E in einem Schrank verstecken. Während man versteckt ist, verliert man 20% Sauerstoff pro Sekunde. Verliert man all sein Sauerstoff, verliert man 1 HP und wird aus dem Versteck rausgekickt.<br>
@@ -61,7 +61,7 @@ const pagesGames = {
       `,
       categories: ['spiele'],
       created: '2026-07-18',
-      edited: '2026-07-18',
+      edited: '2026-07-26',
       related: [],
       weight: 1
     },
@@ -234,6 +234,42 @@ const pagesGames = {
       edited: '2026-07-25',
       related: [],
       weight: 1
+    },
+    'zufälliger 2d platformer': {
+      title: 'Zufälliger 2D Platformer',
+      content: `
+        <div class="infobox">
+          <div class="infobox-header">Zufälliger 2D Platformer</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Genre</span>
+              <span class="infobox-value">Platformer</span>
+            </div>
+          </div>
+        </div>
+        Zufälliger 2D Platformer (Z2P) ist <strong>ein 8b-Spiel.</strong><br>
+        Nein es ist nicht Spelunky
+        <h2>Räume</h2>
+        Man spielt als ein Quadrat. Man startet in Raum 1 im oberen linken Feld. Räume sind quadratische Labyrinthe.<br>
+        Man muss ins untere rechte Feld eines Raumes kommen, um in den nächsten Raum zu kommen.
+        <h2>Gegner</h2>
+        Man hat 3 Leben, und auf 0 Leben verliert man.<br>
+        Räume haben Gegner, der erste hat 2 und die Anzahl erhöht sich progressiv.<br>
+        Gegner bewegen sich zufällig, aber mit höherer Wahrscheinlichkeit zum Spieler.<br>
+        Wenn man einen Gegner berührt dann verliert man 1 Leben und der Gegner teleportiert sich zufällig.
+        <h2>Notiz</h2>
+        Dieses Spiel hat extrem schlecht programmierte Bewegung welche mehrmals Frame Perfect Klicks erwartet.
+        <blockquote>Ich bin bei Raum 4 gestorben YEAH ENDLICH !!!!!!!!</blockquote>
+      `,
+      categories: ['spiele'],
+      created: '2026-07-26',
+      edited: '2026-07-26',
+      related: [],
+      weight: 1
+    },
+    'platformer': {
+      title: 'Platformer',
+      redirectTo: "zufälliger 2d platformer"
     },
     "n42s rng": {
       title: "n42's RNG",
