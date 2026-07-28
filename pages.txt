@@ -457,7 +457,7 @@ Inhalt:
 Kategorien: spiele
 
 Erstellt: 18.07.2026
-Bearbeitet: 18.07.2026
+Bearbeitet: 26.07.2026
 
 Wichtig: Nein
 
@@ -643,6 +643,43 @@ Wichtig: Nein
 
 ------------------------------
 
+=== Zufälliger 2D Platformer ===
+
+Inhalt:
+
+        <div class="infobox">
+          <div class="infobox-header">Zufälliger 2D Platformer</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Genre</span>
+              <span class="infobox-value">Platformer</span>
+            </div>
+          </div>
+        </div>
+        Zufälliger 2D Platformer (Z2P) ist <strong>ein 8b-Spiel.</strong><br>
+        Nein es ist nicht Spelunky
+        <h2>Räume</h2>
+        Man spielt als ein Quadrat. Man startet in Raum 1 im oberen linken Feld. Räume sind quadratische Labyrinthe.<br>
+        Man muss ins untere rechte Feld eines Raumes kommen, um in den nächsten Raum zu kommen.
+        <h2>Gegner</h2>
+        Man hat 3 Leben, und auf 0 Leben verliert man.<br>
+        Räume haben Gegner, der erste hat 2 und die Anzahl erhöht sich progressiv.<br>
+        Gegner bewegen sich zufällig, aber mit höherer Wahrscheinlichkeit zum Spieler.<br>
+        Wenn man einen Gegner berührt dann verliert man 1 Leben und der Gegner teleportiert sich zufällig.
+        <h2>Notiz</h2>
+        Dieses Spiel hat extrem schlecht programmierte Bewegung welche mehrmals Frame Perfect Klicks erwartet.
+        <blockquote>Ich bin bei Raum 4 gestorben YEAH ENDLICH !!!!!!!!</blockquote>
+      
+
+Kategorien: spiele
+
+Erstellt: 26.07.2026
+Bearbeitet: 26.07.2026
+
+Wichtig: Nein
+
+------------------------------
+
 === n42's RNG ===
 
 Inhalt:
@@ -785,6 +822,77 @@ Wichtig: Nein
 
 Hinweise:
 ! [info] Nicht zu verwechseln mit <a href="#" onclick="event.preventDefault(); navigateTo('8b rng')">8b RNG.</a>
+
+------------------------------
+
+=== Bubble Simulator ===
+
+Inhalt:
+
+        <div class="infobox">
+          <div class="infobox-header">Bubble Simulator</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Genre</span>
+              <span class="infobox-value">Incremental</span>
+            </div>
+          </div>
+        </div>
+        <a href="https:
+        In Bubble Simulator gibt es Blasen. Alle 5s erscheint eine Blase mit einer 0. Es kann max. 1500 Blasen geben.<br>
+        Blasen mit gleicher Zahl n können zu einer Blase mit n+1 kombiniert werden, was floor((2-d)n) Punkte gibt. (d = 0,2)
+        <h2>Upgrades</h2>
+        <h3>Wiederholbar</h3>
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <td>Name</td>
+                <td>Kosten</td>
+                <td>Maximale Kaufanzahl</td>
+                <td>Effekt</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Startnummer</td>
+                <td>50 (x4,4/Kauf)</td>
+                <td>unendlich</td>
+                <td>Erhöht Zahl, mit der Blasen erscheinen, um 1.</td>
+              </tr>
+              <tr>
+                <td>Blasenrate</td>
+                <td>10 (x1,6/Kauf)</td>
+                <td>22</td>
+                <td>Blasen erscheinen 20% schneller (max. 10/s)</td>
+              </tr>
+              <tr>
+                <td>Punktgewinn</td>
+                <td>250 (x1,6/Kauf)</td>
+                <td>unendlich</td>
+                <td>Dividiert d durch 1,25</td>
+              </tr>
+              <tr>
+                <td>Bereichgröße</td>
+                <td>1000 (x3,5/Kauf)</td>
+                <td>5</td>
+                <td>Macht Blasenbereich 2,5% kleiner</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>Einmalig</h3>
+        <b>Fabrik</b>: Produziert jede Sekunde Punkte = die Quadratwurzel von der Summe der Blasenzahlen (7500 Punkte)<br>
+        <b>Erhöher</b>: Erhöht erhaltene Punkte um (2,5*höchste Blasenzahl)% (10000 Punkte)
+        <blockquote>Bob hat mich gefressen :)</blockquote>
+      
+
+Kategorien: spiele
+
+Erstellt: 23.05.2026
+Bearbeitet: 23.05.2026
+
+Wichtig: Nein
 
 ------------------------------
 
@@ -3102,7 +3210,7 @@ Inhalt:
         <br>Die Rubriken sind Normales, Panik und 8b-Sachen.
         <br><b>Links</b>, nicht zu verwechseln mit Rechts:
         <ul>
-          <li><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 30')">Neueste Ausgabe</a></li>
+          <li><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 31')">Neueste Ausgabe</a></li>
           <li><a href="#" onclick="event.preventDefault(); navigateTo('category-zeitungen')">Alle Ausgaben</a></li>
         </ul>
         <h2>Alle Ausgaben</h2>
@@ -3116,6 +3224,11 @@ Inhalt:
               </tr>
             </thead>
             <tbody>
+              <tr>
+                <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 31')">KW 31, 2026</a></td>
+                <td>27.-29. Jul. 2026</td>
+                <td>37.</td>
+              </tr>
               <tr>
                 <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 30')">KW 30, 2026</a></td>
                 <td>20.-24. Jul. 2026</td>
@@ -3305,7 +3418,7 @@ Inhalt:
 Kategorien: zeitungen, antimaterie
 
 Erstellt: 28.02.2026
-Bearbeitet: 30.06.2026
+Bearbeitet: 28.07.2026
 
 Wichtig: Nein
 
@@ -4723,6 +4836,35 @@ Kategorien: zeitungen
 
 Erstellt: 20.07.2026
 Bearbeitet: 23.07.2026
+
+Wichtig: Nein
+
+------------------------------
+
+=== 8b-Zeitung - 2026, KW 31 ===
+
+Inhalt:
+
+        Dies ist die 37. Ausgabe der 8b-Zeitung für KW 31 2026, von dem 27. bis zu dem 29. Juli 2026.
+        <h2>Normales</h2>
+        <h3>Wandertag</h3>
+        Dienstag war Wandertag. Er war ok
+        <h2>Panik</h2>
+        <h3>AMG Tag</h3>
+        Der AMG Tag war am Montag aber er war langweilig.
+        <h2>8b-Sachen</h2>
+        Keine :(
+        <h2>Anderes</h2>
+        <h3>Ausfälle</h3>
+        <ul>
+          <li>Nein.</li>
+        </ul>
+      
+
+Kategorien: zeitungen
+
+Erstellt: 28.07.2026
+Bearbeitet: 28.07.2026
 
 Wichtig: Nein
 
