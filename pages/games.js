@@ -418,6 +418,72 @@ const pagesGames = {
       title: 'RNG',
       redirectTo: "n42's rng"
     },
+    'bubble simulator': {
+      title: 'Bubble Simulator',
+      content: `
+        <div class="infobox">
+          <div class="infobox-header">Bubble Simulator</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Genre</span>
+              <span class="infobox-value">Incremental</span>
+            </div>
+          </div>
+        </div>
+        <a href="https://idlegameperson.github.io/Bubble_Simulator/">Bubble Simulator</a> ist <strong>ein Spiel.</strong><br>
+        In Bubble Simulator gibt es Blasen. Alle 5s erscheint eine Blase mit einer 0. Es kann max. 1500 Blasen geben.<br>
+        Blasen mit gleicher Zahl n können zu einer Blase mit n+1 kombiniert werden, was floor((2-d)n) Punkte gibt. (d = 0,2)
+        <h2>Upgrades</h2>
+        <h3>Wiederholbar</h3>
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <td>Name</td>
+                <td>Kosten</td>
+                <td>Maximale Kaufanzahl</td>
+                <td>Effekt</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Startnummer</td>
+                <td>50 (x4,4/Kauf)</td>
+                <td>unendlich</td>
+                <td>Erhöht Zahl, mit der Blasen erscheinen, um 1.</td>
+              </tr>
+              <tr>
+                <td>Blasenrate</td>
+                <td>10 (x1,6/Kauf)</td>
+                <td>22</td>
+                <td>Blasen erscheinen 20% schneller (max. 10/s)</td>
+              </tr>
+              <tr>
+                <td>Punktgewinn</td>
+                <td>250 (x1,6/Kauf)</td>
+                <td>unendlich</td>
+                <td>Dividiert d durch 1,25</td>
+              </tr>
+              <tr>
+                <td>Bereichgröße</td>
+                <td>1000 (x3,5/Kauf)</td>
+                <td>5</td>
+                <td>Macht Blasenbereich 2,5% kleiner</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>Einmalig</h3>
+        <b>Fabrik</b>: Produziert jede Sekunde Punkte = die Quadratwurzel von der Summe der Blasenzahlen (7500 Punkte)<br>
+        <b>Erhöher</b>: Erhöht erhaltene Punkte um (2,5*höchste Blasenzahl)% (10000 Punkte)
+        <blockquote>Bob hat mich gefressen :)</blockquote>
+      `,
+      categories: ['spiele'],
+      created: '2026-05-23',
+      edited: '2026-05-23',
+      related: [],
+      weight: 1
+    },
     'als obob spiel': {
       title: 'Als Obob Spiel',
       content: `
