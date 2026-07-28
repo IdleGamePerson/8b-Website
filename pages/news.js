@@ -8,7 +8,7 @@ const pagesNews = {
         <br>Die Rubriken sind Normales, Panik und 8b-Sachen.
         <br><b>Links</b>, nicht zu verwechseln mit Rechts:
         <ul>
-          <li><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 30')">Neueste Ausgabe</a></li>
+          <li><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 31')">Neueste Ausgabe</a></li>
           <li><a href="#" onclick="event.preventDefault(); navigateTo('category-zeitungen')">Alle Ausgaben</a></li>
         </ul>
         <h2>Alle Ausgaben</h2>
@@ -22,6 +22,11 @@ const pagesNews = {
               </tr>
             </thead>
             <tbody>
+              <tr>
+                <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 31')">KW 31, 2026</a></td>
+                <td>27.-29. Jul. 2026</td>
+                <td>37.</td>
+              </tr>
               <tr>
                 <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 30')">KW 30, 2026</a></td>
                 <td>20.-24. Jul. 2026</td>
@@ -209,7 +214,7 @@ const pagesNews = {
       `,
       categories: ['zeitungen', 'antimaterie'],
       created: '2026-02-28',
-      edited: '2026-06-30',
+      edited: '2026-07-28',
       related: [],
       weight: 0
     },
@@ -1447,6 +1452,30 @@ const pagesNews = {
       categories: ['zeitungen'],
       created: '2026-07-20',
       edited: '2026-07-23',
+      related: [],
+      weight: 1
+    },
+    '2026 kw 31': {
+      title: '8b-Zeitung - 2026, KW 31',
+      content: `
+        Dies ist die 37. Ausgabe der 8b-Zeitung für KW 31 2026, von dem 27. bis zu dem 29. Juli 2026.
+        <h2>Normales</h2>
+        <h3>Wandertag</h3>
+        Dienstag war Wandertag. Er war ok
+        <h2>Panik</h2>
+        <h3>AMG Tag</h3>
+        Der AMG Tag war am Montag aber er war langweilig.
+        <h2>8b-Sachen</h2>
+        Keine :(
+        <h2>Anderes</h2>
+        <h3>Ausfälle</h3>
+        <ul>
+          <li>Nein.</li>
+        </ul>
+      `,
+      categories: ['zeitungen'],
+      created: '2026-07-28',
+      edited: '2026-07-28',
       related: [],
       weight: 1
     }
