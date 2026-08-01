@@ -1,7 +1,7 @@
 Um diese Website zu modifizieren, sind hier einige Infos, um dies zu machen.
 Notiz: Dies enthält nur einfache Änderungen. Komplexere Änderungen können auch gemacht werden, aber hier sind keine Tipps dazu.
 
-Um den Titel der Website von "Die 8b-Website" zu ändern, er ist in diesen Orten:
+Um den Titel der Website von "Die 9b-Website" zu ändern, er ist in diesen Orten:
 2x in index.html
 1x in js/tools.js
 1x in important/config.js

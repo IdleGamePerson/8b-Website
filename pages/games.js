@@ -1,9 +1,9 @@
 const pagesGames = {
-    'the 8b rooms': {
-      title: 'The 8b Rooms',
+    'the 9b rooms': {
+      title: 'The 9b Rooms',
       content: `
         <div class="infobox">
-          <div class="infobox-header">The 8b Rooms</div>
+          <div class="infobox-header">The 9b Rooms</div>
           <div class="infobox-content">
             <div class="infobox-row">
               <span class="infobox-label">Genre</span>
@@ -11,7 +11,7 @@ const pagesGames = {
             </div>
           </div>
         </div>
-        <a href="https://idlegameperson.github.io/The_7b_Rooms/">The 8b Rooms</a> (T8bR) ist <strong>ein 8b-Spiel.</strong><br>
+        <a href="https://idlegameperson.github.io/The_7b_Rooms/">The 9b Rooms</a> (T9bR) ist <strong>ein 9b-Spiel.</strong><br>
         Man startet in Raum 0 mit 3 HP, was auch das Maximum ist, und man muss zu Raum 999 kommen, ohne zu sterben, um zu gewinnen.<br>
         Bewegen: Man kann sich mit WASD bewegen. Dies erfordert jedoch Energie. Man kann auch mit Q sprinten, was Bewegungsgeschwindigkeit verdoppelt, aber 5x so viel Energie erfordert. Verliert man alle seine Energie, verliert man 1 HP und man kann sich nicht bewegen, bis sie sich wieder auf 100% auffüllt.<br>
         Verstecke: Es gibt Schränke. Man kann sich mit E in einem Schrank verstecken. Während man versteckt ist, verliert man 20% Sauerstoff pro Sekunde. Verliert man all sein Sauerstoff, verliert man 1 HP und wird aus dem Versteck rausgekickt.<br>
@@ -77,7 +77,7 @@ const pagesGames = {
             </div>
           </div>
         </div>
-        <a href="https://idlegameperson.github.io/Vermeidungssimulator/">Vermeidungssimulator</a> ist <strong>ein 8b-Spiel.</strong><br>
+        <a href="https://idlegameperson.github.io/Vermeidungssimulator/">Vermeidungssimulator</a> ist <strong>ein 9b-Spiel.</strong><br>
         Man spielt als kleiner Kreis. Es gibt auch einen großen Kreis, der einen mit 2/3 der Geschwindigkeit von sich selbst folgt. Als letztes gibt es einen schwarzen Ring.<br>
         Wenn man den großen Kreis berührt, verliert man. Wenn man den schwarzen Ring berührt, bekommt man einen schwarzen Ring und wird 1,5% schneller, exponentiell.
         <h2>Upgrades</h2>
@@ -168,7 +168,7 @@ const pagesGames = {
             </div>
           </div>
         </div>
-        Insolvenzklicker ist <strong>ein 8b-Spiel.</strong><br>
+        Insolvenzklicker ist <strong>ein 9b-Spiel.</strong><br>
         Man muss 500 Punkte erreichen, indem man auf +1 drückt. Alle 50 Punkte geht die Phase hoch, was das Spiel schwieriger macht:
         <div class="table-container">
           <table>
@@ -247,7 +247,7 @@ const pagesGames = {
             </div>
           </div>
         </div>
-        Zufälliger 2D Platformer (Z2P) ist <strong>ein 8b-Spiel.</strong><br>
+        Zufälliger 2D Platformer (Z2P) ist <strong>ein 9b-Spiel.</strong><br>
         Nein es ist nicht Spelunky
         <h2>Räume</h2>
         Man spielt als ein Quadrat. Man startet in Raum 1 im oberen linken Feld. Räume sind quadratische Labyrinthe.<br>
@@ -276,7 +276,7 @@ const pagesGames = {
       warnings: [
           {
             type: 'info',
-            text: `Nicht zu verwechseln mit <a href="#" onclick="event.preventDefault(); navigateTo('8b rng')">8b RNG.</a>`
+            text: `Nicht zu verwechseln mit <a href="#" onclick="event.preventDefault(); navigateTo('9b rng')">9b RNG.</a>`
           }
       ],
       content: `
@@ -289,7 +289,7 @@ const pagesGames = {
             </div>
           </div>
         </div>
-        <a href="https://idlegameperson.github.io/n42s_RNG/">n42's RNG</a> ist <strong>ein 8b-Spiel.</strong><br>
+        <a href="https://idlegameperson.github.io/n42s_RNG/">n42's RNG</a> ist <strong>ein 9b-Spiel.</strong><br>
         Man generiert mit einem alle 2,5s drückbaren Knopf Seltenheiten, um Münzen zu erhalten.<br>
         Folgendes ist die Liste an allen Seltenheiten im Spiel: Gewöhnlich, Ungewöhnlich, Selten, Sehr selten, Episch, Legendär, Mythisch, Exotisch, Perfekt, Mysteriös, Verrückt, Extrem, Ultimativ, Super, Ewig, Himmlisch, Göttlich, Transzendent, Omega, Unendlich, Hyper-Unendlich.<br>
         Jede Seltenheit hat 5 Unterkategorien I, II, III, IV, V (außer Hyper-Unendlich, welches unendlich viele hat). Gewöhnlich I ist 1 zu 6 und gibt 1 Münze.<br>
@@ -569,8 +569,8 @@ const pagesGames = {
       title: 'aaklicker',
       redirectTo: 'dog clicker'  
     },
-    '8b rng': {
-      title: '8b RNG',
+    '9b rng': {
+      title: '9b RNG',
       warnings: [
           {
             type: 'info',
@@ -579,7 +579,7 @@ const pagesGames = {
       ],
       content: `
         <div class="infobox">
-          <div class="infobox-header">8b RNG</div>
+          <div class="infobox-header">9b RNG</div>
           <div class="infobox-content">
             <div class="infobox-row">
               <span class="infobox-label">Genre</span>
@@ -587,7 +587,7 @@ const pagesGames = {
             </div>
           </div>
         </div>
-        8b RNG ist eine einzige Formel: 1/rand(0,1).<br>
+        9b RNG ist eine einzige Formel: 1/rand(0,1).<br>
         Es gibt einen Luck Trank der manchmal erscheint und die Zahl quadriert<br>
         Bei einer Zahl über 100 erscheint ein low quality Stern
         <blockquote>FÜNF TAUSEND!!!!!!</blockquote>

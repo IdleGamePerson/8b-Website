@@ -19,8 +19,8 @@ const pagesIJokes = {
             </div>
           </div>
         </div>
-        An object ist ein <strong>wichtiges 8b-Meme</strong>.
-        <p>Es war eines der ersten entstandenen 8b-Memes, zusammen mit <a href="#" onclick="event.preventDefault(); navigateTo('quaderkaffee')">Quaderkaffee</a>.
+        An object ist ein <strong>wichtiges 9b-Meme</strong>.
+        <p>Es war eines der ersten entstandenen 9b-Memes, zusammen mit <a href="#" onclick="event.preventDefault(); navigateTo('quaderkaffee')">Quaderkaffee</a>.
         <h2>Ursprung</h2>
         n94 hat bei einer Englischaufgabe 'An object' geantwortet.
         <h2>BTW</h2>
@@ -86,7 +86,7 @@ const pagesIJokes = {
           <li>Das BMG: Eine Schule, in welcher die Antwort auf absolut jede Frage 3 ist.</li>
         </ul>
         Die Frage: Würdest du lieber ins AMG gehen, wo es überfordernder ist aber man tatsächlich etwas für die Zukunft lernt, oder ins BMG gehen wo es viel einfacher für jetzt ist aber die Zukunft viel schwieriger machen wird?<br>
-        Welches hier die korrekte Antwort ist, ist eine <strong>Frage</strong>. Es wäre dramatisch wenn ich sagen würde, dass diese Frage die ganze 8b gespaltet hat, aber was das auch wäre, ist:
+        Welches hier die korrekte Antwort ist, ist eine <strong>Frage</strong>. Es wäre dramatisch wenn ich sagen würde, dass diese Frage die ganze 9b gespaltet hat, aber was das auch wäre, ist:
         <ul>
           <li>Eine Lüge.</li>
         </ul>
@@ -336,12 +336,12 @@ const pagesIJokes = {
             </div>
           </div>
         </div>
-        Doktortitel war und ist <strong>ein 8b-Insider</strong>. Er wird gebildet, indem man behauptet, man (oder jemand anderes) hätte eine hohe Anzahl an Doktortiteln.<br>
+        Doktortitel war und ist <strong>ein 9b-Insider</strong>. Er wird gebildet, indem man behauptet, man (oder jemand anderes) hätte eine hohe Anzahl an Doktortiteln.<br>
         Man sagt dann das Wort 'Dr.' oft vor dem Namen der Person.
         <h2>Ursprung</h2>
         Manche Leute haben einfach angefangen, manche Lehrer mit 'Dr.' anzusprechen. Ab dann haben mehr Leute angefangen, Leute sagten mehrere 'Dr.'s und es wurde auch in anderen Situationen benutzt, was zur Eskalation führte.
         <h2>WARNUNG</h2>
-        Nachdem die 8b das Doktortitel Meme erstellt hat, hat der Twitch Chat des Streamers DougDoug in seinem Stream '<a href="https://youtu.be/JmoFvtBBDJw?si=wyD-br5rzLc-7FT6">'Can Twitch Chat defeat the literal smartest Ai in Geoguessr?'</a> das Meme gestohlen D:
+        Nachdem die 9b das Doktortitel Meme erstellt hat, hat der Twitch Chat des Streamers DougDoug in seinem Stream '<a href="https://youtu.be/JmoFvtBBDJw?si=wyD-br5rzLc-7FT6">'Can Twitch Chat defeat the literal smartest Ai in Geoguessr?'</a> das Meme gestohlen D:
         <blockquote>Hallo, Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. ...</blockquote>
       `,
       categories: ['insider'],
@@ -403,16 +403,16 @@ const pagesIJokes = {
     'balatro': {
       title: 'Balatro',
       content: `
-        Balatro ist <strong>ein Non-8b-Spiel</strong>.<br>Es ist dafür bekannt, dass viele Leute es kennen.<br>Es wird auch häufig von 8b Leuten gespielt, vor allem:
+        Balatro ist <strong>ein Non-9b-Spiel</strong>.<br>Es ist dafür bekannt, dass viele Leute es kennen.<br>Es wird auch häufig von 9b Leuten gespielt, vor allem:
         <ul>
           <li> </li>
           <li> </li>
         </ul>
-        <h2>Relevanz zur 8b</h2>
+        <h2>Relevanz zur 9b</h2>
         <ul>
           <li>n42 spielt es</li>
           <li>n94 kann es nicht aussprechen</li>
-          <li>Es ist die Inspiration für manche 8b-Spiele, manche von welchen vor Balatro programmiert wurden (siehe <a href="https://en.wikipedia.org/wiki/Paradox">Paradoxon</a>)</li>
+          <li>Es ist die Inspiration für manche 9b-Spiele, manche von welchen vor Balatro programmiert wurden (siehe <a href="https://en.wikipedia.org/wiki/Paradox">Paradoxon</a>)</li>
         </ul>
         <blockquote>Zahl existiert, Zahl geht höher, yay.</blockquote>
       `,
@@ -741,8 +741,8 @@ const pagesIJokes = {
       title: 'Geometry Dash',
       content: `
         Geometry Dash ist <strong>ein Videospiel</strong> von RobTopGames. Als ob.<br>
-        Einige Leute in der 8b spielen Geometry Dash.<br>
-        Folgendes ist eine Tabelle an allen GD Spielern in der 8b über die ich genug Infos bekommen konnte also so 20%:
+        Einige Leute in der 9b spielen Geometry Dash.<br>
+        Folgendes ist eine Tabelle an allen GD Spielern in der 9b über die ich genug Infos bekommen konnte also so 20%:
         <div class="table-container">
           <table>
             <thead>
@@ -885,11 +885,11 @@ const pagesIJokes = {
       title: 'Eszett',
       redirectTo: 'n83 mit ß'  
     },
-    'der aufzug 8b': {
-      title: 'Der Aufzug 8b',
+    'der aufzug 9b': {
+      title: 'Der Aufzug 9b',
       content: `
         <div class="infobox">
-          <div class="infobox-header">Der Aufzug 8b</div>
+          <div class="infobox-header">Der Aufzug 9b</div>
           <div class="infobox-content">
             <div class="infobox-row">
               <span class="infobox-label">Insider-Art</span>
@@ -905,7 +905,7 @@ const pagesIJokes = {
             </div>
           </div>
         </div>
-        Der Aufzug 8b ist <strong>ein Aufzug</strong> mit neuen Innovationen.
+        Der Aufzug 9b ist <strong>ein Aufzug</strong> mit neuen Innovationen.
         <h2>Innovationen</h2>
         <h3>Dixi-Klo</h3>
         Ein eingebautes Dixi-Klo, damit du direkt während der Aufzugbenutzung deine Produktionen aus deinem Körper entfernen kannst. Ohne Klopapier für Kompaktheit.
@@ -927,11 +927,11 @@ const pagesIJokes = {
     },
     'aufzug': {
       title: 'Aufzug',
-      redirectTo: 'der aufzug 8b'  
+      redirectTo: 'der aufzug 9b'  
     },
     'aufzüge': {
       title: 'Aufzüge',
-      redirectTo: 'der aufzug 8b'  
+      redirectTo: 'der aufzug 9b'  
     },
     'der krater': {
       title: 'Der Krater',
@@ -954,7 +954,7 @@ const pagesIJokes = {
           </div>
         </div>
         Der Krater ist <strong>ein Lied</strong>, in welchem extreme Partymusik spielt und jemand wiederholt "Der Krater" sagt.<br>
-        n94 hatte den originalen Krater, aber jetzt haben viele in der 8b den Krater und manchmal mehrere Krater.
+        n94 hatte den originalen Krater, aber jetzt haben viele in der 9b den Krater und manchmal mehrere Krater.
         <blockquote>Wie viele Krater hast du? Warte, nur 5??? Ich habe 83!</blockquote>
       `,
       categories: ['insider'],
@@ -1090,7 +1090,7 @@ const pagesIJokes = {
             </div>
           </div>
         </div>
-        Plusquamperfekt war <strong>ein 8b-Insider</strong>, wenn etwas noch besser als perfekt ist.
+        Plusquamperfekt war <strong>ein 9b-Insider</strong>, wenn etwas noch besser als perfekt ist.
         <blockquote>AAAAA DEUTCH UNTERRICHT</blockquote>
       `,
       categories: ['insider'],
@@ -1119,9 +1119,9 @@ const pagesIJokes = {
             </div>
           </div>
         </div>
-        Napoleon war <strong>ein Herr</strong> und ist jetzt ein 8b-Insider. Er wird auf folgende Wege benutzt:
+        Napoleon war <strong>ein Herr</strong> und ist jetzt ein 9b-Insider. Er wird auf folgende Wege benutzt:
         <ul>
-          <li>In 8b-Spiele integriert</li>
+          <li>In 9b-Spiele integriert</li>
           <li>In anderes integriert</li>
         </ul>
         Ihn gabs, er war relativ signifikant tatsächlich
@@ -1413,7 +1413,7 @@ const pagesIJokes = {
             </div>
           </div>
         </div>
-        Syndrome sind Syndrome. Die 8b denkt sich manchmal Syndrome aus für bestimmtes Verhalten.
+        Syndrome sind Syndrome. Die 9b denkt sich manchmal Syndrome aus für bestimmtes Verhalten.
         <h2>n79-Syndrom</h2>
         Das bekannteste Syndrom ist das n79-Syndrom, benannt nach <a href="#" onclick="event.preventDefault(); navigateTo('n79')">n79</a>. Das n79-Syndrom ist eine ansteckende, chronische und schlechte Krankheit, welche nach n79 benannt ist und als die Tendenz definiert ist, sich im Sportunterricht komisch zu verhalten. Es wurde nach n79 benannt.
         <h2>n83-Syndorm</h2>

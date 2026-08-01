@@ -2,7 +2,7 @@ const pagesEvents = {
     'stundenplan': {
       title: 'Stundenplan',
       content: `
-        Dies ist der Stundenplan der 8b:
+        Dies ist der Stundenplan der 9b: (Notiz: Dies war der alte Stundenplan der 8b, der neue wurde noch nicht entschieden)
         <div class="table-container">
           <table>
             <thead>

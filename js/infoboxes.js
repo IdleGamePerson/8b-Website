@@ -12,14 +12,14 @@
       if (index >= 8) {
         return { text: 'Absolut legendär!', color: 'text-red-400' };
       } else if (index >= 7) {
-        return { text: 'Unglaublich 8b!', color: 'text-yellow-400' };
+        return { text: 'Unglaublich 9b!', color: 'text-yellow-400' };
       } else if (index >= 5) {
-        return { text: 'Definitiv 8b!', color: 'text-purple-400' };
+        return { text: 'Definitiv 9b!', color: 'text-purple-400' };
       } else if (index >= 3) {
-        return { text: 'Ziemlich 8b!', color: 'text-blue-400' };
+        return { text: 'Ziemlich 9b!', color: 'text-blue-400' };
       } else if (index >= 1) {
-        return { text: 'Etwas 8b!', color: 'text-gray-400' };
+        return { text: 'Etwas 9b!', color: 'text-gray-400' };
       } else {
-        return { text: 'Kaum 8b...', color: 'text-gray-500' };
+        return { text: 'Kaum 9b...', color: 'text-gray-500' };
       }
     }

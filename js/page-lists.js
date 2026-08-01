@@ -100,7 +100,7 @@
     }
 
     function generateCategoriesContent() {
-      let html = '<p>Eine Übersicht aller Kategorien auf der 8b-Website!</p>';
+      let html = '<p>Eine Übersicht aller Kategorien auf der 9b-Website!</p>';
       
       // Count pages per category and sort
       const categoriesWithCount = Object.entries(categories).map(([catId, cat]) => {
@@ -183,7 +183,7 @@
         return a[1].title.localeCompare(b[1].title, 'de');
       });
       
-      let html = '<p>Eine Übersicht aller verfügbaren Seiten auf der 8b-Website:</p>';
+      let html = '<p>Eine Übersicht aller verfügbaren Seiten auf der 9b-Website:</p>';
       
       // Add sorting buttons
       html += '<div class="flex flex-wrap gap-2 my-4">';
@@ -278,7 +278,7 @@
         return a[1].title.localeCompare(b[1].title, 'de');
       });
       
-      let html = '<p>Die wichtigsten Seiten der 8b-Website!</p>';
+      let html = '<p>Die wichtigsten Seiten der 9b-Website!</p>';
       
       // Add sorting buttons
       html += '<div class="flex flex-wrap gap-2 my-4">';

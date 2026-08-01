@@ -127,12 +127,12 @@
           html += warningsHtml;
         }
         
-        // Add 8b-Index if present
+        // Add 9b-Index if present
         if (page.index || page.indexStats || page.indexProsCons) {
           let indexHtml = `<div class="infobox">`;
           
           // Header with toggle
-          let headerText = '8b-INDEX';
+          let headerText = '9b-INDEX';
           if (page.indexStats && page.indexStats.length > 0) headerText += ' & STATISTIKEN';
           if (page.indexProsCons) headerText += ' & PRO/KONTRA';
           const infoboxId = `infobox-${Math.random().toString(36).substr(2, 9)}`;

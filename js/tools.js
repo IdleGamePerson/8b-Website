@@ -44,7 +44,7 @@
     }
 
     function updatePageTitle(pageTitle) {
-      document.title = `${pageTitle} – Die 8b-Website`;
+      document.title = `${pageTitle} – Die 9b-Website`;
     }
 
     function formatDate(dateString) {

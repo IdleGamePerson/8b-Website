@@ -99,15 +99,15 @@ Wichtig: Nein
 
 Inhalt:
 
-        Der pH-Wert (vorherig 8b-Index genannt) ist <strong>ein System</strong> zur Bewertung von Dingen.<br>
+        Der pH-Wert (vorherig 9b-Index genannt) ist <strong>ein System</strong> zur Bewertung von Dingen.<br>
         <h2>Werte</h2>
         Werte können von 0 bis 14 sein.
         <h3>unter 7</h3>
-        Dies denotiert Anti-8b-mäßige Sachen. Etwas unter 7 bedeutet hier ein bisschen Anti-8b und weit unter 7 bedeutet sehr Anti-8b.
+        Dies denotiert Anti-9b-mäßige Sachen. Etwas unter 7 bedeutet hier ein bisschen Anti-9b und weit unter 7 bedeutet sehr Anti-9b.
         <h3>gleich 7</h3>
-        Dies denotiert Dinge, die in 8b-mäßigkeit neutral sind.
+        Dies denotiert Dinge, die in 9b-mäßigkeit neutral sind.
         <h3>über 7</h3>
-        Dies ist die Bezeichnung für etwas 8b-mäßiges. Etwas über 7 bedeutet hier ein bisschen 8b und weit über 7 bedeutet sehr 8b.
+        Dies ist die Bezeichnung für etwas 9b-mäßiges. Etwas über 7 bedeutet hier ein bisschen 9b und weit über 7 bedeutet sehr 9b.
         <h3>Also</h3>
         Kleine Werte sind schlecht und große sind gut.
         <blockquote>Welchen pH-Wert hat Antimaterie?</blockquote>
@@ -126,7 +126,7 @@ Wichtig: Nein
 
 Inhalt:
 
-        Der Fluch des Tages war <strong>ein Fluch</strong>. Er wurde jeden Tag von der 8b ausgewählt. Beispiele für Flüche des Tages:
+        Der Fluch des Tages war <strong>ein Fluch</strong>. Er wurde jeden Tag von der 9b ausgewählt. Beispiele für Flüche des Tages:
         <ul>
           <li>1+1 Fluch: Wenn man dem Mathelehrer "1+1" antwortet, wenn er fragt, was 1+1 ist.</li>
           <li>Intelligenzallergiker-Fluch: Wenn man denkt, dass 1+1 3 ist.</li>
@@ -266,7 +266,7 @@ Wichtig: Nein
 
 Inhalt:
 
-        Dies ist der Stundenplan der 8b:
+        Dies ist der Stundenplan der 9b: (Notiz: Dies war der alte Stundenplan der 8b, der neue wurde noch nicht entschieden)
         <div class="table-container">
           <table>
             <thead>
@@ -392,12 +392,12 @@ Wichtig: Nein
 
 ------------------------------
 
-=== The 8b Rooms ===
+=== The 9b Rooms ===
 
 Inhalt:
 
         <div class="infobox">
-          <div class="infobox-header">The 8b Rooms</div>
+          <div class="infobox-header">The 9b Rooms</div>
           <div class="infobox-content">
             <div class="infobox-row">
               <span class="infobox-label">Genre</span>
@@ -572,7 +572,7 @@ Inhalt:
             </div>
           </div>
         </div>
-        Insolvenzklicker ist <strong>ein 8b-Spiel.</strong><br>
+        Insolvenzklicker ist <strong>ein 9b-Spiel.</strong><br>
         Man muss 500 Punkte erreichen, indem man auf +1 drückt. Alle 50 Punkte geht die Phase hoch, was das Spiel schwieriger macht:
         <div class="table-container">
           <table>
@@ -656,7 +656,7 @@ Inhalt:
             </div>
           </div>
         </div>
-        Zufälliger 2D Platformer (Z2P) ist <strong>ein 8b-Spiel.</strong><br>
+        Zufälliger 2D Platformer (Z2P) ist <strong>ein 9b-Spiel.</strong><br>
         Nein es ist nicht Spelunky
         <h2>Räume</h2>
         Man spielt als ein Quadrat. Man startet in Raum 1 im oberen linken Feld. Räume sind quadratische Labyrinthe.<br>
@@ -821,7 +821,7 @@ Bearbeitet: 23.07.2026
 Wichtig: Nein
 
 Hinweise:
-! [info] Nicht zu verwechseln mit <a href="#" onclick="event.preventDefault(); navigateTo('8b rng')">8b RNG.</a>
+! [info] Nicht zu verwechseln mit <a href="#" onclick="event.preventDefault(); navigateTo('9b rng')">9b RNG.</a>
 
 ------------------------------
 
@@ -979,12 +979,12 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b RNG ===
+=== 9b RNG ===
 
 Inhalt:
 
         <div class="infobox">
-          <div class="infobox-header">8b RNG</div>
+          <div class="infobox-header">9b RNG</div>
           <div class="infobox-content">
             <div class="infobox-row">
               <span class="infobox-label">Genre</span>
@@ -992,7 +992,7 @@ Inhalt:
             </div>
           </div>
         </div>
-        8b RNG ist eine einzige Formel: 1/rand(0,1).<br>
+        9b RNG ist eine einzige Formel: 1/rand(0,1).<br>
         Es gibt einen Luck Trank der manchmal erscheint und die Zahl quadriert<br>
         Bei einer Zahl über 100 erscheint ein low quality Stern
         <blockquote>FÜNF TAUSEND!!!!!!</blockquote>
@@ -1116,8 +1116,8 @@ Inhalt:
             </div>
           </div>
         </div>
-        An object ist ein <strong>wichtiges 8b-Meme</strong>.
-        <p>Es war eines der ersten entstandenen 8b-Memes, zusammen mit <a href="#" onclick="event.preventDefault(); navigateTo('quaderkaffee')">Quaderkaffee</a>.
+        An object ist ein <strong>wichtiges 9b-Meme</strong>.
+        <p>Es war eines der ersten entstandenen 9b-Memes, zusammen mit <a href="#" onclick="event.preventDefault(); navigateTo('quaderkaffee')">Quaderkaffee</a>.
         <h2>Ursprung</h2>
         n94 hat bei einer Englischaufgabe 'An object' geantwortet.
         <h2>BTW</h2>
@@ -1181,7 +1181,7 @@ Inhalt:
           <li>Das BMG: Eine Schule, in welcher die Antwort auf absolut jede Frage 3 ist.</li>
         </ul>
         Die Frage: Würdest du lieber ins AMG gehen, wo es überfordernder ist aber man tatsächlich etwas für die Zukunft lernt, oder ins BMG gehen wo es viel einfacher für jetzt ist aber die Zukunft viel schwieriger machen wird?<br>
-        Welches hier die korrekte Antwort ist, ist eine <strong>Frage</strong>. Es wäre dramatisch wenn ich sagen würde, dass diese Frage die ganze 8b gespaltet hat, aber was das auch wäre, ist:
+        Welches hier die korrekte Antwort ist, ist eine <strong>Frage</strong>. Es wäre dramatisch wenn ich sagen würde, dass diese Frage die ganze 9b gespaltet hat, aber was das auch wäre, ist:
         <ul>
           <li>Eine Lüge.</li>
         </ul>
@@ -1405,12 +1405,12 @@ Inhalt:
             </div>
           </div>
         </div>
-        Doktortitel war und ist <strong>ein 8b-Insider</strong>. Er wird gebildet, indem man behauptet, man (oder jemand anderes) hätte eine hohe Anzahl an Doktortiteln.<br>
+        Doktortitel war und ist <strong>ein 9b-Insider</strong>. Er wird gebildet, indem man behauptet, man (oder jemand anderes) hätte eine hohe Anzahl an Doktortiteln.<br>
         Man sagt dann das Wort 'Dr.' oft vor dem Namen der Person.
         <h2>Ursprung</h2>
         Manche Leute haben einfach angefangen, manche Lehrer mit 'Dr.' anzusprechen. Ab dann haben mehr Leute angefangen, Leute sagten mehrere 'Dr.'s und es wurde auch in anderen Situationen benutzt, was zur Eskalation führte.
         <h2>WARNUNG</h2>
-        Nachdem die 8b das Doktortitel Meme erstellt hat, hat der Twitch Chat des Streamers DougDoug in seinem Stream '<a href="https:
+        Nachdem die 9b das Doktortitel Meme erstellt hat, hat der Twitch Chat des Streamers DougDoug in seinem Stream '<a href="https:
         <blockquote>Hallo, Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. ...</blockquote>
       
 
@@ -1476,16 +1476,16 @@ Wichtig: Nein
 
 Inhalt:
 
-        Balatro ist <strong>ein Non-8b-Spiel</strong>.<br>Es ist dafür bekannt, dass viele Leute es kennen.<br>Es wird auch häufig von 8b Leuten gespielt, vor allem:
+        Balatro ist <strong>ein Non-9b-Spiel</strong>.<br>Es ist dafür bekannt, dass viele Leute es kennen.<br>Es wird auch häufig von 9b Leuten gespielt, vor allem:
         <ul>
           <li> </li>
           <li> </li>
         </ul>
-        <h2>Relevanz zur 8b</h2>
+        <h2>Relevanz zur 9b</h2>
         <ul>
           <li>n42 spielt es</li>
           <li>n94 kann es nicht aussprechen</li>
-          <li>Es ist die Inspiration für manche 8b-Spiele, manche von welchen vor Balatro programmiert wurden (siehe <a href="https:
+          <li>Es ist die Inspiration für manche 9b-Spiele, manche von welchen vor Balatro programmiert wurden (siehe <a href="https:
         </ul>
         <blockquote>Zahl existiert, Zahl geht höher, yay.</blockquote>
       
@@ -1828,8 +1828,8 @@ Wichtig: Nein
 Inhalt:
 
         Geometry Dash ist <strong>ein Videospiel</strong> von RobTopGames. Als ob.<br>
-        Einige Leute in der 8b spielen Geometry Dash.<br>
-        Folgendes ist eine Tabelle an allen GD Spielern in der 8b über die ich genug Infos bekommen konnte also so 20%:
+        Einige Leute in der 9b spielen Geometry Dash.<br>
+        Folgendes ist eine Tabelle an allen GD Spielern in der 9b über die ich genug Infos bekommen konnte also so 20%:
         <div class="table-container">
           <table>
             <thead>
@@ -1967,12 +1967,12 @@ Wichtig: Nein
 
 ------------------------------
 
-=== Der Aufzug 8b ===
+=== Der Aufzug 9b ===
 
 Inhalt:
 
         <div class="infobox">
-          <div class="infobox-header">Der Aufzug 8b</div>
+          <div class="infobox-header">Der Aufzug 9b</div>
           <div class="infobox-content">
             <div class="infobox-row">
               <span class="infobox-label">Insider-Art</span>
@@ -1988,7 +1988,7 @@ Inhalt:
             </div>
           </div>
         </div>
-        Der Aufzug 8b ist <strong>ein Aufzug</strong> mit neuen Innovationen.
+        Der Aufzug 9b ist <strong>ein Aufzug</strong> mit neuen Innovationen.
         <h2>Innovationen</h2>
         <h3>Dixi-Klo</h3>
         Ein eingebautes Dixi-Klo, damit du direkt während der Aufzugbenutzung deine Produktionen aus deinem Körper entfernen kannst. Ohne Klopapier für Kompaktheit.
@@ -2034,7 +2034,7 @@ Inhalt:
           </div>
         </div>
         Der Krater ist <strong>ein Lied</strong>, in welchem extreme Partymusik spielt und jemand wiederholt "Der Krater" sagt.<br>
-        n94 hatte den originalen Krater, aber jetzt haben viele in der 8b den Krater und manchmal mehrere Krater.
+        n94 hatte den originalen Krater, aber jetzt haben viele in der 9b den Krater und manchmal mehrere Krater.
         <blockquote>Wie viele Krater hast du? Warte, nur 5??? Ich habe 83!</blockquote>
       
 
@@ -2170,7 +2170,7 @@ Inhalt:
             </div>
           </div>
         </div>
-        Plusquamperfekt war <strong>ein 8b-Insider</strong>, wenn etwas noch besser als perfekt ist.
+        Plusquamperfekt war <strong>ein 9b-Insider</strong>, wenn etwas noch besser als perfekt ist.
         <blockquote>AAAAA DEUTCH UNTERRICHT</blockquote>
       
 
@@ -2204,9 +2204,9 @@ Inhalt:
             </div>
           </div>
         </div>
-        Napoleon war <strong>ein Herr</strong> und ist jetzt ein 8b-Insider. Er wird auf folgende Wege benutzt:
+        Napoleon war <strong>ein Herr</strong> und ist jetzt ein 9b-Insider. Er wird auf folgende Wege benutzt:
         <ul>
-          <li>In 8b-Spiele integriert</li>
+          <li>In 9b-Spiele integriert</li>
           <li>In anderes integriert</li>
         </ul>
         Ihn gabs, er war relativ signifikant tatsächlich
@@ -2523,7 +2523,7 @@ Inhalt:
             </div>
           </div>
         </div>
-        Syndrome sind Syndrome. Die 8b denkt sich manchmal Syndrome aus für bestimmtes Verhalten.
+        Syndrome sind Syndrome. Die 9b denkt sich manchmal Syndrome aus für bestimmtes Verhalten.
         <h2>n79-Syndrom</h2>
         Das bekannteste Syndrom ist das n79-Syndrom, benannt nach <a href="#" onclick="event.preventDefault(); navigateTo('n79')">n79</a>. Das n79-Syndrom ist eine ansteckende, chronische und schlechte Krankheit, welche nach n79 benannt ist und als die Tendenz definiert ist, sich im Sportunterricht komisch zu verhalten. Es wurde nach n79 benannt.
         <h2>n83-Syndorm</h2>
@@ -2646,7 +2646,7 @@ Wichtig: Nein
 
 Inhalt:
 
-        Das n-System ist <strong>ein System</strong>. Es gibt jedem 8b-Schüler eine andere Bezeichnung.<br>
+        Das n-System ist <strong>ein System</strong>. Es gibt jedem 9b-Schüler eine andere Bezeichnung.<br>
         Diese Bezeichnungen sehen so aus: n(Zahl zw. 00 u. 99).<br>
         Sie werden benutzt für verschiedene Sachen wie z.B. <a href="#" onclick="event.preventDefault(); navigateTo('ofen')">Privatsphäre</a> von Typen.
         <div class="table-container">
@@ -2766,7 +2766,7 @@ Inhalt:
                 <td>n67</td>
                 <td>-</td>
                 <td>w</td>
-                <td>War in 8b, jetzt 8a</td>
+                <td>War in 9b, jetzt 9a</td>
               </tr>
               <tr>
                 <td><a href="#" onclick="event.preventDefault(); navigateTo('n69')">n69</a></td>
@@ -2784,7 +2784,7 @@ Inhalt:
                 <td>n75</td>
                 <td>5</td>
                 <td>m</td>
-                <td>War in 8a, jetzt 8b</td>
+                <td>War in 9a, jetzt 9b</td>
               </tr>
               <tr>
                 <td>n79</td>
@@ -2865,9 +2865,9 @@ Inhalt:
             </div>
           </div>
         </div>
-        n08 'ist' ein Schüler in der 8b. Auf der Klassenliste ist er in Position 24.<br>
-        Oh nein.<br>Er wollte mal mit einer 4 in Musik flexen (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 6')">8b-Zeitung</a>)<br>
-        Er hat aufgrund seiner eigenen Gehirnlosigkeit mal <a href="#" onclick="event.preventDefault(); navigateTo('n42')">n42</a> beleidigt (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 47')">8b-Zeitung</a>)<br>
+        n08 'ist' ein Schüler in der 9b. Auf der Klassenliste ist er in Position 24.<br>
+        Oh nein.<br>Er wollte mal mit einer 4 in Musik flexen (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 6')">9b-Zeitung</a>)<br>
+        Er hat aufgrund seiner eigenen Gehirnlosigkeit mal <a href="#" onclick="event.preventDefault(); navigateTo('n42')">n42</a> beleidigt (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 47')">9b-Zeitung</a>)<br>
         Er erfand <a href="#" onclick="event.preventDefault(); navigateTo('böb')">Böb</a>. Er ist sehr <a href="#" onclick="event.preventDefault(); navigateTo('quatschzeit')">quatschzeitmäßig</a>.
       
 
@@ -2897,10 +2897,10 @@ Inhalt:
             </div>
           </div>
         </div>
-        n29 ist ein Schüler in der 8b. Auf der Klassenliste ist er in Position 8.<br>
-        Er führte dazu, dass <a href="#" onclick="event.preventDefault(); navigateTo('n90')">n90</a> die Klassensprecherwahl gewann (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 38')">8b-Zeitung</a>).<br>
-        Er zerstörte auch (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 13')">8b-Zeitung</a>)<br>
-        Er ist die Hauptstadt der 8b.<br>
+        n29 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 8.<br>
+        Er führte dazu, dass <a href="#" onclick="event.preventDefault(); navigateTo('n90')">n90</a> die Klassensprecherwahl gewann (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 38')">9b-Zeitung</a>).<br>
+        Er zerstörte auch (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 13')">9b-Zeitung</a>)<br>
+        Er ist die Hauptstadt der 9b.<br>
         Es hat <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 20')">939239928 Nobelpreise.</a>
       
 
@@ -2930,7 +2930,7 @@ Inhalt:
             </div>
           </div>
         </div>
-        n39 ist ein Schüler in der 8b. Auf der Klassenliste ist er in Position 22.<br>
+        n39 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 22.<br>
         Er erfand den Ofen (siehe <a href="#" onclick="event.preventDefault(); navigateTo('ofen')">Ofen</a> und gilt damit als eine der wichtigsten Menschen der Realität.<br>
         Er arbeitet als <b>Quader</b>, auf welche 10 Newton Kraft ausgeübt wird.<br>
         Er ist.
@@ -2962,8 +2962,8 @@ Inhalt:
             </div>
           </div>
         </div>
-        n42 ist ein Schüler in der 8b. Auf der Klassenliste ist er in Position 16.<br>
-        Er ist Eaay. Er wurde mal von <a href="#" onclick="event.preventDefault(); navigateTo('n08')">n08</a> beleidigt, weil n08 dumm ist (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 47')">8b-Zeitung</a>).
+        n42 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 16.<br>
+        Er ist Eaay. Er wurde mal von <a href="#" onclick="event.preventDefault(); navigateTo('n08')">n08</a> beleidigt, weil n08 dumm ist (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 47')">9b-Zeitung</a>).
         Er hat <a href="#" onclick="event.preventDefault(); navigateTo('tff3125')">TFF3125</a>, zusammen mit <a href="#" onclick="event.preventDefault(); navigateTo('n94')">n94</a>.<br>
         Er produzierte das <a href="#" onclick="event.preventDefault(); navigateTo('ipad-banach-tarski-paradoxon')">iPad-Banach-Tarsik-Paradoxon</a>.
         <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 20')">Les einfach</a>
@@ -2995,7 +2995,7 @@ Inhalt:
             </div>
           </div>
         </div>
-        n69 ist eine Schülerin in der 8b. Auf der Klassenliste ist sie in Position 17.<br>
+        n69 ist eine Schülerin in der 9b. Auf der Klassenliste ist sie in Position 17.<br>
         Sie ist auch Klassensprecherin.
       
 
@@ -3025,9 +3025,9 @@ Inhalt:
             </div>
           </div>
         </div>
-        n79 ist ein Schüler in der 8b. Auf der Klassenliste ist er in Position 14.<br>
-        Er sagte mal Oah 15 (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 19')">8b-Zeitung</a>)
-        Er ist der Mathelehrer (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 20')">8b-Zeitung</a>)<br>
+        n79 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 14.<br>
+        Er sagte mal Oah 15 (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 19')">9b-Zeitung</a>)
+        Er ist der Mathelehrer (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 20')">9b-Zeitung</a>)<br>
         Er bewies <a href="#" onclick="event.preventDefault(); navigateTo('latein')">n39's Beweis</a>.<br>
         Mit ihm kann man <a href="#" onclick="event.preventDefault(); navigateTo('photosynthese')">Photosynthese</a> machen.<br>
         Er noclippte mal in die <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 24')">Backrooms</a>.
@@ -3059,8 +3059,8 @@ Inhalt:
             </div>
           </div>
         </div>
-        n83 ist ein Schüler in der 8b. Auf der Klassenliste ist er in Position 9.<br>
-        Er spawnt oft, siehe alle 8b-Zeitungen ab 2026.<br>
+        n83 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 9.<br>
+        Er spawnt oft, siehe alle 9b-Zeitungen ab 2026.<br>
         <a href="#" onclick="event.preventDefault(); navigateTo('es gibt mehrere probleme in dieser realität und n83 verursachte alle')">Er verursachte auch alle Probleme in dieser Realität</a>. In den anderen? Können wir nicht wissen, wir sind in dieser.<br>
         Sein rechtlicher Name <a href="#" onclick="event.preventDefault(); navigateTo('n83 mit ß')">enthält ein ß</a>. Dem widersprechen ist wahrscheinlich eine Straftat.
       
@@ -3091,10 +3091,10 @@ Inhalt:
             </div>
           </div>
         </div>
-        n90 ist ein Schüler in der 8b. Auf der Klassenliste ist er in Position 27.<br>
-        Er ist auch ein Klassensprecher, größtenteils dank <a href="#" onclick="event.preventDefault(); navigateTo('n29')">n29</a> (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 38')">8b-Zeitung</a>).<br>
-        Er schrieb mal am 30.9.25 eine 4-5 in einem Englisch Vokabeltest (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 40')">8b-Zeitung</a>)<br>
-        Er ist eine Oper (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 21')">8b-Zeitung</a>)
+        n90 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 27.<br>
+        Er ist auch ein Klassensprecher, größtenteils dank <a href="#" onclick="event.preventDefault(); navigateTo('n29')">n29</a> (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 38')">9b-Zeitung</a>).<br>
+        Er schrieb mal am 30.9.25 eine 4-5 in einem Englisch Vokabeltest (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 40')">9b-Zeitung</a>)<br>
+        Er ist eine Oper (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 21')">9b-Zeitung</a>)
       
 
 Kategorien: schüler
@@ -3123,9 +3123,9 @@ Inhalt:
             </div>
           </div>
         </div>
-        n94 ist ein Schüler in der 8b. Auf der Klassenliste ist er in Position 19.<br>
-        In Kunst machte er mal sein Zeug (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 6')">8b-Zeitung</a>)<br>
-        Er kann nicht deutschen (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 49')">8b-Zeitung</a>)
+        n94 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 19.<br>
+        In Kunst machte er mal sein Zeug (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 6')">9b-Zeitung</a>)<br>
+        Er kann nicht deutschen (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 49')">9b-Zeitung</a>)
         Er hat <a href="#" onclick="event.preventDefault(); navigateTo('tff3125')">TFF3125</a>, zusammen mit <a href="#" onclick="event.preventDefault(); navigateTo('n42')">n42</a>.<br>
         Er programmierte das <a href="#" onclick="event.preventDefault(); navigateTo('als obob spiel')">Als Obob Spiel</a>.
       
@@ -3156,8 +3156,8 @@ Inhalt:
             </div>
           </div>
         </div>
-        n97 ist ein Schüler in der 8b. Auf der Klassenliste ist er in Position 23.<br>
-        Sein Stammbaum ist laut Englischlehrer aus einem Flugzeug gefallen (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 13')">8b-Zeitung</a>).
+        n97 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 23.<br>
+        Sein Stammbaum ist laut Englischlehrer aus einem Flugzeug gefallen (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 13')">9b-Zeitung</a>).
       
 
 Kategorien: schüler
@@ -3186,8 +3186,8 @@ Inhalt:
             </div>
           </div>
         </div>
-        n98 ist ein Schüler in der 8b. Auf der Klassenliste ist er in Position 20.<br>
-        Ihm ging es mal nicht gut (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 39')">8b-Zeitung</a>), aber dann ging es ihm wieder gut (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 42')">8b-Zeitung</a>).<br>
+        n98 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 20.<br>
+        Ihm ging es mal nicht gut (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 39')">9b-Zeitung</a>), aber dann ging es ihm wieder gut (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 42')">9b-Zeitung</a>).<br>
         Er hatte mal <a href="#" onclick="event.preventDefault(); navigateTo('geprüft & empfohlen sticker')">ACHT GANZE GEPRÜFT UND EMPFOHLEN STICKER!!!</a>
       
 
@@ -3200,14 +3200,14 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung ===
+=== 9b-Zeitung ===
 
 Inhalt:
 
-        Die 8b-Zeitung ist <strong>eine Zeitung</strong> auf dieser Website.
+        Die 9b-Zeitung ist <strong>eine Zeitung</strong> auf dieser Website.
         <br>Sie hat wöchentlich eine neue Ausgabe und sie existiert.
         <br>Sie ist zusätzlich auch eine der Zeitungen Deutschlands. Tatsächlich eine überdurchschnittlich ehrliche.
-        <br>Die Rubriken sind Normales, Panik und 8b-Sachen.
+        <br>Die Rubriken sind Normales, Panik und 9b-Sachen.
         <br><b>Links</b>, nicht zu verwechseln mit Rechts:
         <ul>
           <li><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 31')">Neueste Ausgabe</a></li>
@@ -3412,7 +3412,7 @@ Inhalt:
             </tbody>
           </table>
         </div>
-        <blockquote>Ich freu mich auf die neue Ausgabe der 8b-Zeitung, aber ich</blockquote>
+        <blockquote>Ich freu mich auf die neue Ausgabe der 9b-Zeitung, aber ich</blockquote>
       
 
 Kategorien: zeitungen, antimaterie
@@ -3424,11 +3424,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2025, KW 38 ===
+=== 9b-Zeitung - 2025, KW 38 ===
 
 Inhalt:
 
-        Dies ist die 1. Ausgabe der 8b-Zeitung für KW 38 2025, von dem 15. bis zu dem 19. September 2025.
+        Dies ist die 1. Ausgabe der 9b-Zeitung für KW 38 2025, von dem 15. bis zu dem 19. September 2025.
         <h2>Normales</h2>
         <h3>Ende der Sommerferien</h3>
         Die Sommerferien endeten. Dies markiert den Start der 8b-Epoche.
@@ -3452,9 +3452,9 @@ Inhalt:
         Freitags lernten wir in Mathe wie man die Fobizz KI benutzt, in Chemie wieso man sie nicht benutzen sollte.
         <h3>Komische Kunstphilosophie</h3>
         Kunst ist ausgefallen, aber es war undeutlich, ob Kunst ausgefallen ist oder nicht.<br>Zwei Drittel der Schüler sind gekommen. Der Kunstlehrer hat trotzdem Kunstunterricht gemacht und die Schüler nicht erlaubt, zu gehen, obwohl es eigentlich ausgefallen ist.
-        <h2>8b-Sachen</h2>
-        <h3>8b-Spiele auf iPads spielbar</h3>
-        8b-Spiele, wie z.B. Vermeidungssimulator, sind auf den Schul-iPads spielbar.
+        <h2>9b-Sachen</h2>
+        <h3>9b-Spiele auf iPads spielbar</h3>
+        9b-Spiele, wie z.B. Vermeidungssimulator, sind auf den Schul-iPads spielbar.
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
         <ul>
@@ -3475,11 +3475,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2025, KW 39 ===
+=== 9b-Zeitung - 2025, KW 39 ===
 
 Inhalt:
 
-        Dies ist die 2. Ausgabe der 8b-Zeitung für KW 39 2025, von dem 22. bis zu dem 26. September 2025.
+        Dies ist die 2. Ausgabe der 9b-Zeitung für KW 39 2025, von dem 22. bis zu dem 26. September 2025.
         <h2>Normales</h2>
         <h3>Weirde Deutschaufgabe</h3>
         Wir mussten einen Raum zeichnen der in einem Buch wörtlich beschrieben wurde. Manche gezeichneten Räume waren gut, manche nicht.
@@ -3500,7 +3500,7 @@ Inhalt:
         Es war sehr unklar ob donnerstags ein Vokabeltest geschrieben wird oder nicht.
         <h3>Was ist das denn</h3>
         Freitags wurde in Englisch das Gerundium beigebracht.<br>Das Wort Gerundium klingt scheiße.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>Lidl Werbung Time</h3>
         In Geschichte wurde eine Doku angeguckt. Es kam eine unvorstellbare Anzahl an <a href="#" onclick="event.preventDefault(); navigateTo('lidl')">Lidl</a> Werbungen.
         <h3>Kunstlehrer gut</h3>
@@ -3522,11 +3522,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2025, KW 40 ===
+=== 9b-Zeitung - 2025, KW 40 ===
 
 Inhalt:
 
-        Dies ist die 3. Ausgabe der 8b-Zeitung für KW 40 2025, von dem 29. September bis zu dem 2. Oktober 2025.
+        Dies ist die 3. Ausgabe der 9b-Zeitung für KW 40 2025, von dem 29. September bis zu dem 2. Oktober 2025.
         <h2>Normales</h2>
         <h3>Englisch Vokabeltest</h3>
         Ein Englisch-Vokabeltest wurde dienstaggeschrieben. Es gab verschiedene Noten:
@@ -3549,7 +3549,7 @@ Inhalt:
         In Geschichte wurde eine Hausaufgabe gegeben die einfach fundamental keinen Sinn ergibt.
         <h3>Latein Vokabeltest</h3>
         u.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>Deutschsache passiert</h3>
         In Deutsch lesen wir eine Lektüre. Die Lektüre wurde halb-informell geschrieben (im Gegensatz zu Deutsch normalerweise, was immer komplett formell ist), was ziemlich nice ist.
         <h2>Anderes</h2>
@@ -3569,11 +3569,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2025, KW 42 ===
+=== 9b-Zeitung - 2025, KW 42 ===
 
 Inhalt:
 
-        Dies ist die 4. Ausgabe der 8b-Zeitung für KW 42 2025, von dem 13. bis zu dem 17. Oktober 2025.
+        Dies ist die 4. Ausgabe der 9b-Zeitung für KW 42 2025, von dem 13. bis zu dem 17. Oktober 2025.
         <h2>Normales</h2>
         <h3>Deutsch war Lesezeit</h3>
         In Deutsch wurde am Dienstag die Lektüre weitergelesen, und am Donnerstag redeten wir über sie.
@@ -3591,7 +3591,7 @@ Inhalt:
         In Latein war eine nervige Klassenarbeit.
         <h3>Was passiert hier</h3>
         In Geschichte haben wir einen Film angeschaut der sogar für einen Fantasiefilm viel zu unrealistisch ist.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>n98 geht es wieder gut</h3>
         Endlich! Seit Montag geht es <a href="#" onclick="event.preventDefault(); navigateTo('n98')">n98</a> wieder gut.
         <h3>Das klingt ungesund</h3>
@@ -3614,11 +3614,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2025, KW 43 ===
+=== 9b-Zeitung - 2025, KW 43 ===
 
 Inhalt:
 
-        Dies ist die 5. Ausgabe der 8b-Zeitung für KW 43 2025, von dem 20. bis zu dem 24. Oktober 2025.
+        Dies ist die 5. Ausgabe der 9b-Zeitung für KW 43 2025, von dem 20. bis zu dem 24. Oktober 2025.
         <h2>Normales</h2>
         <h3>Lektüre v2</h3>
         Dienstags schauten wir uns in Deutsch den Film zur Lektüre an.
@@ -3635,7 +3635,7 @@ Inhalt:
         In Chemie gab es ein Arbeitsblatt.
         <h3>Stuhl-Downgrade</h3>
         Die Stühle in Technik sind scheiße.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -3654,11 +3654,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2025, KW 45 ===
+=== 9b-Zeitung - 2025, KW 45 ===
 
 Inhalt:
 
-        Dies ist die 6. Ausgabe der 8b-Zeitung für KW 45 2025, von dem 3. bis zu dem 7. November 2025.
+        Dies ist die 6. Ausgabe der 9b-Zeitung für KW 45 2025, von dem 3. bis zu dem 7. November 2025.
         <h2>Normales</h2>
         <h3>Herbstferien zu Ende</h3>
         Die Herbstferien endeten.
@@ -3684,7 +3684,7 @@ Inhalt:
         <h2>Panik</h2>
         <h3>Wieso so viele HAs</h3>
         Wer erwartet hat, dass die Lateinlehrerin aufgrund wortwörtlich<br>dem ersten Tag nach Ferien keine/wenig HAs geben würde, lag falsch.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -3703,11 +3703,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2025, KW 46 ===
+=== 9b-Zeitung - 2025, KW 46 ===
 
 Inhalt:
 
-        Dies ist die 7. Ausgabe der 8b-Zeitung für KW 46 2025, von dem 10. bis zu dem 14. November 2025.
+        Dies ist die 7. Ausgabe der 9b-Zeitung für KW 46 2025, von dem 10. bis zu dem 14. November 2025.
         <h2>Normales</h2>
         <h3>Englischlehrer oder so</h3>
         Der Englischlehrer hat dienstags innerhalb einem Unterricht so 150 Relativsätze benutzt.
@@ -3716,7 +3716,7 @@ Inhalt:
         <h2>Panik</h2>
         <h3>Ziemlich bedrohlich</h3>
         Eine Klassenarbeit ist passiert.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>Latein-Kabarett</h3>
         Das Latein-Kabarett passierte, es war irgendwie gut.
         <h2>Anderes</h2>
@@ -3736,11 +3736,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2025, KW 47 ===
+=== 9b-Zeitung - 2025, KW 47 ===
 
 Inhalt:
 
-        Dies ist die 8. Ausgabe der 8b-Zeitung für KW 47 2025, von dem 17. bis zu dem 21. November 2025.
+        Dies ist die 8. Ausgabe der 9b-Zeitung für KW 47 2025, von dem 17. bis zu dem 21. November 2025.
         <h2>Normales</h2>
         <h3>PEt ding</h3>
         In Technik werden jetzt PET-Renner gebaut.
@@ -3759,7 +3759,7 @@ Inhalt:
         Die Deutsch KA war am Donnerstag.
         <h3>Gk KA zurückgegeben</h3>
         Die Gk KA wurde zurückgegeben. n08 hat <a href="#" onclick="event.preventDefault(); navigateTo('n42')">n42</a> beleidigt weil n42 eine 3 hatte. n08 hatte auch eine 3.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -3777,11 +3777,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2025, KW 48 ===
+=== 9b-Zeitung - 2025, KW 48 ===
 
 Inhalt:
 
-        Dies ist die 9. Ausgabe der 8b-Zeitung für KW 48 2025, von dem 24. bis zu dem 28. November 2025.
+        Dies ist die 9. Ausgabe der 9b-Zeitung für KW 48 2025, von dem 24. bis zu dem 28. November 2025.
         <h2>Normales</h2>
         <h3>Geschichte SoL</h3>
         In Geschichte war ein SoL, diesmal nicht bedrohlich.
@@ -3796,7 +3796,7 @@ Inhalt:
         In Latein war ein bedrohlicher Text.
         <h3>Ich fühle mich bedroht</h3>
         Latein war weird. Ich fühle mich bedroht.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -3814,11 +3814,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2025, KW 49 ===
+=== 9b-Zeitung - 2025, KW 49 ===
 
 Inhalt:
 
-        Dies ist die 10. Ausgabe der 8b-Zeitung für KW 49 2025, von dem 1. bis zu dem 5. Dezember 2025.
+        Dies ist die 10. Ausgabe der 9b-Zeitung für KW 49 2025, von dem 1. bis zu dem 5. Dezember 2025.
         <h2>Normales</h2>
         <h3>Physik KA</h3>
         Die Physik KA passierte.
@@ -3833,7 +3833,7 @@ Inhalt:
         Geschichte sehr geschichtlich. Panik startete.
         <h3>Oh nein</h3>
         Latein Vokabeltest mal wieder rigged.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -3851,11 +3851,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2025, KW 50 ===
+=== 9b-Zeitung - 2025, KW 50 ===
 
 Inhalt:
 
-        Dies ist die 11. Ausgabe der 8b-Zeitung für KW 50 2025, von dem 8. bis zu dem 12. Dezember 2025.
+        Dies ist die 11. Ausgabe der 9b-Zeitung für KW 50 2025, von dem 8. bis zu dem 12. Dezember 2025.
         <h2>Normales</h2>
         <h3>Deutsch KA ausgegeben</h3>
         Die Deutsch KA wurde dienstags ausgegeben. Der Durchschnitt war gut.
@@ -3864,14 +3864,14 @@ Inhalt:
         <h3>Pyhsik KA ausgegeben</h3>
         ...
         <h3>KONVERSATION</h3>
-        Eine Konversation wird zwischen der 8b und der Lateinlehrerin gehalten.
+        Eine Konversation wird zwischen der 9b und der Lateinlehrerin gehalten.
         <h3>A</h3>
         Eine weitere Ka, die Religion/Ethik KA, wurde geschrieben.
         <h3>NOCH EINE KA</h3>
         Die Geschichte KA wurde geschrieben.
         <h2>Panik</h2>
         Keine :D
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>Canva Dings</h3>
         In Physik lernten wir, wie man Canva benutzt.
         <h3>Deutsch war nice</h3>
@@ -3892,11 +3892,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2025, KW 51 ===
+=== 9b-Zeitung - 2025, KW 51 ===
 
 Inhalt:
 
-        Dies ist die 12. Ausgabe der 8b-Zeitung für KW 51 2025, von dem 15. bis zu dem 19. Dezember 2025.
+        Dies ist die 12. Ausgabe der 9b-Zeitung für KW 51 2025, von dem 15. bis zu dem 19. Dezember 2025.
         <h2>Normales</h2>
         <h3>Englisch Film</h3>
         In Englisch wurde die bisher schwierigste je passierte Englisch-KA ausgegeben. (Sie war trotzdem relativ einfach) Dafür wurde ein schlechter Film geschaut.
@@ -3916,7 +3916,7 @@ Inhalt:
         <h2>Panik</h2>
         <h3>Latein KA</h3>
         Die Latein KA, die letzte KA 2025, passierte.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -3934,11 +3934,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 2 ===
+=== 9b-Zeitung - 2026, KW 2 ===
 
 Inhalt:
 
-        Dies ist die 13. Ausgabe der 8b-Zeitung für KW 2 2026, von dem 7. bis zu dem 9. Januar 2026.
+        Dies ist die 13. Ausgabe der 9b-Zeitung für KW 2 2026, von dem 7. bis zu dem 9. Januar 2026.
         <h2>Normales</h2>
         <h3>Ende der Ferien</h3>
         Die Weihnachtsferien endeten mittwochs. Außerdem ist 2025 kollabiert und ein neues Jahr musste gestartet werden.<br>Dieses neue Jahr hat jedoch einen Bug, wo n83 manchmal spawnt.
@@ -3953,7 +3953,7 @@ Inhalt:
         Die Latein KA wurde am Mittwoch ausgegeben. Dies wurde als offizielle Tragödie bezeichnet.
         <h3>Latein dumm</h3>
         Latein dumm. Neuer Grund 'Oktavheft' freigeschaltet.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
         <ul>
@@ -3970,11 +3970,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 3 ===
+=== 9b-Zeitung - 2026, KW 3 ===
 
 Inhalt:
 
-        Dies ist die 14. Ausgabe der 8b-Zeitung für KW 3 2026, von dem 12. bis zu dem 16. Januar 2026.
+        Dies ist die 14. Ausgabe der 9b-Zeitung für KW 3 2026, von dem 12. bis zu dem 16. Januar 2026.
         <h2>Normales</h2>
         <h3>Problematisches Zeichnen</h3>
         In Technik wurde das technische Zeichnen beigebracht.
@@ -3991,7 +3991,7 @@ Inhalt:
         In Physik lernen wir über Impuls mit dem Formelzeichen P. Wieso P???
         <h3>Donnerstag: Schlechtester Tag der Geschichte des Universums</h3>
         In Geschichte: Nur langweilige Aufgaben und ein langweiliger Film. In Deutsch: Eine INHALTSANGABE! In Latein: Latein. In Englisch: NOCH MAL GESCHICHTE.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -4009,11 +4009,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 4 ===
+=== 9b-Zeitung - 2026, KW 4 ===
 
 Inhalt:
 
-        Dies ist die 15. Ausgabe der 8b-Zeitung für KW 4 2026, von dem 19. bis zu dem 23. Januar 2026.
+        Dies ist die 15. Ausgabe der 9b-Zeitung für KW 4 2026, von dem 19. bis zu dem 23. Januar 2026.
         <h2>Normales</h2>
         <h3>Was ist los</h3>
         Was ist los der ganze Donnerstag war kein Unterricht außer in English
@@ -4028,7 +4028,7 @@ Inhalt:
         <h2>Panik</h2>
         <h3>Scheiß German</h3>
         I hate the German language.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -4046,11 +4046,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 5 ===
+=== 9b-Zeitung - 2026, KW 5 ===
 
 Inhalt:
 
-        Dies ist die 16. Ausgabe der 8b-Zeitung für KW 5 2026, von dem 26. bis zu dem 28. Januar 2026.
+        Dies ist die 16. Ausgabe der 9b-Zeitung für KW 5 2026, von dem 26. bis zu dem 28. Januar 2026.
         <h2>Normales</h2>
         Keine :|
         <h2>Panik</h2>
@@ -4058,7 +4058,7 @@ Inhalt:
         Latein: Vokabelübung - Formenbildungsübung - Hausaufgabenkontrolle - Neue Hausaufgaben
         <h3>ABSOLUTE AAAAAA</h3>
         Die Beschreibung des Dienstages. (Er war langweilig.)
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -4076,11 +4076,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 6 ===
+=== 9b-Zeitung - 2026, KW 6 ===
 
 Inhalt:
 
-        Dies ist die 17. Ausgabe der 8b-Zeitung für KW 6 2026, von dem 2. bis zu dem 6. Februar 2026.
+        Dies ist die 17. Ausgabe der 9b-Zeitung für KW 6 2026, von dem 2. bis zu dem 6. Februar 2026.
         <h2>Normales</h2>
         <h3>Notenkonferenz</h3>
         Noten werden konferenzt.
@@ -4093,7 +4093,7 @@ Inhalt:
         Dies ist ein schlechter Tag.
         <h3>Musik KA zurück</h3>
         Die Musik KA wurde zurückgegeben. <a href="#" onclick="event.preventDefault(); navigateTo('n08')">n08</a> wollte mit einer 4 flexen.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
         <ul>
@@ -4110,11 +4110,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 7 ===
+=== 9b-Zeitung - 2026, KW 7 ===
 
 Inhalt:
 
-        Dies ist die 18. Ausgabe der 8b-Zeitung für KW 7 2026, von dem 9. bis zu dem 12. Februar 2026.
+        Dies ist die 18. Ausgabe der 9b-Zeitung für KW 7 2026, von dem 9. bis zu dem 12. Februar 2026.
         <h2>Normales</h2>
         <h3>Englisch Vokabeltest</h3>
         Es gab in Englisch am Montag einen Vokabeltest und danach langweilige USA Sachen.
@@ -4133,7 +4133,7 @@ Inhalt:
         Muss man mehr sagen?
         <h3>Filme in Englisch</h3>
         Es wurden dienstags Filme in Englisch angeschaut. Die eine Gruppe hat einen guten Film angeschaut, ohne Aufgaben währenddessen. Die andere hatte einen absolut schlechten Film, viermal hintereinander, mit Aufgaben.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>Videospiele in Technik</h3>
         Ja.
         <h2>Anderes</h2>
@@ -4152,11 +4152,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 9 ===
+=== 9b-Zeitung - 2026, KW 9 ===
 
 Inhalt:
 
-        Dies ist die 19. Ausgabe der 8b-Zeitung für KW 9 2026, von dem 23. bis zu dem 27. Februar 2026.
+        Dies ist die 19. Ausgabe der 9b-Zeitung für KW 9 2026, von dem 23. bis zu dem 27. Februar 2026.
         <h2>Normales</h2>
         <h3>Wow</h3>
         In Gk + Wt zum ersten Mal Wt.
@@ -4169,7 +4169,7 @@ Inhalt:
         <h2>Panik</h2>
         <h3>ugh</h3>
         Die Ferien endeten und es gab SOFORT Latein und nervige Lateinsachen.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -4191,11 +4191,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 10 ===
+=== 9b-Zeitung - 2026, KW 10 ===
 
 Inhalt:
 
-        Dies ist die 20. Ausgabe der 8b-Zeitung für KW 10 2026, von dem 2. bis zu dem 6. März 2026.
+        Dies ist die 20. Ausgabe der 9b-Zeitung für KW 10 2026, von dem 2. bis zu dem 6. März 2026.
         <h2>Normales</h2>
         <h3>Kahoot</h3>
         Montags gab es ein Kahoot zum Abschluss des Themas Technisches Zeichnen in Technik.
@@ -4211,8 +4211,8 @@ Inhalt:
         <h3>Die Geschichte</h3>
         Dienstags mussten wir in Deutsch eine Geschichte lesen, jedoch wurde durch eine temporale Anomalie 8:45 und 9:05 gleichgesetzt.
         <h3>Die andere Geschichte</h3>
-        Dienstags mussten wir in Englisch eine Geschichte lesen, tatsächlich eine über den Oregon Trail (oh nein, die 8b hasst den Oregon Trail)
-        <h2>8b-Sachen</h2>
+        Dienstags mussten wir in Englisch eine Geschichte lesen, tatsächlich eine über den Oregon Trail (oh nein, die 9b hasst den Oregon Trail)
+        <h2>9b-Sachen</h2>
         <h3>A?</h3>
         Dienstags hat jeder seine Englisch-HA vergessen, was logisch war da sie praktisch "Zeitreise in Vergangenheit tun" war.
         <h3>Normal.</h3>
@@ -4233,11 +4233,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 11 ===
+=== 9b-Zeitung - 2026, KW 11 ===
 
 Inhalt:
 
-        Dies ist die 21. Ausgabe der 8b-Zeitung für KW 11 2026, von dem 9. bis zu dem 13. März 2026.
+        Dies ist die 21. Ausgabe der 9b-Zeitung für KW 11 2026, von dem 9. bis zu dem 13. März 2026.
         <h2>Normales</h2>
         <h3>Ökosystem</h3>
         Technik ist jetzt über Ökosysteme.
@@ -4261,7 +4261,7 @@ Inhalt:
         Der Punkt, wo der einzige Teil des Unterrichtes "Neue HAs" ist, nähert sich.
         <h3>Latein Vokabeltest</h3>
         Es gibt wieder donnerstags ein Latein-Vokabeltest.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -4282,11 +4282,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 12 ===
+=== 9b-Zeitung - 2026, KW 12 ===
 
 Inhalt:
 
-        Dies ist die 22. Ausgabe der 8b-Zeitung für KW 12 2026, von dem 16. bis zu dem 20. März 2026.
+        Dies ist die 22. Ausgabe der 9b-Zeitung für KW 12 2026, von dem 16. bis zu dem 20. März 2026.
         <h2>Normales</h2>
         <h3>Englisch Vera</h3>
         Dienstags fand die Englisch Vera statt. Jeder realisierte: Echte Englischsprecher sprechen so unverständlich und schnell dass sie praktisch nicht Englisch sprechen.
@@ -4297,7 +4297,7 @@ Inhalt:
         Es fand eine Tragödie statt.
         <h3>Deutsch Klassenarbeit</h3>
         Es fand eine weitere Tragödie statt, diesmal in Interpretationsform. (Donnerstags)
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -4315,11 +4315,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 13 ===
+=== 9b-Zeitung - 2026, KW 13 ===
 
 Inhalt:
 
-        Dies ist die 23. Ausgabe der 8b-Zeitung für KW 13 2026, von dem 23. bis zu dem 24. März 2026.
+        Dies ist die 23. Ausgabe der 9b-Zeitung für KW 13 2026, von dem 23. bis zu dem 24. März 2026.
         <h2>Normales</h2>
         <h3>Englisch Film</h3>
         Am Dienstag haben wir in Englisch einen Film auf Englisch angeschaut.
@@ -4332,7 +4332,7 @@ Inhalt:
         Latein ist montags ausgefallen, aber die Lateinlehrerin gab trotzdem Aufgaben und sogar HAs.
         <h3>Deutsch Rechtschreibübung</h3>
         Dienstags mussten wir in Deutsch ein massives Arbeitsblatt über Großschreibung machen.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>Englisch antimateriell</h3>
         Englisch war montags sehr A&A (absurd & antimateriell). Zitate:
         <ul>
@@ -4356,11 +4356,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 16 ===
+=== 9b-Zeitung - 2026, KW 16 ===
 
 Inhalt:
 
-        Dies ist die 24. Ausgabe der 8b-Zeitung für KW 16 2026, von dem 13. bis zu dem 17. April 2026.
+        Dies ist die 24. Ausgabe der 9b-Zeitung für KW 16 2026, von dem 13. bis zu dem 17. April 2026.
         <h2>Normales</h2>
         <h3>Ferienende</h3>
         Die Osterferien endeten.
@@ -4379,7 +4379,7 @@ Inhalt:
         Die AG ist absolut dumm, weil wir Tische und Stühle und so über 3 Stockwerke transportieren mussten, und dies alleine, wir haben jetzt mehrfache Demenz.
         <h3>TS3</h3>
         TS3.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>Kunst ist gut?</h3>
         Es gab mal wieder sehr viel Antimaterie in Kunst.
         <h2>Anderes</h2>
@@ -4401,11 +4401,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 17 ===
+=== 9b-Zeitung - 2026, KW 17 ===
 
 Inhalt:
 
-        Dies ist die 25. Ausgabe der 8b-Zeitung für KW 17 2026, von dem 20. bis zu dem 24. April 2026.
+        Dies ist die 25. Ausgabe der 9b-Zeitung für KW 17 2026, von dem 20. bis zu dem 24. April 2026.
         <h2>Normales</h2>
         <h3>Englisch KA Zeug Reveal</h3>
         Details für die kommenden Aufgaben auf der Englisch KA wurden am Montag revealed.
@@ -4428,7 +4428,7 @@ Inhalt:
         Latein Vokabeltest, ich hasse Latein
         <h3>Latein</h3>
         Latein
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -4446,11 +4446,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 18 ===
+=== 9b-Zeitung - 2026, KW 18 ===
 
 Inhalt:
 
-        Dies ist die 26. Ausgabe der 8b-Zeitung für KW 18 2026, von dem 27. bis zu dem 27. April 2026.
+        Dies ist die 26. Ausgabe der 9b-Zeitung für KW 18 2026, von dem 27. bis zu dem 27. April 2026.
         <h2>Normales</h2>
         Keine :|
         <h2>Panik</h2>
@@ -4458,7 +4458,7 @@ Inhalt:
         Ja. (ich implodiere gleich)
         <h3>NwT Demenz</h3>
         NwT gibt auch Demenz, wie die AG am <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 16')">16.4.</a>
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -4476,11 +4476,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 19 ===
+=== 9b-Zeitung - 2026, KW 19 ===
 
 Inhalt:
 
-        Dies ist die 27. Ausgabe der 8b-Zeitung für KW 19 2026, von dem 4. bis zu dem 8. Mai 2026.
+        Dies ist die 27. Ausgabe der 9b-Zeitung für KW 19 2026, von dem 4. bis zu dem 8. Mai 2026.
         <h2>Normales</h2>
         <h3>Ok.</h3>
         <a href="#" onclick="event.preventDefault(); navigateTo('n79')">n79</a> sagte in Latein am Montag Oah 15.
@@ -4499,7 +4499,7 @@ Inhalt:
         In Geschichte schauten wir einen schlechten Film.
         <h3>AG Ausfall</h3>
         Die AG ist entfallen aber dies wurde niemandem gesagt
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -4521,17 +4521,17 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 20 ===
+=== 9b-Zeitung - 2026, KW 20 ===
 
 Inhalt:
 
-        Dies ist die 28. Ausgabe der 8b-Zeitung für KW 20 2026, von dem 11. bis zu dem 15. Mai 2026.
+        Dies ist die 28. Ausgabe der 9b-Zeitung für KW 20 2026, von dem 11. bis zu dem 15. Mai 2026.
         <h2>Normales</h2>
         Keine :|
         <h2>Panik</h2>
         <h3>Latein KA</h3>
         hdehufhuieokdojkfionuzviwqvftzuwdoiuf
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>aaa</h3>
         <a href="#" onclick="event.preventDefault(); navigateTo('n29')">n29</a> hat ein nobelpreiswürdiges Gedicht geschrieben.
         <h3>Google KI hat IQ</h3>
@@ -4555,11 +4555,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 21 ===
+=== 9b-Zeitung - 2026, KW 21 ===
 
 Inhalt:
 
-        Dies ist die 29. Ausgabe der 8b-Zeitung für KW 21 2026, von dem 18. bis zu dem 22. Mai 2026.
+        Dies ist die 29. Ausgabe der 9b-Zeitung für KW 21 2026, von dem 18. bis zu dem 22. Mai 2026.
         <h2>Normales</h2>
         <h3>Mathe KA</h3>
         Mittwochs war ne Mathe KA
@@ -4570,7 +4570,7 @@ Inhalt:
         In Technik sind wir jetzt mit einem Projekt welches so ein halbes Jahr dauerte fertig und das nächste Projekt ist praktisch identisch zu diesem
         <h3>n90 ist eine Oper</h3>
         Jemand hat auf eine Umfrage im Musikunterricht bei der Frage, was für Opern wir kennen, <a href="#" onclick="event.preventDefault(); navigateTo('n90')">n90</a> geantwortet, weswegen die Musiklehrerin die Umfrage aufgrund Genervtheit stoppte. Ich stimme eigentlich zu dass n90 eine Oper ist
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -4593,11 +4593,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 24 ===
+=== 9b-Zeitung - 2026, KW 24 ===
 
 Inhalt:
 
-        Dies ist die 30. Ausgabe der 8b-Zeitung für KW 24 2026, von dem 8. bis zu dem 12. Juni 2026.
+        Dies ist die 30. Ausgabe der 9b-Zeitung für KW 24 2026, von dem 8. bis zu dem 12. Juni 2026.
         <h2>Normales</h2>
         <h3>Ende der Pfingstferien</h3>
         Ende der Pfingstferien. Sofort Latein:(
@@ -4614,7 +4614,7 @@ Inhalt:
         EINE ENGLISCH LEKTÜRE WIRD AB DIENSTAG GELESEN AAAAA.
         <h3>Latein Vokabeltest :(</h3>
         hccdjhkcljkdklsaöjdkhkjl
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>Wirtschaft Werbung</h3>
         In Wirtschaft durften wir selbst eine Werbung für etwas erstellen.
         <h3>Deutsch ding</h3>
@@ -4635,11 +4635,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 25 ===
+=== 9b-Zeitung - 2026, KW 25 ===
 
 Inhalt:
 
-        Dies ist die 31. Ausgabe der 8b-Zeitung für KW 25 2026, von dem 15. bis zu dem 19. Juni 2026.
+        Dies ist die 31. Ausgabe der 9b-Zeitung für KW 25 2026, von dem 15. bis zu dem 19. Juni 2026.
         <h2>Normales</h2>
         <h3>Physik KA</h3>
         Die Physik KA war:
@@ -4656,7 +4656,7 @@ Inhalt:
         Die Chemie KA passierte.
         <h2>Panik</h2>
         Keine :D
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>"Kunst"</h3>
         In Kunst machen wir jetzt nix mehr.
         <h2>Anderes</h2>
@@ -4675,17 +4675,17 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 26 ===
+=== 9b-Zeitung - 2026, KW 26 ===
 
 Inhalt:
 
-        Dies ist die 32. Ausgabe der 8b-Zeitung für KW 26 2026, von dem 22. bis zu dem 26. Juni 2026.
+        Dies ist die 32. Ausgabe der 9b-Zeitung für KW 26 2026, von dem 22. bis zu dem 26. Juni 2026.
         <h2>Normales</h2>
         <h3>Physik KA</h3>
         Die Technik KA war (Titel irrelevant)
         <h2>Panik</h2>
         Keine :D
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>Technorama Besuch</h3>
         Am Dienstag war ein Technorama Besuch als Ausflug was sehr nice war.<br>
         Es war krass, sogar der Trockner war hype !<br>
@@ -4709,17 +4709,17 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 27 ===
+=== 9b-Zeitung - 2026, KW 27 ===
 
 Inhalt:
 
-        Dies ist die 33. Ausgabe der 8b-Zeitung für KW 27 2026, von dem 29. Juni bis zu dem 3. Juli 2026.
+        Dies ist die 33. Ausgabe der 9b-Zeitung für KW 27 2026, von dem 29. Juni bis zu dem 3. Juli 2026.
         <h2>Normales</h2>
         <h3>Europa Park Besuch</h3>
         Ja
         <h2>Panik</h2>
         Keine :D
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -4737,18 +4737,18 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 28 ===
+=== 9b-Zeitung - 2026, KW 28 ===
 
 Inhalt:
 
-        Dies ist die 34. Ausgabe der 8b-Zeitung für KW 28 2026, von dem 6. bis zu dem 10. Juli 2026.
+        Dies ist die 34. Ausgabe der 9b-Zeitung für KW 28 2026, von dem 6. bis zu dem 10. Juli 2026.
         <h2>Normales</h2>
         <h3>Moscheebesuch am Dienstag</h3>
         Es war statt Deutsch ein MOSchee besuch.
         <h2>Panik</h2>
         <h3>Abi Streich</h3>
         Donnerstag war der Abi Streich aber er war extrem nervig und langweilig und redundant und wir hatten danach nicht mal aus dies ist ein F Tier Tag
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -4768,18 +4768,18 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 29 ===
+=== 9b-Zeitung - 2026, KW 29 ===
 
 Inhalt:
 
-        Dies ist die 35. Ausgabe der 8b-Zeitung für KW 29 2026, von dem 13. bis zu dem 17. Juli 2026.
+        Dies ist die 35. Ausgabe der 9b-Zeitung für KW 29 2026, von dem 13. bis zu dem 17. Juli 2026.
         <h2>Normales</h2>
         Keine :/
         <h2>Panik</h2>
         <h3>Technik KA zurück</h3>
         Die Technik KA wurde zurückgegeben und wir haben herausgefunden dass wir nicht wirklich so schlecht in Technik sind sondern die Bewertung extrem problematisch war.<br>
         Es war wirklich kontrovers, 
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -4797,11 +4797,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 30 ===
+=== 9b-Zeitung - 2026, KW 30 ===
 
 Inhalt:
 
-        Dies ist die 36. Ausgabe der 8b-Zeitung für KW 30 2026, von dem 20. bis zu dem 24. Juli 2026.
+        Dies ist die 36. Ausgabe der 9b-Zeitung für KW 30 2026, von dem 20. bis zu dem 24. Juli 2026.
         <h2>Normales</h2>
         <h3>Englisch Film</h3>
         Montag haben wir in Englisch nen Film angefangen.
@@ -4815,7 +4815,7 @@ Inhalt:
         <h3>Technik KA zurück</h3>
         Die Technik KA wurde zurückgegeben und wir haben herausgefunden dass wir nicht wirklich so schlecht in Technik sind sondern die Bewertung extrem problematisch war.<br>
         Es war wirklich kontrovers, 
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>Keine HAs in Latein</h3>
         JAAAAAAAAA!!!! (wir waren ernsthaft schockiert)
         <h3>(zensiert)</h3>
@@ -4841,30 +4841,32 @@ Wichtig: Nein
 
 ------------------------------
 
-=== 8b-Zeitung - 2026, KW 31 ===
+=== 9b-Zeitung - 2026, KW 31 ===
 
 Inhalt:
 
-        Dies ist die 37. Ausgabe der 8b-Zeitung für KW 31 2026, von dem 27. bis zu dem 29. Juli 2026.
+        Dies ist die 37. Ausgabe der 9b-Zeitung für KW 31 2026, von dem 27. bis zu dem 29. Juli 2026.
         <h2>Normales</h2>
         <h3>Wandertag</h3>
         Dienstag war Wandertag. Er war ok
+        <h3>Letzter Tag</h3>
+        Mittwoch war der letzte Tag wo zuerst ein random Gottesdienst war dann Klassenlehrerstunde wo wir Zeugnisse bekommen haben und Jeopardy spielten und dann war schlechte Abschlusssache und dann sommerferien.
         <h2>Panik</h2>
         <h3>AMG Tag</h3>
         Der AMG Tag war am Montag aber er war langweilig.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
         <ul>
-          <li>Nein.</li>
+          <li>Ziemlich trivial eigentlich</li>
         </ul>
       
 
 Kategorien: zeitungen
 
-Erstellt: 28.07.2026
-Bearbeitet: 28.07.2026
+Erstellt: 01.08.2026
+Bearbeitet: 01.08.2026
 
 Wichtig: Nein
 
@@ -4880,11 +4882,11 @@ Wichtig: Nein
 
 ------------------------------
 
-=== Die 8b ===
+=== Die 9b ===
 
 Inhalt:
 
-        Wenn du wirklich nicht weißt was die 8b ist, wieso bist du auf dieser Website.
+        Wenn du wirklich nicht weißt was die 9b ist, wieso bist du auf dieser Website.
         <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
         Geh weg.
         <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -4892,7 +4894,7 @@ Inhalt:
         <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
         <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
         <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-        <small>(Die 8b ist eine Schulklasse der Schule AMG. Sie hat unzählbar viele Insider-Memes und auch restliches, deshalb ist diese Website benötigt. Bitte sag niemandem dass ich hilfreich war.)
+        <small>(Die 9b ist eine Schulklasse der Schule AMG. Sie hat unzählbar viele Insider-Memes und auch restliches, deshalb ist diese Website benötigt. Bitte sag niemandem dass ich hilfreich war.)
       
 
 Erstellt: 21.07.1139

@@ -1,11 +1,11 @@
 const pagesNews = {
     'zeitung': {
-      title: '8b-Zeitung',
+      title: '9b-Zeitung',
       content: `
-        Die 8b-Zeitung ist <strong>eine Zeitung</strong> auf dieser Website.
+        Die 9b-Zeitung ist <strong>eine Zeitung</strong> auf dieser Website.
         <br>Sie hat wöchentlich eine neue Ausgabe und sie existiert.
         <br>Sie ist zusätzlich auch eine der Zeitungen Deutschlands. Tatsächlich eine überdurchschnittlich ehrliche.
-        <br>Die Rubriken sind Normales, Panik und 8b-Sachen.
+        <br>Die Rubriken sind Normales, Panik und 9b-Sachen.
         <br><b>Links</b>, nicht zu verwechseln mit Rechts:
         <ul>
           <li><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 31')">Neueste Ausgabe</a></li>
@@ -210,7 +210,7 @@ const pagesNews = {
             </tbody>
           </table>
         </div>
-        <blockquote>Ich freu mich auf die neue Ausgabe der 8b-Zeitung, aber ich</blockquote>
+        <blockquote>Ich freu mich auf die neue Ausgabe der 9b-Zeitung, aber ich</blockquote>
       `,
       categories: ['zeitungen', 'antimaterie'],
       created: '2026-02-28',
@@ -219,9 +219,9 @@ const pagesNews = {
       weight: 0
     },
     '2025 kw 38': {
-      title: '8b-Zeitung - 2025, KW 38',
+      title: '9b-Zeitung - 2025, KW 38',
       content: `
-        Dies ist die 1. Ausgabe der 8b-Zeitung für KW 38 2025, von dem 15. bis zu dem 19. September 2025.
+        Dies ist die 1. Ausgabe der 9b-Zeitung für KW 38 2025, von dem 15. bis zu dem 19. September 2025.
         <h2>Normales</h2>
         <h3>Ende der Sommerferien</h3>
         Die Sommerferien endeten. Dies markiert den Start der 8b-Epoche.
@@ -245,9 +245,9 @@ const pagesNews = {
         Freitags lernten wir in Mathe wie man die Fobizz KI benutzt, in Chemie wieso man sie nicht benutzen sollte.
         <h3>Komische Kunstphilosophie</h3>
         Kunst ist ausgefallen, aber es war undeutlich, ob Kunst ausgefallen ist oder nicht.<br>Zwei Drittel der Schüler sind gekommen. Der Kunstlehrer hat trotzdem Kunstunterricht gemacht und die Schüler nicht erlaubt, zu gehen, obwohl es eigentlich ausgefallen ist.
-        <h2>8b-Sachen</h2>
-        <h3>8b-Spiele auf iPads spielbar</h3>
-        8b-Spiele, wie z.B. Vermeidungssimulator, sind auf den Schul-iPads spielbar.
+        <h2>9b-Sachen</h2>
+        <h3>9b-Spiele auf iPads spielbar</h3>
+        9b-Spiele, wie z.B. Vermeidungssimulator, sind auf den Schul-iPads spielbar.
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
         <ul>
@@ -265,9 +265,9 @@ const pagesNews = {
       weight: 1
     },
     '2025 kw 39': {
-      title: '8b-Zeitung - 2025, KW 39',
+      title: '9b-Zeitung - 2025, KW 39',
       content: `
-        Dies ist die 2. Ausgabe der 8b-Zeitung für KW 39 2025, von dem 22. bis zu dem 26. September 2025.
+        Dies ist die 2. Ausgabe der 9b-Zeitung für KW 39 2025, von dem 22. bis zu dem 26. September 2025.
         <h2>Normales</h2>
         <h3>Weirde Deutschaufgabe</h3>
         Wir mussten einen Raum zeichnen der in einem Buch wörtlich beschrieben wurde. Manche gezeichneten Räume waren gut, manche nicht.
@@ -288,7 +288,7 @@ const pagesNews = {
         Es war sehr unklar ob donnerstags ein Vokabeltest geschrieben wird oder nicht.
         <h3>Was ist das denn</h3>
         Freitags wurde in Englisch das Gerundium beigebracht.<br>Das Wort Gerundium klingt scheiße.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>Lidl Werbung Time</h3>
         In Geschichte wurde eine Doku angeguckt. Es kam eine unvorstellbare Anzahl an <a href="#" onclick="event.preventDefault(); navigateTo('lidl')">Lidl</a> Werbungen.
         <h3>Kunstlehrer gut</h3>
@@ -307,9 +307,9 @@ const pagesNews = {
       weight: 1
     },
     '2025 kw 40': {
-      title: '8b-Zeitung - 2025, KW 40',
+      title: '9b-Zeitung - 2025, KW 40',
       content: `
-        Dies ist die 3. Ausgabe der 8b-Zeitung für KW 40 2025, von dem 29. September bis zu dem 2. Oktober 2025.
+        Dies ist die 3. Ausgabe der 9b-Zeitung für KW 40 2025, von dem 29. September bis zu dem 2. Oktober 2025.
         <h2>Normales</h2>
         <h3>Englisch Vokabeltest</h3>
         Ein Englisch-Vokabeltest wurde dienstaggeschrieben. Es gab verschiedene Noten:
@@ -332,7 +332,7 @@ const pagesNews = {
         In Geschichte wurde eine Hausaufgabe gegeben die einfach fundamental keinen Sinn ergibt.
         <h3>Latein Vokabeltest</h3>
         u.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>Deutschsache passiert</h3>
         In Deutsch lesen wir eine Lektüre. Die Lektüre wurde halb-informell geschrieben (im Gegensatz zu Deutsch normalerweise, was immer komplett formell ist), was ziemlich nice ist.
         <h2>Anderes</h2>
@@ -349,9 +349,9 @@ const pagesNews = {
       weight: 1
     },
     '2025 kw 42': {
-      title: '8b-Zeitung - 2025, KW 42',
+      title: '9b-Zeitung - 2025, KW 42',
       content: `
-        Dies ist die 4. Ausgabe der 8b-Zeitung für KW 42 2025, von dem 13. bis zu dem 17. Oktober 2025.
+        Dies ist die 4. Ausgabe der 9b-Zeitung für KW 42 2025, von dem 13. bis zu dem 17. Oktober 2025.
         <h2>Normales</h2>
         <h3>Deutsch war Lesezeit</h3>
         In Deutsch wurde am Dienstag die Lektüre weitergelesen, und am Donnerstag redeten wir über sie.
@@ -369,7 +369,7 @@ const pagesNews = {
         In Latein war eine nervige Klassenarbeit.
         <h3>Was passiert hier</h3>
         In Geschichte haben wir einen Film angeschaut der sogar für einen Fantasiefilm viel zu unrealistisch ist.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>n98 geht es wieder gut</h3>
         Endlich! Seit Montag geht es <a href="#" onclick="event.preventDefault(); navigateTo('n98')">n98</a> wieder gut.
         <h3>Das klingt ungesund</h3>
@@ -389,9 +389,9 @@ const pagesNews = {
       weight: 1
     },
     '2025 kw 43': {
-      title: '8b-Zeitung - 2025, KW 43',
+      title: '9b-Zeitung - 2025, KW 43',
       content: `
-        Dies ist die 5. Ausgabe der 8b-Zeitung für KW 43 2025, von dem 20. bis zu dem 24. Oktober 2025.
+        Dies ist die 5. Ausgabe der 9b-Zeitung für KW 43 2025, von dem 20. bis zu dem 24. Oktober 2025.
         <h2>Normales</h2>
         <h3>Lektüre v2</h3>
         Dienstags schauten wir uns in Deutsch den Film zur Lektüre an.
@@ -408,7 +408,7 @@ const pagesNews = {
         In Chemie gab es ein Arbeitsblatt.
         <h3>Stuhl-Downgrade</h3>
         Die Stühle in Technik sind scheiße.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -424,9 +424,9 @@ const pagesNews = {
       weight: 1
     },
     '2025 kw 45': {
-      title: '8b-Zeitung - 2025, KW 45',
+      title: '9b-Zeitung - 2025, KW 45',
       content: `
-        Dies ist die 6. Ausgabe der 8b-Zeitung für KW 45 2025, von dem 3. bis zu dem 7. November 2025.
+        Dies ist die 6. Ausgabe der 9b-Zeitung für KW 45 2025, von dem 3. bis zu dem 7. November 2025.
         <h2>Normales</h2>
         <h3>Herbstferien zu Ende</h3>
         Die Herbstferien endeten.
@@ -452,7 +452,7 @@ const pagesNews = {
         <h2>Panik</h2>
         <h3>Wieso so viele HAs</h3>
         Wer erwartet hat, dass die Lateinlehrerin aufgrund wortwörtlich<br>dem ersten Tag nach Ferien keine/wenig HAs geben würde, lag falsch.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -468,9 +468,9 @@ const pagesNews = {
       weight: 1
     },
     '2025 kw 46': {
-      title: '8b-Zeitung - 2025, KW 46',
+      title: '9b-Zeitung - 2025, KW 46',
       content: `
-        Dies ist die 7. Ausgabe der 8b-Zeitung für KW 46 2025, von dem 10. bis zu dem 14. November 2025.
+        Dies ist die 7. Ausgabe der 9b-Zeitung für KW 46 2025, von dem 10. bis zu dem 14. November 2025.
         <h2>Normales</h2>
         <h3>Englischlehrer oder so</h3>
         Der Englischlehrer hat dienstags innerhalb einem Unterricht so 150 Relativsätze benutzt.
@@ -479,7 +479,7 @@ const pagesNews = {
         <h2>Panik</h2>
         <h3>Ziemlich bedrohlich</h3>
         Eine Klassenarbeit ist passiert.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>Latein-Kabarett</h3>
         Das Latein-Kabarett passierte, es war irgendwie gut.
         <h2>Anderes</h2>
@@ -496,9 +496,9 @@ const pagesNews = {
       weight: 1
     },
     '2025 kw 47': {
-      title: '8b-Zeitung - 2025, KW 47',
+      title: '9b-Zeitung - 2025, KW 47',
       content: `
-        Dies ist die 8. Ausgabe der 8b-Zeitung für KW 47 2025, von dem 17. bis zu dem 21. November 2025.
+        Dies ist die 8. Ausgabe der 9b-Zeitung für KW 47 2025, von dem 17. bis zu dem 21. November 2025.
         <h2>Normales</h2>
         <h3>PEt ding</h3>
         In Technik werden jetzt PET-Renner gebaut.
@@ -517,7 +517,7 @@ const pagesNews = {
         Die Deutsch KA war am Donnerstag.
         <h3>Gk KA zurückgegeben</h3>
         Die Gk KA wurde zurückgegeben. n08 hat <a href="#" onclick="event.preventDefault(); navigateTo('n42')">n42</a> beleidigt weil n42 eine 3 hatte. n08 hatte auch eine 3.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -532,9 +532,9 @@ const pagesNews = {
       weight: 1
     },
     '2025 kw 48': {
-      title: '8b-Zeitung - 2025, KW 48',
+      title: '9b-Zeitung - 2025, KW 48',
       content: `
-        Dies ist die 9. Ausgabe der 8b-Zeitung für KW 48 2025, von dem 24. bis zu dem 28. November 2025.
+        Dies ist die 9. Ausgabe der 9b-Zeitung für KW 48 2025, von dem 24. bis zu dem 28. November 2025.
         <h2>Normales</h2>
         <h3>Geschichte SoL</h3>
         In Geschichte war ein SoL, diesmal nicht bedrohlich.
@@ -549,7 +549,7 @@ const pagesNews = {
         In Latein war ein bedrohlicher Text.
         <h3>Ich fühle mich bedroht</h3>
         Latein war weird. Ich fühle mich bedroht.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -564,9 +564,9 @@ const pagesNews = {
       weight: 1
     },
     '2025 kw 49': {
-      title: '8b-Zeitung - 2025, KW 49',
+      title: '9b-Zeitung - 2025, KW 49',
       content: `
-        Dies ist die 10. Ausgabe der 8b-Zeitung für KW 49 2025, von dem 1. bis zu dem 5. Dezember 2025.
+        Dies ist die 10. Ausgabe der 9b-Zeitung für KW 49 2025, von dem 1. bis zu dem 5. Dezember 2025.
         <h2>Normales</h2>
         <h3>Physik KA</h3>
         Die Physik KA passierte.
@@ -581,7 +581,7 @@ const pagesNews = {
         Geschichte sehr geschichtlich. Panik startete.
         <h3>Oh nein</h3>
         Latein Vokabeltest mal wieder rigged.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -596,9 +596,9 @@ const pagesNews = {
       weight: 1
     },
     '2025 kw 50': {
-      title: '8b-Zeitung - 2025, KW 50',
+      title: '9b-Zeitung - 2025, KW 50',
       content: `
-        Dies ist die 11. Ausgabe der 8b-Zeitung für KW 50 2025, von dem 8. bis zu dem 12. Dezember 2025.
+        Dies ist die 11. Ausgabe der 9b-Zeitung für KW 50 2025, von dem 8. bis zu dem 12. Dezember 2025.
         <h2>Normales</h2>
         <h3>Deutsch KA ausgegeben</h3>
         Die Deutsch KA wurde dienstags ausgegeben. Der Durchschnitt war gut.
@@ -607,14 +607,14 @@ const pagesNews = {
         <h3>Pyhsik KA ausgegeben</h3>
         ...
         <h3>KONVERSATION</h3>
-        Eine Konversation wird zwischen der 8b und der Lateinlehrerin gehalten.
+        Eine Konversation wird zwischen der 9b und der Lateinlehrerin gehalten.
         <h3>A</h3>
         Eine weitere Ka, die Religion/Ethik KA, wurde geschrieben.
         <h3>NOCH EINE KA</h3>
         Die Geschichte KA wurde geschrieben.
         <h2>Panik</h2>
         Keine :D
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>Canva Dings</h3>
         In Physik lernten wir, wie man Canva benutzt.
         <h3>Deutsch war nice</h3>
@@ -632,9 +632,9 @@ const pagesNews = {
       weight: 1
     },
     '2025 kw 51': {
-      title: '8b-Zeitung - 2025, KW 51',
+      title: '9b-Zeitung - 2025, KW 51',
       content: `
-        Dies ist die 12. Ausgabe der 8b-Zeitung für KW 51 2025, von dem 15. bis zu dem 19. Dezember 2025.
+        Dies ist die 12. Ausgabe der 9b-Zeitung für KW 51 2025, von dem 15. bis zu dem 19. Dezember 2025.
         <h2>Normales</h2>
         <h3>Englisch Film</h3>
         In Englisch wurde die bisher schwierigste je passierte Englisch-KA ausgegeben. (Sie war trotzdem relativ einfach) Dafür wurde ein schlechter Film geschaut.
@@ -654,7 +654,7 @@ const pagesNews = {
         <h2>Panik</h2>
         <h3>Latein KA</h3>
         Die Latein KA, die letzte KA 2025, passierte.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -669,9 +669,9 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 2': {
-      title: '8b-Zeitung - 2026, KW 2',
+      title: '9b-Zeitung - 2026, KW 2',
       content: `
-        Dies ist die 13. Ausgabe der 8b-Zeitung für KW 2 2026, von dem 7. bis zu dem 9. Januar 2026.
+        Dies ist die 13. Ausgabe der 9b-Zeitung für KW 2 2026, von dem 7. bis zu dem 9. Januar 2026.
         <h2>Normales</h2>
         <h3>Ende der Ferien</h3>
         Die Weihnachtsferien endeten mittwochs. Außerdem ist 2025 kollabiert und ein neues Jahr musste gestartet werden.<br>Dieses neue Jahr hat jedoch einen Bug, wo n83 manchmal spawnt.
@@ -686,7 +686,7 @@ const pagesNews = {
         Die Latein KA wurde am Mittwoch ausgegeben. Dies wurde als offizielle Tragödie bezeichnet.
         <h3>Latein dumm</h3>
         Latein dumm. Neuer Grund 'Oktavheft' freigeschaltet.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
         <ul>
@@ -700,9 +700,9 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 3': {
-      title: '8b-Zeitung - 2026, KW 3',
+      title: '9b-Zeitung - 2026, KW 3',
       content: `
-        Dies ist die 14. Ausgabe der 8b-Zeitung für KW 3 2026, von dem 12. bis zu dem 16. Januar 2026.
+        Dies ist die 14. Ausgabe der 9b-Zeitung für KW 3 2026, von dem 12. bis zu dem 16. Januar 2026.
         <h2>Normales</h2>
         <h3>Problematisches Zeichnen</h3>
         In Technik wurde das technische Zeichnen beigebracht.
@@ -719,7 +719,7 @@ const pagesNews = {
         In Physik lernen wir über Impuls mit dem Formelzeichen P. Wieso P???
         <h3>Donnerstag: Schlechtester Tag der Geschichte des Universums</h3>
         In Geschichte: Nur langweilige Aufgaben und ein langweiliger Film. In Deutsch: Eine INHALTSANGABE! In Latein: Latein. In Englisch: NOCH MAL GESCHICHTE.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -734,9 +734,9 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 4': {
-      title: '8b-Zeitung - 2026, KW 4',
+      title: '9b-Zeitung - 2026, KW 4',
       content: `
-        Dies ist die 15. Ausgabe der 8b-Zeitung für KW 4 2026, von dem 19. bis zu dem 23. Januar 2026.
+        Dies ist die 15. Ausgabe der 9b-Zeitung für KW 4 2026, von dem 19. bis zu dem 23. Januar 2026.
         <h2>Normales</h2>
         <h3>Was ist los</h3>
         Was ist los der ganze Donnerstag war kein Unterricht außer in English
@@ -751,7 +751,7 @@ const pagesNews = {
         <h2>Panik</h2>
         <h3>Scheiß German</h3>
         I hate the German language.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -766,9 +766,9 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 5': {
-      title: '8b-Zeitung - 2026, KW 5',
+      title: '9b-Zeitung - 2026, KW 5',
       content: `
-        Dies ist die 16. Ausgabe der 8b-Zeitung für KW 5 2026, von dem 26. bis zu dem 28. Januar 2026.
+        Dies ist die 16. Ausgabe der 9b-Zeitung für KW 5 2026, von dem 26. bis zu dem 28. Januar 2026.
         <h2>Normales</h2>
         Keine :|
         <h2>Panik</h2>
@@ -776,7 +776,7 @@ const pagesNews = {
         Latein: Vokabelübung - Formenbildungsübung - Hausaufgabenkontrolle - Neue Hausaufgaben
         <h3>ABSOLUTE AAAAAA</h3>
         Die Beschreibung des Dienstages. (Er war langweilig.)
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -791,9 +791,9 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 6': {
-      title: '8b-Zeitung - 2026, KW 6',
+      title: '9b-Zeitung - 2026, KW 6',
       content: `
-        Dies ist die 17. Ausgabe der 8b-Zeitung für KW 6 2026, von dem 2. bis zu dem 6. Februar 2026.
+        Dies ist die 17. Ausgabe der 9b-Zeitung für KW 6 2026, von dem 2. bis zu dem 6. Februar 2026.
         <h2>Normales</h2>
         <h3>Notenkonferenz</h3>
         Noten werden konferenzt.
@@ -806,7 +806,7 @@ const pagesNews = {
         Dies ist ein schlechter Tag.
         <h3>Musik KA zurück</h3>
         Die Musik KA wurde zurückgegeben. <a href="#" onclick="event.preventDefault(); navigateTo('n08')">n08</a> wollte mit einer 4 flexen.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
         <ul>
@@ -820,9 +820,9 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 7': {
-      title: '8b-Zeitung - 2026, KW 7',
+      title: '9b-Zeitung - 2026, KW 7',
       content: `
-        Dies ist die 18. Ausgabe der 8b-Zeitung für KW 7 2026, von dem 9. bis zu dem 12. Februar 2026.
+        Dies ist die 18. Ausgabe der 9b-Zeitung für KW 7 2026, von dem 9. bis zu dem 12. Februar 2026.
         <h2>Normales</h2>
         <h3>Englisch Vokabeltest</h3>
         Es gab in Englisch am Montag einen Vokabeltest und danach langweilige USA Sachen.
@@ -841,7 +841,7 @@ const pagesNews = {
         Muss man mehr sagen?
         <h3>Filme in Englisch</h3>
         Es wurden dienstags Filme in Englisch angeschaut. Die eine Gruppe hat einen guten Film angeschaut, ohne Aufgaben währenddessen. Die andere hatte einen absolut schlechten Film, viermal hintereinander, mit Aufgaben.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>Videospiele in Technik</h3>
         Ja.
         <h2>Anderes</h2>
@@ -857,9 +857,9 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 9': {
-      title: '8b-Zeitung - 2026, KW 9',
+      title: '9b-Zeitung - 2026, KW 9',
       content: `
-        Dies ist die 19. Ausgabe der 8b-Zeitung für KW 9 2026, von dem 23. bis zu dem 27. Februar 2026.
+        Dies ist die 19. Ausgabe der 9b-Zeitung für KW 9 2026, von dem 23. bis zu dem 27. Februar 2026.
         <h2>Normales</h2>
         <h3>Wow</h3>
         In Gk + Wt zum ersten Mal Wt.
@@ -872,7 +872,7 @@ const pagesNews = {
         <h2>Panik</h2>
         <h3>ugh</h3>
         Die Ferien endeten und es gab SOFORT Latein und nervige Lateinsachen.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -891,9 +891,9 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 10': {
-      title: '8b-Zeitung - 2026, KW 10',
+      title: '9b-Zeitung - 2026, KW 10',
       content: `
-        Dies ist die 20. Ausgabe der 8b-Zeitung für KW 10 2026, von dem 2. bis zu dem 6. März 2026.
+        Dies ist die 20. Ausgabe der 9b-Zeitung für KW 10 2026, von dem 2. bis zu dem 6. März 2026.
         <h2>Normales</h2>
         <h3>Kahoot</h3>
         Montags gab es ein Kahoot zum Abschluss des Themas Technisches Zeichnen in Technik.
@@ -909,8 +909,8 @@ const pagesNews = {
         <h3>Die Geschichte</h3>
         Dienstags mussten wir in Deutsch eine Geschichte lesen, jedoch wurde durch eine temporale Anomalie 8:45 und 9:05 gleichgesetzt.
         <h3>Die andere Geschichte</h3>
-        Dienstags mussten wir in Englisch eine Geschichte lesen, tatsächlich eine über den Oregon Trail (oh nein, die 8b hasst den Oregon Trail)
-        <h2>8b-Sachen</h2>
+        Dienstags mussten wir in Englisch eine Geschichte lesen, tatsächlich eine über den Oregon Trail (oh nein, die 9b hasst den Oregon Trail)
+        <h2>9b-Sachen</h2>
         <h3>A?</h3>
         Dienstags hat jeder seine Englisch-HA vergessen, was logisch war da sie praktisch "Zeitreise in Vergangenheit tun" war.
         <h3>Normal.</h3>
@@ -928,9 +928,9 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 11': {
-      title: '8b-Zeitung - 2026, KW 11',
+      title: '9b-Zeitung - 2026, KW 11',
       content: `
-        Dies ist die 21. Ausgabe der 8b-Zeitung für KW 11 2026, von dem 9. bis zu dem 13. März 2026.
+        Dies ist die 21. Ausgabe der 9b-Zeitung für KW 11 2026, von dem 9. bis zu dem 13. März 2026.
         <h2>Normales</h2>
         <h3>Ökosystem</h3>
         Technik ist jetzt über Ökosysteme.
@@ -954,7 +954,7 @@ const pagesNews = {
         Der Punkt, wo der einzige Teil des Unterrichtes "Neue HAs" ist, nähert sich.
         <h3>Latein Vokabeltest</h3>
         Es gibt wieder donnerstags ein Latein-Vokabeltest.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -972,9 +972,9 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 12': {
-      title: '8b-Zeitung - 2026, KW 12',
+      title: '9b-Zeitung - 2026, KW 12',
       content: `
-        Dies ist die 22. Ausgabe der 8b-Zeitung für KW 12 2026, von dem 16. bis zu dem 20. März 2026.
+        Dies ist die 22. Ausgabe der 9b-Zeitung für KW 12 2026, von dem 16. bis zu dem 20. März 2026.
         <h2>Normales</h2>
         <h3>Englisch Vera</h3>
         Dienstags fand die Englisch Vera statt. Jeder realisierte: Echte Englischsprecher sprechen so unverständlich und schnell dass sie praktisch nicht Englisch sprechen.
@@ -985,7 +985,7 @@ const pagesNews = {
         Es fand eine Tragödie statt.
         <h3>Deutsch Klassenarbeit</h3>
         Es fand eine weitere Tragödie statt, diesmal in Interpretationsform. (Donnerstags)
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -1000,9 +1000,9 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 13': {
-      title: '8b-Zeitung - 2026, KW 13',
+      title: '9b-Zeitung - 2026, KW 13',
       content: `
-        Dies ist die 23. Ausgabe der 8b-Zeitung für KW 13 2026, von dem 23. bis zu dem 24. März 2026.
+        Dies ist die 23. Ausgabe der 9b-Zeitung für KW 13 2026, von dem 23. bis zu dem 24. März 2026.
         <h2>Normales</h2>
         <h3>Englisch Film</h3>
         Am Dienstag haben wir in Englisch einen Film auf Englisch angeschaut.
@@ -1015,7 +1015,7 @@ const pagesNews = {
         Latein ist montags ausgefallen, aber die Lateinlehrerin gab trotzdem Aufgaben und sogar HAs.
         <h3>Deutsch Rechtschreibübung</h3>
         Dienstags mussten wir in Deutsch ein massives Arbeitsblatt über Großschreibung machen.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>Englisch antimateriell</h3>
         Englisch war montags sehr A&A (absurd & antimateriell). Zitate:
         <ul>
@@ -1036,9 +1036,9 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 16': {
-      title: '8b-Zeitung - 2026, KW 16',
+      title: '9b-Zeitung - 2026, KW 16',
       content: `
-        Dies ist die 24. Ausgabe der 8b-Zeitung für KW 16 2026, von dem 13. bis zu dem 17. April 2026.
+        Dies ist die 24. Ausgabe der 9b-Zeitung für KW 16 2026, von dem 13. bis zu dem 17. April 2026.
         <h2>Normales</h2>
         <h3>Ferienende</h3>
         Die Osterferien endeten.
@@ -1057,7 +1057,7 @@ const pagesNews = {
         Die AG ist absolut dumm, weil wir Tische und Stühle und so über 3 Stockwerke transportieren mussten, und dies alleine, wir haben jetzt mehrfache Demenz.
         <h3>TS3</h3>
         TS3.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>Kunst ist gut?</h3>
         Es gab mal wieder sehr viel Antimaterie in Kunst.
         <h2>Anderes</h2>
@@ -1076,9 +1076,9 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 17': {
-      title: '8b-Zeitung - 2026, KW 17',
+      title: '9b-Zeitung - 2026, KW 17',
       content: `
-        Dies ist die 25. Ausgabe der 8b-Zeitung für KW 17 2026, von dem 20. bis zu dem 24. April 2026.
+        Dies ist die 25. Ausgabe der 9b-Zeitung für KW 17 2026, von dem 20. bis zu dem 24. April 2026.
         <h2>Normales</h2>
         <h3>Englisch KA Zeug Reveal</h3>
         Details für die kommenden Aufgaben auf der Englisch KA wurden am Montag revealed.
@@ -1101,7 +1101,7 @@ const pagesNews = {
         Latein Vokabeltest, ich hasse Latein
         <h3>Latein</h3>
         Latein
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -1116,9 +1116,9 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 18': {
-      title: '8b-Zeitung - 2026, KW 18',
+      title: '9b-Zeitung - 2026, KW 18',
       content: `
-        Dies ist die 26. Ausgabe der 8b-Zeitung für KW 18 2026, von dem 27. bis zu dem 27. April 2026.
+        Dies ist die 26. Ausgabe der 9b-Zeitung für KW 18 2026, von dem 27. bis zu dem 27. April 2026.
         <h2>Normales</h2>
         Keine :|
         <h2>Panik</h2>
@@ -1126,7 +1126,7 @@ const pagesNews = {
         Ja. (ich implodiere gleich)
         <h3>NwT Demenz</h3>
         NwT gibt auch Demenz, wie die AG am <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 16')">16.4.</a>
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -1141,9 +1141,9 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 19': {
-      title: '8b-Zeitung - 2026, KW 19',
+      title: '9b-Zeitung - 2026, KW 19',
       content: `
-        Dies ist die 27. Ausgabe der 8b-Zeitung für KW 19 2026, von dem 4. bis zu dem 8. Mai 2026.
+        Dies ist die 27. Ausgabe der 9b-Zeitung für KW 19 2026, von dem 4. bis zu dem 8. Mai 2026.
         <h2>Normales</h2>
         <h3>Ok.</h3>
         <a href="#" onclick="event.preventDefault(); navigateTo('n79')">n79</a> sagte in Latein am Montag Oah 15.
@@ -1162,7 +1162,7 @@ const pagesNews = {
         In Geschichte schauten wir einen schlechten Film.
         <h3>AG Ausfall</h3>
         Die AG ist entfallen aber dies wurde niemandem gesagt
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -1181,15 +1181,15 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 20': {
-      title: '8b-Zeitung - 2026, KW 20',
+      title: '9b-Zeitung - 2026, KW 20',
       content: `
-        Dies ist die 28. Ausgabe der 8b-Zeitung für KW 20 2026, von dem 11. bis zu dem 15. Mai 2026.
+        Dies ist die 28. Ausgabe der 9b-Zeitung für KW 20 2026, von dem 11. bis zu dem 15. Mai 2026.
         <h2>Normales</h2>
         Keine :|
         <h2>Panik</h2>
         <h3>Latein KA</h3>
         hdehufhuieokdojkfionuzviwqvftzuwdoiuf
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>aaa</h3>
         <a href="#" onclick="event.preventDefault(); navigateTo('n29')">n29</a> hat ein nobelpreiswürdiges Gedicht geschrieben.
         <h3>Google KI hat IQ</h3>
@@ -1210,9 +1210,9 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 21': {
-      title: '8b-Zeitung - 2026, KW 21',
+      title: '9b-Zeitung - 2026, KW 21',
       content: `
-        Dies ist die 29. Ausgabe der 8b-Zeitung für KW 21 2026, von dem 18. bis zu dem 22. Mai 2026.
+        Dies ist die 29. Ausgabe der 9b-Zeitung für KW 21 2026, von dem 18. bis zu dem 22. Mai 2026.
         <h2>Normales</h2>
         <h3>Mathe KA</h3>
         Mittwochs war ne Mathe KA
@@ -1223,7 +1223,7 @@ const pagesNews = {
         In Technik sind wir jetzt mit einem Projekt welches so ein halbes Jahr dauerte fertig und das nächste Projekt ist praktisch identisch zu diesem
         <h3>n90 ist eine Oper</h3>
         Jemand hat auf eine Umfrage im Musikunterricht bei der Frage, was für Opern wir kennen, <a href="#" onclick="event.preventDefault(); navigateTo('n90')">n90</a> geantwortet, weswegen die Musiklehrerin die Umfrage aufgrund Genervtheit stoppte. Ich stimme eigentlich zu dass n90 eine Oper ist
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -1243,9 +1243,9 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 24': {
-      title: '8b-Zeitung - 2026, KW 24',
+      title: '9b-Zeitung - 2026, KW 24',
       content: `
-        Dies ist die 30. Ausgabe der 8b-Zeitung für KW 24 2026, von dem 8. bis zu dem 12. Juni 2026.
+        Dies ist die 30. Ausgabe der 9b-Zeitung für KW 24 2026, von dem 8. bis zu dem 12. Juni 2026.
         <h2>Normales</h2>
         <h3>Ende der Pfingstferien</h3>
         Ende der Pfingstferien. Sofort Latein:(
@@ -1262,7 +1262,7 @@ const pagesNews = {
         EINE ENGLISCH LEKTÜRE WIRD AB DIENSTAG GELESEN AAAAA.
         <h3>Latein Vokabeltest :(</h3>
         hccdjhkcljkdklsaöjdkhkjl
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>Wirtschaft Werbung</h3>
         In Wirtschaft durften wir selbst eine Werbung für etwas erstellen.
         <h3>Deutsch ding</h3>
@@ -1280,9 +1280,9 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 25': {
-      title: '8b-Zeitung - 2026, KW 25',
+      title: '9b-Zeitung - 2026, KW 25',
       content: `
-        Dies ist die 31. Ausgabe der 8b-Zeitung für KW 25 2026, von dem 15. bis zu dem 19. Juni 2026.
+        Dies ist die 31. Ausgabe der 9b-Zeitung für KW 25 2026, von dem 15. bis zu dem 19. Juni 2026.
         <h2>Normales</h2>
         <h3>Physik KA</h3>
         Die Physik KA war:
@@ -1299,7 +1299,7 @@ const pagesNews = {
         Die Chemie KA passierte.
         <h2>Panik</h2>
         Keine :D
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>"Kunst"</h3>
         In Kunst machen wir jetzt nix mehr.
         <h2>Anderes</h2>
@@ -1315,15 +1315,15 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 26': {
-      title: '8b-Zeitung - 2026, KW 26',
+      title: '9b-Zeitung - 2026, KW 26',
       content: `
-        Dies ist die 32. Ausgabe der 8b-Zeitung für KW 26 2026, von dem 22. bis zu dem 26. Juni 2026.
+        Dies ist die 32. Ausgabe der 9b-Zeitung für KW 26 2026, von dem 22. bis zu dem 26. Juni 2026.
         <h2>Normales</h2>
         <h3>Physik KA</h3>
         Die Technik KA war (Titel irrelevant)
         <h2>Panik</h2>
         Keine :D
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>Technorama Besuch</h3>
         Am Dienstag war ein Technorama Besuch als Ausflug was sehr nice war.<br>
         Es war krass, sogar der Trockner war hype !<br>
@@ -1344,15 +1344,15 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 27': {
-      title: '8b-Zeitung - 2026, KW 27',
+      title: '9b-Zeitung - 2026, KW 27',
       content: `
-        Dies ist die 33. Ausgabe der 8b-Zeitung für KW 27 2026, von dem 29. Juni bis zu dem 3. Juli 2026.
+        Dies ist die 33. Ausgabe der 9b-Zeitung für KW 27 2026, von dem 29. Juni bis zu dem 3. Juli 2026.
         <h2>Normales</h2>
         <h3>Europa Park Besuch</h3>
         Ja
         <h2>Panik</h2>
         Keine :D
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -1367,16 +1367,16 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 28': {
-      title: '8b-Zeitung - 2026, KW 28',
+      title: '9b-Zeitung - 2026, KW 28',
       content: `
-        Dies ist die 34. Ausgabe der 8b-Zeitung für KW 28 2026, von dem 6. bis zu dem 10. Juli 2026.
+        Dies ist die 34. Ausgabe der 9b-Zeitung für KW 28 2026, von dem 6. bis zu dem 10. Juli 2026.
         <h2>Normales</h2>
         <h3>Moscheebesuch am Dienstag</h3>
         Es war statt Deutsch ein MOSchee besuch.
         <h2>Panik</h2>
         <h3>Abi Streich</h3>
         Donnerstag war der Abi Streich aber er war extrem nervig und langweilig und redundant und wir hatten danach nicht mal aus dies ist ein F Tier Tag
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -1393,16 +1393,16 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 29': {
-      title: '8b-Zeitung - 2026, KW 29',
+      title: '9b-Zeitung - 2026, KW 29',
       content: `
-        Dies ist die 35. Ausgabe der 8b-Zeitung für KW 29 2026, von dem 13. bis zu dem 17. Juli 2026.
+        Dies ist die 35. Ausgabe der 9b-Zeitung für KW 29 2026, von dem 13. bis zu dem 17. Juli 2026.
         <h2>Normales</h2>
         Keine :/
         <h2>Panik</h2>
         <h3>Technik KA zurück</h3>
         Die Technik KA wurde zurückgegeben und wir haben herausgefunden dass wir nicht wirklich so schlecht in Technik sind sondern die Bewertung extrem problematisch war.<br>
         Es war wirklich kontrovers, 
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
@@ -1417,9 +1417,9 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 30': {
-      title: '8b-Zeitung - 2026, KW 30',
+      title: '9b-Zeitung - 2026, KW 30',
       content: `
-        Dies ist die 36. Ausgabe der 8b-Zeitung für KW 30 2026, von dem 20. bis zu dem 24. Juli 2026.
+        Dies ist die 36. Ausgabe der 9b-Zeitung für KW 30 2026, von dem 20. bis zu dem 24. Juli 2026.
         <h2>Normales</h2>
         <h3>Englisch Film</h3>
         Montag haben wir in Englisch nen Film angefangen.
@@ -1433,7 +1433,7 @@ const pagesNews = {
         <h3>Technik KA zurück</h3>
         Die Technik KA wurde zurückgegeben und wir haben herausgefunden dass wir nicht wirklich so schlecht in Technik sind sondern die Bewertung extrem problematisch war.<br>
         Es war wirklich kontrovers, 
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         <h3>Keine HAs in Latein</h3>
         JAAAAAAAAA!!!! (wir waren ernsthaft schockiert)
         <h3>(zensiert)</h3>
@@ -1456,26 +1456,28 @@ const pagesNews = {
       weight: 1
     },
     '2026 kw 31': {
-      title: '8b-Zeitung - 2026, KW 31',
+      title: '9b-Zeitung - 2026, KW 31',
       content: `
-        Dies ist die 37. Ausgabe der 8b-Zeitung für KW 31 2026, von dem 27. bis zu dem 29. Juli 2026.
+        Dies ist die 37. Ausgabe der 9b-Zeitung für KW 31 2026, von dem 27. bis zu dem 29. Juli 2026.
         <h2>Normales</h2>
         <h3>Wandertag</h3>
         Dienstag war Wandertag. Er war ok
+        <h3>Letzter Tag</h3>
+        Mittwoch war der letzte Tag wo zuerst ein random Gottesdienst war dann Klassenlehrerstunde wo wir Zeugnisse bekommen haben und Jeopardy spielten und dann war schlechte Abschlusssache und dann sommerferien.
         <h2>Panik</h2>
         <h3>AMG Tag</h3>
         Der AMG Tag war am Montag aber er war langweilig.
-        <h2>8b-Sachen</h2>
+        <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
         <ul>
-          <li>Nein.</li>
+          <li>Ziemlich trivial eigentlich</li>
         </ul>
       `,
       categories: ['zeitungen'],
-      created: '2026-07-28',
-      edited: '2026-07-28',
+      created: '2026-08-01',
+      edited: '2026-08-01',
       related: [],
       weight: 1
     }

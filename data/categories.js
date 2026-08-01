@@ -1,27 +1,27 @@
 const categories = {
     'insider': {
       name: 'Insider',
-      description: 'Die verschiedenen Insider der 8b.'
+      description: 'Die verschiedenen Insider der 9b.'
     },
     'ereignisse': {
       name: 'Ereignisse',
-      description: 'Wichtige Ereignisse der 8b.'
+      description: 'Wichtige Ereignisse der 9b.'
     },
     'schüler': {
       name: 'Schüler',
-      description: 'Schüler in der 8b.'
+      description: 'Schüler in der 9b.'
     },
     'googologie': {
       name: 'Googologie',
-      description: 'Alles über große Zahlen in der 8b.'
+      description: 'Alles über große Zahlen in der 9b.'
     },
     'antimaterie': {
       name: 'Antimaterie',
       description: '???'
     },
     'spiele': {
-      name: '8b-Spiele',
-      description: 'Alle programmierten (oder anders entwickelten) Spiele der 8b.'
+      name: '9b-Spiele',
+      description: 'Alle programmierten (oder anders entwickelten) Spiele der 9b.'
     },
     'dummheit': {
       name: 'Dummheitsvorkommnisse',
@@ -29,10 +29,10 @@ const categories = {
     },
     'katastrophen': {
       name: 'Katastrophen',
-      description: 'Alles, was die 8b als Katastrophe bezeichnet.'
+      description: 'Alles, was die 9b als Katastrophe bezeichnet.'
     },
     'zeitungen': {
       name: 'Zeitungen',
-      description: `Alle Ausgaben der 8b-Zeitung. Pass auf: Lesen könnte verursachen.`
+      description: `Alle Ausgaben der 9b-Zeitung. Pass auf: Lesen könnte verursachen.`
     }
   };

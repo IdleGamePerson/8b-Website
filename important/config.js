@@ -14,7 +14,7 @@
 
     // ==================== CONFIG ====================
     const defaultConfig = {
-      site_title: 'Die 8b-Website'
+      site_title: 'Die 9b-Website'
     };
 
     let config = { ...defaultConfig };

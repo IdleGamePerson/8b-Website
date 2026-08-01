@@ -2,7 +2,7 @@ const pagesNSystem = {
     'n system': {
       title: 'n-System',
       content: `
-        Das n-System ist <strong>ein System</strong>. Es gibt jedem 8b-Schüler eine andere Bezeichnung.<br>
+        Das n-System ist <strong>ein System</strong>. Es gibt jedem 9b-Schüler eine andere Bezeichnung.<br>
         Diese Bezeichnungen sehen so aus: n(Zahl zw. 00 u. 99).<br>
         Sie werden benutzt für verschiedene Sachen wie z.B. <a href="#" onclick="event.preventDefault(); navigateTo('ofen')">Privatsphäre</a> von Typen.
         <div class="table-container">
@@ -122,7 +122,7 @@ const pagesNSystem = {
                 <td>n67</td>
                 <td>-</td>
                 <td>w</td>
-                <td>War in 8b, jetzt 8a</td>
+                <td>War in 9b, jetzt 9a</td>
               </tr>
               <tr>
                 <td><a href="#" onclick="event.preventDefault(); navigateTo('n69')">n69</a></td>
@@ -140,7 +140,7 @@ const pagesNSystem = {
                 <td>n75</td>
                 <td>5</td>
                 <td>m</td>
-                <td>War in 8a, jetzt 8b</td>
+                <td>War in 9a, jetzt 9b</td>
               </tr>
               <tr>
                 <td>n79</td>
@@ -216,9 +216,9 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n08 'ist' ein Schüler in der 8b. Auf der Klassenliste ist er in Position 24.<br>
-        Oh nein.<br>Er wollte mal mit einer 4 in Musik flexen (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 6')">8b-Zeitung</a>)<br>
-        Er hat aufgrund seiner eigenen Gehirnlosigkeit mal <a href="#" onclick="event.preventDefault(); navigateTo('n42')">n42</a> beleidigt (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 47')">8b-Zeitung</a>)<br>
+        n08 'ist' ein Schüler in der 9b. Auf der Klassenliste ist er in Position 24.<br>
+        Oh nein.<br>Er wollte mal mit einer 4 in Musik flexen (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 6')">9b-Zeitung</a>)<br>
+        Er hat aufgrund seiner eigenen Gehirnlosigkeit mal <a href="#" onclick="event.preventDefault(); navigateTo('n42')">n42</a> beleidigt (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 47')">9b-Zeitung</a>)<br>
         Er erfand <a href="#" onclick="event.preventDefault(); navigateTo('böb')">Böb</a>. Er ist sehr <a href="#" onclick="event.preventDefault(); navigateTo('quatschzeit')">quatschzeitmäßig</a>.
       `,
       categories: ['schüler', 'katastrophen', 'dummheit'],
@@ -243,10 +243,10 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n29 ist ein Schüler in der 8b. Auf der Klassenliste ist er in Position 8.<br>
-        Er führte dazu, dass <a href="#" onclick="event.preventDefault(); navigateTo('n90')">n90</a> die Klassensprecherwahl gewann (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 38')">8b-Zeitung</a>).<br>
-        Er zerstörte auch (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 13')">8b-Zeitung</a>)<br>
-        Er ist die Hauptstadt der 8b.<br>
+        n29 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 8.<br>
+        Er führte dazu, dass <a href="#" onclick="event.preventDefault(); navigateTo('n90')">n90</a> die Klassensprecherwahl gewann (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 38')">9b-Zeitung</a>).<br>
+        Er zerstörte auch (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 13')">9b-Zeitung</a>)<br>
+        Er ist die Hauptstadt der 9b.<br>
         Es hat <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 20')">939239928 Nobelpreise.</a>
       `,
       categories: ['schüler'],
@@ -271,7 +271,7 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n39 ist ein Schüler in der 8b. Auf der Klassenliste ist er in Position 22.<br>
+        n39 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 22.<br>
         Er erfand den Ofen (siehe <a href="#" onclick="event.preventDefault(); navigateTo('ofen')">Ofen</a> und gilt damit als eine der wichtigsten Menschen der Realität.<br>
         Er arbeitet als <b>Quader</b>, auf welche 10 Newton Kraft ausgeübt wird.<br>
         Er ist.
@@ -298,8 +298,8 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n42 ist ein Schüler in der 8b. Auf der Klassenliste ist er in Position 16.<br>
-        Er ist Eaay. Er wurde mal von <a href="#" onclick="event.preventDefault(); navigateTo('n08')">n08</a> beleidigt, weil n08 dumm ist (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 47')">8b-Zeitung</a>).
+        n42 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 16.<br>
+        Er ist Eaay. Er wurde mal von <a href="#" onclick="event.preventDefault(); navigateTo('n08')">n08</a> beleidigt, weil n08 dumm ist (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 47')">9b-Zeitung</a>).
         Er hat <a href="#" onclick="event.preventDefault(); navigateTo('tff3125')">TFF3125</a>, zusammen mit <a href="#" onclick="event.preventDefault(); navigateTo('n94')">n94</a>.<br>
         Er produzierte das <a href="#" onclick="event.preventDefault(); navigateTo('ipad-banach-tarski-paradoxon')">iPad-Banach-Tarsik-Paradoxon</a>.
         <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 20')">Les einfach</a>
@@ -326,7 +326,7 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n69 ist eine Schülerin in der 8b. Auf der Klassenliste ist sie in Position 17.<br>
+        n69 ist eine Schülerin in der 9b. Auf der Klassenliste ist sie in Position 17.<br>
         Sie ist auch Klassensprecherin.
       `,
       categories: ['schüler'],
@@ -351,9 +351,9 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n79 ist ein Schüler in der 8b. Auf der Klassenliste ist er in Position 14.<br>
-        Er sagte mal Oah 15 (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 19')">8b-Zeitung</a>)
-        Er ist der Mathelehrer (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 20')">8b-Zeitung</a>)<br>
+        n79 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 14.<br>
+        Er sagte mal Oah 15 (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 19')">9b-Zeitung</a>)
+        Er ist der Mathelehrer (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 20')">9b-Zeitung</a>)<br>
         Er bewies <a href="#" onclick="event.preventDefault(); navigateTo('latein')">n39's Beweis</a>.<br>
         Mit ihm kann man <a href="#" onclick="event.preventDefault(); navigateTo('photosynthese')">Photosynthese</a> machen.<br>
         Er noclippte mal in die <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 24')">Backrooms</a>.
@@ -380,8 +380,8 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n83 ist ein Schüler in der 8b. Auf der Klassenliste ist er in Position 9.<br>
-        Er spawnt oft, siehe alle 8b-Zeitungen ab 2026.<br>
+        n83 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 9.<br>
+        Er spawnt oft, siehe alle 9b-Zeitungen ab 2026.<br>
         <a href="#" onclick="event.preventDefault(); navigateTo('es gibt mehrere probleme in dieser realität und n83 verursachte alle')">Er verursachte auch alle Probleme in dieser Realität</a>. In den anderen? Können wir nicht wissen, wir sind in dieser.<br>
         Sein rechtlicher Name <a href="#" onclick="event.preventDefault(); navigateTo('n83 mit ß')">enthält ein ß</a>. Dem widersprechen ist wahrscheinlich eine Straftat.
       `,
@@ -407,10 +407,10 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n90 ist ein Schüler in der 8b. Auf der Klassenliste ist er in Position 27.<br>
-        Er ist auch ein Klassensprecher, größtenteils dank <a href="#" onclick="event.preventDefault(); navigateTo('n29')">n29</a> (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 38')">8b-Zeitung</a>).<br>
-        Er schrieb mal am 30.9.25 eine 4-5 in einem Englisch Vokabeltest (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 40')">8b-Zeitung</a>)<br>
-        Er ist eine Oper (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 21')">8b-Zeitung</a>)
+        n90 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 27.<br>
+        Er ist auch ein Klassensprecher, größtenteils dank <a href="#" onclick="event.preventDefault(); navigateTo('n29')">n29</a> (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 38')">9b-Zeitung</a>).<br>
+        Er schrieb mal am 30.9.25 eine 4-5 in einem Englisch Vokabeltest (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 40')">9b-Zeitung</a>)<br>
+        Er ist eine Oper (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 21')">9b-Zeitung</a>)
       `,
       categories: ['schüler'],
       created: '2026-03-27',
@@ -434,9 +434,9 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n94 ist ein Schüler in der 8b. Auf der Klassenliste ist er in Position 19.<br>
-        In Kunst machte er mal sein Zeug (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 6')">8b-Zeitung</a>)<br>
-        Er kann nicht deutschen (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 49')">8b-Zeitung</a>)
+        n94 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 19.<br>
+        In Kunst machte er mal sein Zeug (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 6')">9b-Zeitung</a>)<br>
+        Er kann nicht deutschen (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 49')">9b-Zeitung</a>)
         Er hat <a href="#" onclick="event.preventDefault(); navigateTo('tff3125')">TFF3125</a>, zusammen mit <a href="#" onclick="event.preventDefault(); navigateTo('n42')">n42</a>.<br>
         Er programmierte das <a href="#" onclick="event.preventDefault(); navigateTo('als obob spiel')">Als Obob Spiel</a>.
       `,
@@ -462,8 +462,8 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n97 ist ein Schüler in der 8b. Auf der Klassenliste ist er in Position 23.<br>
-        Sein Stammbaum ist laut Englischlehrer aus einem Flugzeug gefallen (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 13')">8b-Zeitung</a>).
+        n97 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 23.<br>
+        Sein Stammbaum ist laut Englischlehrer aus einem Flugzeug gefallen (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 13')">9b-Zeitung</a>).
       `,
       categories: ['schüler'],
       created: '2026-03-27',
@@ -487,8 +487,8 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n98 ist ein Schüler in der 8b. Auf der Klassenliste ist er in Position 20.<br>
-        Ihm ging es mal nicht gut (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 39')">8b-Zeitung</a>), aber dann ging es ihm wieder gut (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 42')">8b-Zeitung</a>).<br>
+        n98 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 20.<br>
+        Ihm ging es mal nicht gut (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 39')">9b-Zeitung</a>), aber dann ging es ihm wieder gut (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 42')">9b-Zeitung</a>).<br>
         Er hatte mal <a href="#" onclick="event.preventDefault(); navigateTo('geprüft & empfohlen sticker')">ACHT GANZE GEPRÜFT UND EMPFOHLEN STICKER!!!</a>
       `,
       categories: ['schüler'],

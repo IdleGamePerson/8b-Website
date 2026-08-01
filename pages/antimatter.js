@@ -44,15 +44,15 @@ const pagesAMatter = {
     'ph-wert': {
       title: 'pH-Wert',
       content: `
-        Der pH-Wert (vorherig 8b-Index genannt) ist <strong>ein System</strong> zur Bewertung von Dingen.<br>
+        Der pH-Wert (vorherig 9b-Index genannt) ist <strong>ein System</strong> zur Bewertung von Dingen.<br>
         <h2>Werte</h2>
         Werte können von 0 bis 14 sein.
         <h3>unter 7</h3>
-        Dies denotiert Anti-8b-mäßige Sachen. Etwas unter 7 bedeutet hier ein bisschen Anti-8b und weit unter 7 bedeutet sehr Anti-8b.
+        Dies denotiert Anti-9b-mäßige Sachen. Etwas unter 7 bedeutet hier ein bisschen Anti-9b und weit unter 7 bedeutet sehr Anti-9b.
         <h3>gleich 7</h3>
-        Dies denotiert Dinge, die in 8b-mäßigkeit neutral sind.
+        Dies denotiert Dinge, die in 9b-mäßigkeit neutral sind.
         <h3>über 7</h3>
-        Dies ist die Bezeichnung für etwas 8b-mäßiges. Etwas über 7 bedeutet hier ein bisschen 8b und weit über 7 bedeutet sehr 8b.
+        Dies ist die Bezeichnung für etwas 9b-mäßiges. Etwas über 7 bedeutet hier ein bisschen 9b und weit über 7 bedeutet sehr 9b.
         <h3>Also</h3>
         Kleine Werte sind schlecht und große sind gut.
         <blockquote>Welchen pH-Wert hat Antimaterie?</blockquote>
@@ -67,8 +67,8 @@ const pagesAMatter = {
       title: 'pH',
       redirectTo: 'ph-wert'  
     },
-    '8b-index': {
-      title: '8b-Index',
+    '9b-index': {
+      title: '9b-Index',
       redirectTo: 'ph-wert'  
     },
     'index': {
@@ -78,7 +78,7 @@ const pagesAMatter = {
     'fluch des tages': {
       title: 'Fluch des Tages',
       content: `
-        Der Fluch des Tages war <strong>ein Fluch</strong>. Er wurde jeden Tag von der 8b ausgewählt. Beispiele für Flüche des Tages:
+        Der Fluch des Tages war <strong>ein Fluch</strong>. Er wurde jeden Tag von der 9b ausgewählt. Beispiele für Flüche des Tages:
         <ul>
           <li>1+1 Fluch: Wenn man dem Mathelehrer "1+1" antwortet, wenn er fragt, was 1+1 ist.</li>
           <li>Intelligenzallergiker-Fluch: Wenn man denkt, dass 1+1 3 ist.</li>
