@@ -247,7 +247,7 @@ const pagesGames = {
             </div>
           </div>
         </div>
-        Zufälliger 2D Platformer (Z2P) ist <strong>ein 9b-Spiel.</strong><br>
+        <a href="https://idlegameperson.github.io/2D_Platformer/">Zufälliger 2D Platformer</a> (Z2P) ist <strong>ein 9b-Spiel.</strong><br>
         Nein es ist nicht Spelunky
         <h2>Räume</h2>
         Man spielt als ein Quadrat. Man startet in Raum 1 im oberen linken Feld. Räume sind quadratische Labyrinthe.<br>
@@ -263,13 +263,113 @@ const pagesGames = {
       `,
       categories: ['spiele'],
       created: '2026-07-26',
-      edited: '2026-07-26',
+      edited: '2026-08-09',
       related: [],
       weight: 1
     },
     'platformer': {
       title: 'Platformer',
       redirectTo: "zufälliger 2d platformer"
+    },
+    'ein ganz normales mathespiel': {
+      title: 'Ein ganz normales Mathespiel',
+      content: `
+        <div class="infobox">
+          <div class="infobox-header">Ein ganz normales Mathespiel</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Genre</span>
+              <span class="infobox-value">Roguelike</span>
+            </div>
+          </div>
+        </div>
+        <a href="https://idlegameperson.github.io/EGNM/">Ein ganz normales Mathespiel</a> (EGNM) ist <strong>ein 9b-Spiel.</strong><br>
+        In EGNM startet man in Runde 1 mit 30€, zwei von jeder Ziffer 0-9 und bestimmten Operatoren.
+        <h2>Eine Runde</h2>
+        In einer Runde gibt es eine Zahl und ein Ziel, welche am Anfang von jeder Runde zufällig zwischen 1 und 100*2<sup>Runde/10</sup> generiert werden.
+        Man schreibt mit seinen Ziffern eine Zahl (als "geschriebene Zahl" bezeichnet). Danach benutzt man eine seiner Operatoren, um die Zahl zu ändern, wonach die geschriebene Zahl wieder zurückgesetzt wird.<br>
+        Wenn die Zahl gleich dem Ziel ist, kommt man in die nächste Runde und erhält Geld, nämlich 8-12€ bei normalen Runden und 16-24€ bei Bosskämpfen.<br>
+        Es gibt auch einen Shop, wo man Ziffern und Operatoren kaufen kann, nämlich eine Ziffer für 3€ und Operatoren für die unten angegebenen Preise.
+        <h2>Operatoren</h2>
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <td>Operator</td>
+                <td>Startanzahl</td>
+                <td>Effekt</td>
+                <td>Kosten in Shop</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>+</td>
+                <td>2</td>
+                <td>Addiert</td>
+                <td>5€</td>
+              </tr>
+              <tr>
+                <td>-</td>
+                <td>2</td>
+                <td>Subtrahiert</td>
+                <td>5€</td>
+              </tr>
+              <tr>
+                <td>*</td>
+                <td>1</td>
+                <td>Multipliziert</td>
+                <td>8€</td>
+              </tr>
+              <tr>
+                <td>/</td>
+                <td>1</td>
+                <td>Dividiert und rundet ab</td>
+                <td>7€</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <h2>Bosskämpfe</h2>
+        Jede 10. Runde ist ein Bosskampf mit besonderen Bedingungen:
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <td>Chance</td>
+                <td>Bosskampf</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>40%</td>
+                <td>Du musst eine sehr große Zahl berechnen. (Start- und Endzahlen zwischen 100*2<sup>Runde/10</sup> und 100*2<sup>Runde/5</sup>)</td>
+              </tr>
+              <tr>
+                <td>30%</td>
+                <td>Du kannst einen Operator nicht benutzen. (je 7,5% Chance für +, -, * und /)</td>
+              </tr>
+              <tr>
+                <td>20%</td>
+                <td>Benutzungen erfordern 2 der Sache.</td>
+              </tr>
+              <tr>
+                <td>10%</td>
+                <td>Käufe sind doppelt so teuer.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <blockquote>Ich bin bei Raum 4 gestorben YEAH ENDLICH !!!!!!!!</blockquote>
+      `,
+      categories: ['spiele'],
+      created: '2026-08-09',
+      edited: '2026-08-09',
+      related: [],
+      weight: 1
+    },
+    'egnm': {
+      title: 'EGNM',
+      redirectTo: "ein ganz normales mathespiel"
     },
     "n42s rng": {
       title: "n42's RNG",
