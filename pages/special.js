@@ -4,10 +4,9 @@ const pagesSpecial = {
       content: `
         <p>Hallo auf der <b><strong>offiziellen 9b-Website</strong></b>.</p>
         <p>Hier findest du alle Insider und restliche Sachen der 9b.</p>
-        
-        Du kannst die Suchleiste oben benutzen oder das Durchsuchen-Dropdown-Menü nutzen um Zeug zu finden.
-
-        wie hat das über 100 Seiten
+        Du kannst die Suchleiste oben benutzen oder das Durchsuchen-Dropdown-Menü nutzen um Zeug zu finden.<br>
+        wie hat das über 100 Seiten<br><br>
+        <b>Diese Website ist mit der MIT-Lizenz lizenziert.</b> Kein Plan wofür du dies hier brauchen würdest aber trotzdem.
         <blockquote>Auch wenn eine Menge alle 9b-Insider enthält, ist es möglich, einen 9b-Insider zu finden, der nicht in der Menge ist.<br>   - Ein Mathematiker (wahrscheinlich).</blockquote>
       `,
       categories: [],
