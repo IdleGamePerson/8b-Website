@@ -65,6 +65,120 @@ const pagesGames = {
       related: [],
       weight: 1
     },
+    'time survival': {
+      title: 'Time Survival',
+      content: `
+        <div class="infobox">
+          <div class="infobox-header">Time Survival</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Genre</span>
+              <span class="infobox-value">Bullet Hell ig?</span>
+            </div>
+          </div>
+        </div>
+        Time Survival ist <strong>ein 9b-Spiel.</strong><br>
+        In Time Survival muss man so lange wie möglich überleben.<br>
+        Der Spieler ist ein X mit Geschwindigkeit 10km/h und 5 Leben, welcher mit WASD und den Pfeiltasten kontrolliert wird.
+        <h2>Kreise</h2>
+        Es gibt Kreise auf dem Bildschirm. Wenn man sie berührt, verliert man Leben. Auf 0 Leben stirbt man.<br>
+        Kreisarten:
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <td>Farbe</td>
+                <td>Erscheint ab _ Sek.</td>
+                <td>Geschwindigkeit</td>
+                <td>Besonderheit</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Grün</td>
+                <td>0</td>
+                <td>20km/h</td>
+                <td>Keine</td>
+              </tr>
+              <tr>
+                <td>Blau</td>
+                <td>20</td>
+                <td>6km/h</td>
+                <td>Folgt dem Spieler</td>
+              </tr>
+              <tr>
+                <td>Rot</td>
+                <td>30</td>
+                <td>6km/h</td>
+                <td>Nimmt 3 Leben</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <h2>Items</h2>
+        Nach 10 Sekunden können Items erscheinen. Items bewegen sich mit 10km/h auf dem Bildschirm.<br>
+        Man hat ein Item-Inventar, welches 3 Items enthalten kann. Man kann sie mit den Tasten 1, 2 und 3 benutzen.
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <td>Item</td>
+                <td>Chance</td>
+                <td>Dauer</td>
+                <td>Effekt</td>
+                <td>Details</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Herz</td>
+                <td>50%</td>
+                <td>-</td>
+                <td>+1 Leben</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>Apfel</td>
+                <td>10%</td>
+                <td>2s</td>
+                <td>Geschwindigkeitsboost</td>
+                <td>+60%</td>
+              <tr>
+                <td>Stachelball</td>
+                <td>10%</td>
+                <td>-</td>
+                <td>10 verteidigende Stachelbälle erscheinen</td>
+                <td>Berühren sie Kreise, zerstören sie den Kreis und sich selbst. Können auch Items zerstören.</td>
+              <tr>
+                <td>Blitz</td>
+                <td>10%</td>
+                <td>1s</td>
+                <td>Blaue Kreise werden verwirrt</td>
+                <td>Bewegen sich nicht mehr</td>
+              <tr>
+                <td>Uhr</td>
+                <td>10%</td>
+                <td>1s</td>
+                <td>Zeitverschiebung</td>
+                <td>Kreisgeschwindigkeit -50%</td>
+              <tr>
+                <td>Schild</td>
+                <td>10%</td>
+                <td>1s</td>
+                <td>Unendlich Leben</td>
+                <td>-</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <blockquote>Ich hab nix zu sagen also erwähne ich einfach mal die Zahl 9</blockquote>
+      `,
+      categories: ['spiele'],
+      created: '2026-08-22',
+      edited: '2026-08-22',
+      related: [],
+      weight: 1
+    },
     'vermeidungssimulator': {
       title: 'Vermeidungssimulator',
       content: `
