@@ -356,7 +356,8 @@ const pagesNSystem = {
         Er ist der Mathelehrer (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 20')">9b-Zeitung</a>)<br>
         Er bewies <a href="#" onclick="event.preventDefault(); navigateTo('latein')">n39's Beweis</a>.<br>
         Mit ihm kann man <a href="#" onclick="event.preventDefault(); navigateTo('photosynthese')">Photosynthese</a> machen.<br>
-        Er noclippte mal in die <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 24')">Backrooms</a>.
+        Er noclippte mal in die <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 24')">Backrooms</a>.<br>
+        Er hat mit <a href="#" onclick="event.preventDefault(); navigateTo('n94')">n94</a> eine geplante Hochzeit.
       `,
       categories: ['schüler'],
       created: '2026-03-27',
@@ -438,7 +439,8 @@ const pagesNSystem = {
         In Kunst machte er mal sein Zeug (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 6')">9b-Zeitung</a>)<br>
         Er kann nicht deutschen (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 49')">9b-Zeitung</a>)
         Er hat <a href="#" onclick="event.preventDefault(); navigateTo('tff3125')">TFF3125</a>, zusammen mit <a href="#" onclick="event.preventDefault(); navigateTo('n42')">n42</a>.<br>
-        Er programmierte das <a href="#" onclick="event.preventDefault(); navigateTo('als obob spiel')">Als Obob Spiel</a>.
+        Er programmierte das <a href="#" onclick="event.preventDefault(); navigateTo('als obob spiel')">Als Obob Spiel</a>.<br>
+        Er hat mit <a href="#" onclick="event.preventDefault(); navigateTo('n79')">n79</a> eine geplante Hochzeit.
       `,
       categories: ['schüler'],
       created: '2026-03-27',
